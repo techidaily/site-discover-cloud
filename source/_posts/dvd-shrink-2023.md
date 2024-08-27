@@ -1,7 +1,7 @@
 ---
 title: 「DVD Shrink 2023年リリース：日本語対応公開！インストールガイド詳細に。
-date: 2024-08-24 19:44:12
-updated: 2024-08-27 12:23:22
+date: 2024-08-26T15:47:23.436Z
+updated: 2024-08-27T15:47:23.436Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849f8a20bc7170c2547e3c8b5d.jpg
@@ -55,6 +55,9 @@ DVD Shrink日本語版のDL先は、下記の通り。
 
 ![DVD Shrink日本語版インストール](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-1030-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 **Step1：**DVDシュリンク日本語化パッチDVD Shrink 3.2をサイトから無料ダウンロードされてから、解凍を行ってください。
 
 「dvdshrink32\_jp\_setup.exe」を起動してインストーラーを立ち上げてください。するとセットアップ－DVD Shrinkというような画面が出てくる。「次へ」をクリックしてください。立ち上げ画面から「次へ」を選択するとライセンスしよう許諾というような画面が表示される。
@@ -79,6 +82,10 @@ DVD Shrink日本語化パッチのインストールが完了すると、DVD Shr
 
 ![DVD Shrink日本語](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-1030-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 **Step1：**保存したいディスクをドライブに入れ、「ディスクを開く」を選択する。
 
 **Step2：**DVDドライブを選択して、「OK」ボタンをクリックする。クリックすると、自動的に解析が始まる。
@@ -95,6 +102,9 @@ DVD Shrink日本語化パッチのインストールが完了すると、DVD Shr
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## DVD Shrink日本語化できない・DVD Shrink 3.2使えない場合の対処方法
 
 バージョン情報を確認しても、DVD Shrink日本語版にできないことにあったら、二つの対処方法がある。一つは、英語版（3.2.0.15）をダウンロードしてインストールを行ってください。もう一つはDVDShrinkと同様な機能を持つソフトに乗り換える。
@@ -125,6 +135,9 @@ DVD Shrink日本語版ダウンロードエラー、DVD Shrink Windows11使え�
 
 ![DVD Shrink日本語](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-yrq-0306.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 **Step1：**左上にある**「ディスク」**アイコンをクリックし、リッピングしたいDVDをソフトに読み込ませて、DVD種類を選択する画面が表示され、そこにある**「自動検出」**にチェックを入れて、**「OK」**をクリックすればOK。
 
 もし「自動検出」にチェックを入れても、DVDをリッピングできないなら、**「強制ISO」**にチェックを入れてもう一度試してみてください。
@@ -145,6 +158,9 @@ DVD Shrink日本語化できない時の対策｜代替ソフトおすすめ、m
 
 ![DVD Shrink日本語化](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-yrq-030601.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step1：**「DVD追加」ボタンをクリックしてから、コピーしたいファイル（DVD、ISO、フォルダ三つで形式でファイルを読み込める）を追加する。そして、DVD種類を選択する画面が表示され、そこにある**「自動検出」**にチェックを入れて、**「OK」**をクリックすればOK。もし「自動検出」にチェックを入れても、DVDをリッピングできないなら、**「強制ISO」**にチェックを入れてもう一度試してみてください。
 
 **Step2：**[コピーガードが解除](https://tools.techidaily.com/macxdvd/products/)されたら、出力プロファイルの窓口が出てきた。そして、「Macの通常映像」⇒「MP4動画（MPEG4）」⇒「MP4動画（H264）」⇒「完了」の順でクリックしたら結構！
@@ -169,10 +185,17 @@ DVDシュリンクが対応するコピーガード（CSS、リージョンコ�
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## あなたへのおすすめ
 
 ![](https://www.macxdvd.com/blog/img/dvd-shrink-error-0505.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 [DVD Shrinkエラーで読み込め・コピーできない時の対処方法](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/blog/img/dvd-shrink-windows-10-yrq.jpg) 
@@ -185,6 +208,9 @@ DVDシュリンクが対応するコピーガード（CSS、リージョンコ�
 
 ![](https://www.macxdvd.com/blog/img/any-video-converter-0426-03.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [AnyDVDを初めて使われる方を対象としてAnyDVDの使い方について解説](https://tools.techidaily.com/macxdvd/products/)
 
 
