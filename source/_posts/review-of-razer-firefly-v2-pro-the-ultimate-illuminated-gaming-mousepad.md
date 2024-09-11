@@ -1,7 +1,7 @@
 ---
 title: "Review of Razer Firefly V2 Pro: The Ultimate Illuminated Gaming Mousepad"
-date: 2024-09-05T10:43:52.530Z
-updated: 2024-09-06T10:43:52.530Z
+date: 2024-09-10T08:53:45.446Z
+updated: 2024-09-11T08:53:45.446Z
 tags:
   - product-reviews
 categories:
@@ -11,18 +11,6 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
 ## Review of Razer Firefly V2 Pro: The Ultimate Illuminated Gaming Mousepad
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Razer Firefly V2 Pro offers edge-to-edge RGB lighting for a premium price of $99.99.
@@ -34,6 +22,20 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 ![Razer Firefly V2 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/81xmmfr00wl-_ac_sl1500_.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Razer Firefly V2 Pro
 
@@ -54,12 +56,6 @@ The Razer Firefly V2 Pro is the world's first LED backlit gaming mouse mat.
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price and Availability** 
 
  The Razer Firefly V2 Pro is available now in black from [Amazon](https://www.amazon.com/Razer-Firefly-Fully-Illuminated-Gaming/dp/B0CY6RJRBR/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003319&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frazer-firefly-v2-pro-review%2F&asc%5Fcampaign=Authority) or black or white colors from [Razer](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2003319&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fgaming-mouse-mats%2FRazer-Firefly-V2-Pro%2FRZ02-04920200-R3M1). The mousepad retails for $99.99 in each color. In the box, you get the mousepad and a USB-C to USB-A cable.
@@ -92,21 +88,43 @@ The Razer Firefly V2 Pro is the world's first LED backlit gaming mouse mat.
 
 Expand 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## **Set Up and Software** 
 
 ![the-razer-firefly-v2-pro-with-cable-and-box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/02-the-razer-firefly-v2-pro-with-cable-and-box_53678321366_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  At the top rear of the Firefly V2 Pro is a USB-C port, as well as a USB-A port. You plug the included USB-C to USB-A cable into the USB-C port on the back of the mousepad and then the USB-A port into your Windows 10 or 11 computer. The integrated USB-A 2.0 port on the mousepad can then be used to plug in a mouse or keyboard, wired or wireless. In my case, I plugged in the USB dongle from my [Logitech G915 Mechanical Gaming Keyboard](https://www.amazon.com/Logitech-Mechanical-LIGHTSYNC-LIGHTSPEED-Bluetooth/dp/B07NY9ZWXQ/ref=sr%5F1%5F1%5Fsspa?crid=N0CF2U4V7H88&dib=eyJ2IjoiMSJ9.2MH76OpA6JW0vl6IjNJjESXpBDZO-xfK4MTGKwWP8UQ-wHC4H-Ikm02OZQ1U892301d10o4Dbd-qO7UtMLt2-0BEug8OGps2dcMKMLilJevVKv5rUAUZOvmwP4nTHvkgFttS3Kh6y5wZ823DpyVVE59NPUoNVOxb4dYQW6aGKNgTOzhihPrtMtZX-jx3yzCqMAu-A%5FnqRu4XJAG7GTD9Kux9Q8PLNe8sHU3vQODlOWg.jT7uYomfJ4ejxWjavR5ObE1FYkoV5GdD2xI-jR6jA1w&dib%5Ftag=se&keywords=logitech%2Bg915&qid=1716564487&sprefix=logitech%2Bg915%2Caps%2C118&sr=8-1-spons&sp%5Fcsd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003319&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frazer-firefly-v2-pro-review%2F&asc%5Fcampaign=Authority) and noted no performance issues.
 
 ![the-razer-firefly-v2-pro-usb-ports](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-razer-firefly-v2-pro-usb-ports_53678540408_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Jerome Thomas / How-To Geek
 
@@ -120,27 +138,55 @@ Close
 
  As with other Gamer Room products, the Firefly V2 Pro can react to events in specific games. While the [game list](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2003319&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fchroma-workshop%23--games) isn't particularly long, when a game is supported, the effects can be quite fun to experience. For instance, in "Baldur's Gate 3," among other effects, the mousepad's colors will change depending upon the success or failure of a dice roll. Since the lighting is literally on your desktop and by your hand, it's not as noticeable as something like the Aether Monitor Light Bar or [Aether Lamp Pro](https://www.amazon.com/Razer-Aether-Lamp-Pro-Multi-Zone-PC/dp/B0CHWPHNPQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003319&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frazer-firefly-v2-pro-review%2F&asc%5Fcampaign=Authority), but it's still a nice option to have and does work well in concert with those other devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance** 
 
 ![gaming-mouse-on-therazer-firefly-v2-pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  Whether soft, such as cloth, or hard, such as glass, there are a wide variety of mouse pad surfaces available. Although not glass, the polycarbonate surface on the Firefly V2 Pro reminds me a lot of my [Gcsyo Glass Gaming Mousepad](https://www.amazon.com/gp/product/B0BG86HBDL/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003319&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frazer-firefly-v2-pro-review%2F&asc%5Fcampaign=Authority), just not as cool to the touch. The Firefly V2 Pro's surface has a slight grit to it, both allowing for excellent tracking and for my mouse's PTFE feet to glide smoothly. Although it may be a tight fit on some desktops, its generous 14.17- by 10.95-inch dimensions mean you have plenty of surface to mouse around on.
 
  In terms of lighting, I found it to be bright and even. The ring outside the surrounding surface is naturally the brightest and similar to the lower-end [Firefly Hard V2 mouse pad](https://www.amazon.com/Razer-Firefly-Gaming-Mouse-Built/dp/B07ZDWHL4M/ref=sr%5F1%5F1?crid=1RPPWERAFM3DO&dib=eyJ2IjoiMSJ9.OLXAaYQXLqOal3UKTxkPtDXcuGVgLimQE007oNvvE4uiY8XvC4ObuvM5hZRH9l0zqmWyB714ut%5FkidDfkCI%5FUwJl0D4zOXtqWk6%5FO5vIGx8quWefebE5h3t9boihEemT%5Fyvbyr5fUVMDK5a2El4Qilkvhk7SoQUEduQQvQTYK5OCFOPmA%5F3VOv8zSJFPbqQ6c7qsAsxlvYRKaGsm2PBQOuKzdtopMHnR2jXkhPn2UP8.g0R3lQA%5FgVw0YKosvRi4y1RifnR0rJdrHj2QHEF1JHE&dib%5Ftag=se&keywords=razer%2Bfirefly%2Bmouse%2Bpad&qid=1716567175&s=electronics&sprefix=razer%2Bfirefly%2Bmouse%2Bpad%2Celectronics%2C127&sr=1-1&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003319&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frazer-firefly-v2-pro-review%2F&asc%5Fcampaign=Authority), but the big differentiator is that, thanks to its 15-zone lighting, the colors go across the entirety of the darkened mouse pad surface. While it doesn't look quite as impressive in a bright room, and certain colors, such as green, pop better than others, Razer has done a fantastic job balancing the surface quality with the lighting effects.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## **Should You Buy the Razer Firefly V2 Pro?** 
 
@@ -148,13 +194,21 @@ Jerome Thomas / How-To Geek
 
 ![Razer Firefly V2 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/81xmmfr00wl-_ac_sl1500_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Razer Firefly V2 Pro
 

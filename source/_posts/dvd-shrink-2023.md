@@ -1,11 +1,25 @@
 ---
 title: 「DVD Shrink 2023年リリース：日本語対応公開！インストールガイド詳細に。
-date: 2024-09-05T10:43:53.055Z
-updated: 2024-09-06T10:43:53.055Z
+date: 2024-09-10T08:53:45.711Z
+updated: 2024-09-11T08:53:45.711Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849f8a20bc7170c2547e3c8b5d.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 「DVD Shrink 2023年リリース：日本語対応公開！インストールガイド詳細に。
 
@@ -13,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 ## 2024 DVD Shrink日本語版公開！DVD Shrink日本語化パッチ・インストール手順・使用方法まとめ
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## DVD Shrink日本語化ファイル公開！ダウンロードしたい？！
 
 「DVDシュリンク日本語版ってもうインストールできないんであるのか？さっきしたら英語でした。 」「DVD Shrink日本語版をダウンロードしたくてどのようにしたら良いのだろうか。回答よろしくお願い」「DVD Shrink日本語化したくて、ファイルをダウンロードして、DVD Shrinkをインストールしようとすると途中で、問題が発生したため。動作しなくなってしまった。インストールもできない。何か良い方法があるのか。」「DVD Shrink3.2.0.16日本語版をダウンロードしセットアップしたが。起動しようとするとうまくいけない。VistaからWindows11にアップロードしてから。10に対応しているものを教えてください。」「DVDシュリンク日本語版（ver.3.2.0.16）をダウンロードして解凍したが、DVDをパソコンへの保存の仕方がわからない」と質問した人は少なくないだろう。
@@ -38,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2024 DVD Shrink日本語化パッチ・インストール手順
 
 ① 日本語版DVD Shrink 3.2ダウンロード：
@@ -66,6 +68,20 @@ DVD Shrink日本語版のDL先は、下記の通り。
 ② 日本語版DVD Shrink 3.2のインストール方法
 
 ![DVD Shrink日本語版インストール](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-1030-02.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 **Step1：**DVDシュリンク日本語化パッチDVD Shrink 3.2をサイトから無料ダウンロードされてから、解凍を行ってください。
 
@@ -91,12 +107,20 @@ DVD Shrink日本語化パッチのインストールが完了すると、DVD Shr
 
 ![DVD Shrink日本語](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-1030-03.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 **Step1：**保存したいディスクをドライブに入れ、「ディスクを開く」を選択する。
 
 **Step2：**DVDドライブを選択して、「OK」ボタンをクリックする。クリックすると、自動的に解析が始まる。
@@ -113,12 +137,6 @@ DVD Shrink日本語化パッチのインストールが完了すると、DVD Shr
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## DVD Shrink日本語化できない・DVD Shrink 3.2使えない場合の対処方法
 
 バージョン情報を確認しても、DVD Shrink日本語版にできないことにあったら、二つの対処方法がある。一つは、英語版（3.2.0.15）をダウンロードしてインストールを行ってください。もう一つはDVDShrinkと同様な機能を持つソフトに乗り換える。
@@ -131,16 +149,38 @@ DVD Shrink日本語ファイルの代わりを探すのが賢明。例えば、�
 
 [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 100%安全
 
 [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-win.png)](https://tools.techidaily.com/macxdvd/products/) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 100%安全
 
 MacX DVD Ripper Pro for Windowsは日本語に対応し、ソフトウェアをインストールしてから、ディスクトップの上部にある「help」をクリックして、言語を日本語に設定できる。その他、パワフルなコピーガード解除力を持ち、家庭用DVD（DVD9、DVD5）は勿論、最新レンタルDVD、99つタイトルのあるDVD、日本独自DVD、スポーツ・フィットネス/ワークアウト系DVD、リージョンコード、CSS、RCE、ソニーArccOS、新しいディズニーコピーガードなどがかかっているDVDディスクにも対応している。
@@ -155,18 +195,6 @@ DVD Shrink日本語版ダウンロードエラー、DVD Shrink Windows11使え�
 
 ![DVD Shrink日本語](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-yrq-0306.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step1：**左上にある**「ディスク」**アイコンをクリックし、リッピングしたいDVDをソフトに読み込ませて、DVD種類を選択する画面が表示され、そこにある**「自動検出」**にチェックを入れて、**「OK」**をクリックすればOK。
 
 もし「自動検出」にチェックを入れても、DVDをリッピングできないなら、**「強制ISO」**にチェックを入れてもう一度試してみてください。
@@ -187,6 +215,26 @@ DVD Shrink日本語化できない時の対策｜代替ソフトおすすめ、m
 
 ![DVD Shrink日本語化](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-yrq-030601.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 **Step1：**「DVD追加」ボタンをクリックしてから、コピーしたいファイル（DVD、ISO、フォルダ三つで形式でファイルを読み込める）を追加する。そして、DVD種類を選択する画面が表示され、そこにある**「自動検出」**にチェックを入れて、**「OK」**をクリックすればOK。もし「自動検出」にチェックを入れても、DVDをリッピングできないなら、**「強制ISO」**にチェックを入れてもう一度試してみてください。
 
 **Step2：**[コピーガードが解除](https://tools.techidaily.com/macxdvd/products/)されたら、出力プロファイルの窓口が出てきた。そして、「Macの通常映像」⇒「MP4動画（MPEG4）」⇒「MP4動画（H264）」⇒「完了」の順でクリックしたら結構！
@@ -203,39 +251,63 @@ DVD Shrink日本語化できない時の対策｜代替ソフトおすすめ、m
 
 ![](https://www.macxdvd.com/blog/../seoimage/dvd-ripperu.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ### DVD Shrink日本語化できない時の対策：MacX DVD Ripper Windows
 
 DVDシュリンクが対応するコピーガード（CSS、リージョンコード、RCE、ソニーArccOS、UOPs）を解除できる他、容量偽装、ディズニーX-projection DRM、ワークアウト系／日本独自DVDなどといった最強のDVDコピーガードも解除できる。また、Windows11にも対応し、DVD Shrink Windows11使えないエラーを解消できる。それでWindows11にアップグレードした方は、自作DVD／レンタル・市販DVDをMP4、MOV、AVI、WMV、MKV、FLV、M4V、MP3に変換できる。
 
 [![](https://www.macxdvd.com/blog/new-fourteen/mac.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/winx.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 
 ## あなたへのおすすめ
 
 ![](https://www.macxdvd.com/blog/img/dvd-shrink-error-0505.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 [DVD Shrinkエラーで読み込め・コピーできない時の対処方法](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/blog/img/dvd-shrink-windows-10-yrq.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 [DVD Shrink Windows11使えない原因及び対策はこちら](https://tools.techidaily.com/macxdvd/products/)
 
