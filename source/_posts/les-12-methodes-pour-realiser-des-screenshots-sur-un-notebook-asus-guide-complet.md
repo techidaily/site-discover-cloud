@@ -1,7 +1,7 @@
 ---
 title: "Les 12 Méthodes Pour Réaliser Des Screenshots Sur Un Notebook ASUS : Guide Complet"
-date: 2024-09-09T05:14:40.152Z
-updated: 2024-09-16T09:05:23.540Z
+date: 2024-09-13T19:49:53.546Z
+updated: 2024-09-20T22:42:58.462Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c802ff6728e9e3d8c452deddb.jpg
@@ -210,6 +210,19 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -227,6 +240,13 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -254,13 +274,6 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -284,6 +297,13 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -351,13 +371,6 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -375,13 +388,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -427,6 +433,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -476,29 +489,9 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -518,6 +511,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -586,19 +586,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-asus-proart-pa32u-4k-hdr-professional-monitor-review/"><u>[New] ASUS ProArt PA32U 4K HDR Professional Monitor Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-record-your-powerpoint-presentation/"><u>[New] In 2024, Step-by-Step Record Your PowerPoint Presentation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nderstanding-the-income-framework-that-supports-tseries-youtube-success-for-2024/"><u>[New] Understanding the Income Framework that Supports TSeries' Youtube Success for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-screen-excellence-in-ppro-video-editing/"><u>2024 Approved Full Screen Excellence in PPro Video Editing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/googlewindows-11/"><u>透過什麼方式成功在Google上下載Windows 11 免費畫質和高解析度背景</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/a-step-by-step-guide-converting-iso-files-into-avi-format-maintaining-superior-image-clarity/"><u>A Step-by-Step Guide: Converting ISO Files Into AVI Format Maintaining Superior Image Clarity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions-for-2024/"><u>Comprehensive Approach to Integrating Whiteboards in Zoom Sessions for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-find-x7-ultra-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo Find X7 Ultra Phone?</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/la-scelta-migliore-per-la-conversione-gratuitamente-dvd-in-formati-multimediali-su-windows-i-vostri-3-top-picks/"><u>La Scelta Migliore per La Conversione Gratuitamente DVD in Formati Multimediali Su Windows: I Vostri 3 Top Picks</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/le-meilleur-outil-de-winx-mediatrans-transferez-sans-probleme-photos-videos-musique-et-ibooks-des-appareils-ios-vers-windows-10/"><u>Le Meilleur Outil De WinX MediaTrans - Transférez Sans Problème Photos, Vidéos, Musique Et iBooks Des Appareils iOS Vers Windows 10</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/syncing-your-youtube-watchlist-with-instagram-feed-for-2024/"><u>Syncing Your YouTube Watchlist with Instagram Feed for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/take-control-of-time-top-10-free-video-speed-manipulation-apps-for-mobile/"><u>Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/top-10-reliable-convertors-transforming-mkv-to-mp4-on-pcs-and-macs/"><u>Top 10 Reliable Convertors: Transforming MKV to MP4 on PCs and Macs</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transformacion-instantanea-de-archivo-mkv-en-formato-avi-utilizando-vlc-media-player-sin-signos-de-marcado/"><u>Transformación Instantánea De Archivo MKV en Formato AVI Utilizando VLC Media Player Sin Signos De Marcado</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elite-10-audio-amplifiers-desktops-to-smartphones/"><u>[New] 2024 Approved Elite 10 Audio Amplifiers Desktops to Smartphones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-simplified-pathway-using-instagram-live-effectively/"><u>[New] In 2024, Simplified Pathway Using Instagram Live Effectively</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-understanding-and-enabling-fbs-auto-video-functionality/"><u>[New] Understanding and Enabling Fb's Auto-Video Functionality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>2024 Approved The Ultimate PowerDirector '24 Review A Comprehensive Dive</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/conversione-gratuita-file-wmv-a-formato-asf-guida-completa-online/"><u>Conversione Gratuita File WMV a Formato ASF: Guida Completa Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expertly-crafted-cloud-microphones-for-2024/"><u>Expertly-Crafted Cloud Microphones for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/free-online-audio-file-converter-convert-m4b-and-wma-to-various-formats-with-movavi/"><u>Free Online Audio File Converter: Convert M4B & WMA to Various Formats with Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-organization-with-mematics-toolkit-for-2024/"><u>Master Organization with Mematic's Toolkit for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mastering-the-art-of-capturing-desktop-footage-tips-and-tricks-with-movavi-software/"><u>Mastering the Art of Capturing Desktop Footage - Tips & Tricks with Movavi Software</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/os-melhores-editadores-de-videos-do-iphone-escolhidos-pelos-usuarios-analise-diligentemente-feita-pela-movavi/"><u>Os Melhores Editadores De Vídeos Do IPhone Escolhidos Pelos Usuários: Análise Diligentemente Feita Pela Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solutions-addressing-hewlett-packard-monitor-driver-errors-in-windows/"><u>Step-by-Step Solutions: Addressing Hewlett-Packard Monitor Driver Errors in Windows</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/telecharger-et-convertir-des-fichiers-mmf-en-mp3-gratuitement-guide-complet-de-movavi/"><u>Télécharger Et Convertir Des Fichiers MMF en MP3 Gratuitement – Guide Complet De Movavi</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/the-best-2d-animating-tools-free-trials-and-subscription-services-available-now/"><u>The Best 2D Animating Tools: Free Trials and Subscription Services Available Now</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/transforma-gratis-tus-imagenes-jpeg-a-bmp-rapida-y-facilmente-usando-movavis-herramientas-online/"><u>Transforma Gratis Tus Imágenes JPEG a BMP Rápida Y Fácilmente Usando Movavi's Herramientas Online</u></a></li>
 </ul></div>
 

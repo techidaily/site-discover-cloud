@@ -1,7 +1,7 @@
 ---
 title: "Graça: Transformar Imagens Em Formato GSM On-Line Com O Movavi"
-date: 2024-09-12T07:42:18.604Z
-updated: 2024-09-16T13:09:56.896Z
+date: 2024-09-17T13:11:31.875Z
+updated: 2024-09-21T00:45:49.407Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbefdaf01df729929788c56ed4e.jpeg
@@ -176,19 +176,6 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -228,10 +215,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
@@ -247,13 +234,6 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -314,6 +294,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -350,13 +337,6 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -396,6 +376,13 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -406,6 +393,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -428,13 +422,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Double-cliquez sur la valeur **REG\_DWORD EnablePrefetcher**.
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -499,6 +486,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -586,19 +580,14 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-price-efficiency-index-top-cloud-stores-of-the-year/"><u>[New] Price-Efficiency Index Top Cloud Stores of the Year</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-25-groundbreaking-metaverse-initiatives-for-comprehension/"><u>[Updated] In 2024, 25 Groundbreaking Metaverse Initiatives for Comprehension</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-cloning-voices-with-hugging-face-features-guidance-alternatives/"><u>2024 Approved Cloning Voices With Hugging Face Features, Guidance, Alternatives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-look-up-tables-enhancing-visual-storytelling/"><u>2024 Approved Look-Up Tables Enhancing Visual Storytelling</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/aitop5-60144fps/"><u>AIパワーアップに最適のフレーム補間ツールTOP5! スムーズな動きを実現するため60～144fpsへ強化</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/die-top-6-gratiskmp4-konvertierungswerkzeuge-fur-videodateien/"><u>Die Top 6 Gratiskmp4 Konvertierungswerkzeuge Für Videodateien</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/easy-guide-capturing-and-streaming-videos-with-audio-across-pc-mac-ios-and-android/"><u>Easy Guide: Capturing and Streaming Videos with Audio Across PC, Mac, iOS & Android</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/guia-simple-para-rotar-videos-mp4-a-cualquier-angulo-con-el-maximo-detalle-intacto-90-180-o-270-grados/"><u>Guía Simple Para Rotar Videos MP4 a Cualquier Ángulo Con El Máximo Detalle Intacto: 90, 180 O 270 Grados</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-find-n3-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Find N3 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-90-gt-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor 90 GT with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transformer-des-fichiers-ts-en-mp4-precise-and-propre-guide-integral-pour-une-qualite-optimale/"><u>Transformer Des Fichiers TS en MP4 Précise & Propre : Guide Intégral Pour Une Qualité Optimale</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/ultimate-dvd-ripping-solution-winx-dvd-ripper-platinum-professional-hevc-h265-and-h264-encoding-in-5-minutes-flat/"><u>Ultimate DVD Ripping Solution - WinX DVD Ripper Platinum: Professional HEVC (H.265) & H.264 Encoding in 5 Minutes Flat</u></a></li>
-<li><a href="https://common-error.techidaily.com/uninstalling-issue-with-windows-11-v1607-upgrade-troubleshooting-steps/"><u>Uninstalling Issue with Windows 11 v1607 Upgrade: Troubleshooting Steps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oneplus-12s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your OnePlus 12s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unveiling-natures-digital-canvas-a-novices-starter-on-green-screen-technology/"><u>2024 Approved Unveiling Nature's Digital Canvas A Novice's Starter on Green Screen Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-leading-secure-email-platforms-for-enhanced-cybersecurity/"><u>Discover the Leading Secure Email Platforms for Enhanced Cybersecurity</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-nvidia-rtx-3080-driver-best-performance-on-windows-1187/"><u>Download Updated NVIDIA RTX 3080 Driver - Best Performance on Windows 11/8/7</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/gratuit-gebaseerd-mpe-konverter-naar-mp4-efficient-online-voorbeelden-met-movavi/"><u>Gratuit Gebaseerd MPE-Konverter Naar MP4: Efficiënt Online Voorbeelden Met Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/idevice-not-receiving-new-updates-learn-these-9-troubleshooting-tips-immediately/"><u>IDevice Not Receiving New Updates? Learn These 9 Troubleshooting Tips Immediately!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mpewmv/"><u>MPE/WMVファイルを自由に変換:オンラインで簡単行う方法</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-sight-of-sd-card-in-windows-filesystem/"><u>Reclaim Sight of SD Card in Windows Filesystem</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/transformacion-gratuita-de-audio-desde-dts-hasta-wav-con-la-herramienta-en-linea-de-convertir-audio-de-movavi/"><u>Transformación Gratuita De Audio Desde DTS Hasta WAV Con La Herramienta en Línea De Convertir Audio De Movavi</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/trier-sans-frais-transformez-votre-image-png-en-format-gif-avec-des-convertisseurs-web-mouvavi/"><u>Trier Sans Frais: Transformez Votre Image PNG en Format GIF Avec Des Convertisseurs Web - Mouv'Avi</u></a></li>
 </ul></div>
 

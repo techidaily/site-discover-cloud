@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Time-Lapse Photography with These 2 Straightforward Methods
-date: 2024-09-09T16:02:32.680Z
-updated: 2024-09-15T17:32:41.584Z
+date: 2024-09-16T12:07:48.826Z
+updated: 2024-09-21T01:45:34.030Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef1524e233743a9045ce3a1167e9.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -253,13 +260,6 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -325,13 +325,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -341,10 +334,10 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optez pour un SSD
@@ -359,6 +352,13 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -372,6 +372,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -393,6 +400,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -431,13 +445,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -530,19 +537,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -586,19 +580,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-rising-stars-secrets-crafting-top-tier-desktop-tiktok-videos/"><u>[New] Rising Stars' Secrets Crafting Top-Tier Desktop TikTok Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-comprehensive-guide-to-attractive-and-engaging-instagram-puzzle-feeds-for-2024/"><u>[New] The Comprehensive Guide to Attractive and Engaging Instagram Puzzle Feeds for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-meta-and-omni-versions/"><u>[New] The Ultimate Guide to Meta & Omni Versions</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-grasping-social-media-success-basic-facebook-statistics/"><u>[Updated] Grasping Social Media Success Basic Facebook Statistics</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-to-cloud-storage-pricing-comparisons-for-2024/"><u>[Updated] The Ultimate Guide to Cloud Storage Pricing Comparisons for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/convertidor-magico-de-dvd-a-mp4-con-winx-acabado-platino-rapido-32x-en-sistemas-windows-10/"><u>Convertidor Mágico De DVD a MP4 Con WinX - Acabado Platino Rápido 32X en Sistemas Windows 10</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1725287889928-dvd/"><u>DVD映像保護方法：種々のタイプと見分ける術を解き明かせ！</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-quick-step-by-step-turning-pictures-into-youtube-desktop-thumbnails/"><u>In 2024, Quick Step-By-Step Turning Pictures Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/los-ricos-editores-de-dvd-que-te-convierten-los-archivos-en-mp4avi-sin-coste-calificacion-de-las-mejores-aplicaciones-para-windows-10-del-ano-2023/"><u>Los Ricos Editores De DVD Que Te Convierten Los Archivos en MP4/AVI Sin Coste: Calificación De Las Mejores Aplicaciones Para Windows 10 Del Año 2023</u></a></li>
-<li><a href="https://discover-best.techidaily.com/online-seminar-on-defense-tactics-against-financial-crimes-including-fraud-and-money-laundering/"><u>Online Seminar on Defense Tactics Against Financial Crimes, Including Fraud & Money Laundering</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-v30-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme V30 and Browser | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pro-level-strategies-for-photo-color-enhancement-for-2024/"><u>Pro-Level Strategies for Photo Color Enhancement for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-instructions-transforming-your-dvds-on-macos-xp-ppc-intel/"><u>Step-by-Step Instructions: Transforming Your DVDs on macOS (XP, PPC, Intel)</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-strategy-kickstarting-a-vlogging-journey-with-three-key-tips-for-beginners/"><u>Step-by-Step Strategy: Kickstarting a Vlogging Journey with Three Key Tips for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-high-quality-banners-free-for-content-developers/"><u>[New] 2024 Approved Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xploring-youtubes-strategy-for-video-short-promotion/"><u>[New] Exploring YouTube's Strategy for Video Short Promotion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-maximize-your-google-meet-experience-with-effective-use-of-digital-boards-on-any-os-for-2024/"><u>[New] Maximize Your Google Meet Experience with Effective Use of Digital Boards on Any OS for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-swift-playlist-dispatch-on-youtube/"><u>[New] Swift Playlist Dispatch on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-flawless-approach-securing-gotomeeting-recordings-for-2024/"><u>[Updated] Flawless Approach Securing GoToMeeting Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-3-simple-copywriting-structure-for-facebook-ads/"><u>[Updated] In 2024, 3-Simple Copywriting Structure for Facebook Ads</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/100avimp4-movavi/"><u>「100%無料で簡単なオンラインAVI、MP4への変換 - Movavi」</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/cambiar-tod-a-mp4-rapidamente-y-sin-costo-mediante-movavi-su-herramienta-ideal-para-conversion-en-linea/"><u>Cambiar TOD a MP4 Rápidamente Y Sin Costo Mediante Movavi - Su Herramienta Ideal Para Conversión en Línea</u></a></li>
+<li><a href="https://media-tips.techidaily.com/essential-guide-converting-gifs-into-mov-files-on-windows-and-macos-systems/"><u>Essential Guide: Converting GIFs Into Mov Files on Windows and macOS Systems</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/gratis-avi-redigeringsprogram-i-top-10-tipsar-vid-windows-1187-och-macos/"><u>Gratis Avi-Redigeringsprogram I Top 10: Tipsar Vid Windows 11/8/7 Och macOS</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/movavi-webp-png-web/"><u>Movavi의 WEBP에서 PNG 이미지 무료 처리기: 인터넷을 통한 긴장제 없는 Web형식 변환</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/os-melhores-softwares-de-video-para-xvid-uma-lista-com-dicas-e-tendencias-do-mundo-digital/"><u>Os Melhores Softwares De Vídeo Para xVid: Uma Lista Com Dicas E Tendências Do Mundo Digital</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/transformar-video-wmv-en-contenido-estatico-jpeg-por-internet-gratis-herramienta-confiable/"><u>Transformar Vídeo WMV en Contenido Estático JPEG Por Internet Gratis - Herramienta Confiable</u></a></li>
 </ul></div>
 

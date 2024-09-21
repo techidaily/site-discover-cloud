@@ -1,7 +1,7 @@
 ---
 title: "Effortless, Free AVI Creation: Convert Your TS Files on the Moveavi Platform"
-date: 2024-09-10T00:57:48.396Z
-updated: 2024-09-15T17:44:23.168Z
+date: 2024-09-15T08:54:41.499Z
+updated: 2024-09-21T11:28:41.328Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2d52aa808134158c2c218743.jpg
@@ -210,16 +210,16 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -228,13 +228,6 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -319,13 +312,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -416,13 +402,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -434,6 +413,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -447,6 +433,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -487,6 +480,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -495,6 +495,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -538,13 +545,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -580,16 +580,15 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-zooming-into-success-livestream-mastery-with-zoom-and-youtube/"><u>[New] 2024 Approved Zooming Into Success Livestream Mastery with Zoom and YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-effortless-no-cost-screening-of-android-gadgets/"><u>[New] In 2024, Effortless, No-Cost Screening of Android Gadgets</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-perfecting-auto-captioned-content-in-instagram-reels/"><u>[New] Perfecting Auto-Captioned Content in Instagram Reels</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1725286242583-dvddvd/"><u>DVD長持ちに保護！高品質なDVD保管術と適切な容器選びのコツ</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-instructions-for-revo-uninstaller-app-management-setup/"><u>Easy Instructions for Revo Uninstaller App Management Setup</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-video-player-apps-for-windows-phone/"><u>In 2024, Best Video Player Apps for Windows Phone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/live-video-software-virtual-webcam-and-highlighting-features-like-many-cameras-or-multiple-camera-support/"><u>Live Video Software, Virtual Webcam, and Highlighting Features Like Many Cameras or Multiple Camera Support.</u></a></li>
-<li><a href="https://techidaily.com/master-the-setup-of-logitechs-wireless-keyboards-for-effortless-typing/"><u>Master the Setup of Logitech's Wireless Keyboards for Effortless Typing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/title-protecting-your-memories-ensuring-the-longevity-of-your-dvd-media-through-proper-preservation-methods/"><u>Title: Protecting Your Memories: Ensuring the Longevity of Your DVD Media Through Proper Preservation Methods</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/virtual-broadcasting-made-easy-with-manycams-live-and-cam-overlay-solutions/"><u>Virtual Broadcasting Made Easy with ManyCam's Live and Cam Overlay Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-access-top-shorter-video-downloads-for-free-online/"><u>[New] In 2024, Access Top Shorter Video Downloads for FREE Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-top-10-no-cost-digital-video-editors-the-2023-guide/"><u>[New] In 2024, Top 10 No-Cost Digital Video Editors The 2023 Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-impressive-display-innovations-top-10-mac-displays-of-the-year/"><u>[Updated] Impressive Display Innovations - Top 10 Mac Displays of the Year</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/movswf-movavi-web/"><u>無料変換ツール:MOVからSWFへの直接変換サービス - MOVavi Web</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/como-convertir-archivos-mov-a-formato-de-imagen-jpeg-en-la-web-sin-costo-alguno/"><u>Cómo Convertir Archivos MOV a Formato De Imagen JPEG en La Web Sin Costo Alguno</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/conversion-gratuita-en-linea-de-archivos-wmv-a-mov-con-convertidor-facil-y-seguro-movavi/"><u>Conversión Gratuita en Línea De Archivos WMV a MOV Con Convertidor Fácil Y Seguro - Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-level-graphic-cards-for-4k-titles/"><u>Next-Level Graphic Cards for 4K Titles</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/online-omzetten-van-mp4-bestandjes-gratis-met-movavi-een-benaderingswijze-voor-google/"><u>Online Omzetten Van MP4-Bestandjes Gratis Met Movavi: Een Benaderingswijze Voor Google</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-potential-with-free-premiere-pro-plans/"><u>Unlock Potential with Free Premiere Pro Plans</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/m4awebm-movavi/"><u>오늘날의 가장 최고 무료 M4A/WEBM 웹사이트에서 스미스 영화 바이너리 구성 - Movavi</u></a></li>
 </ul></div>
 
