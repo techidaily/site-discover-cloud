@@ -1,7 +1,7 @@
 ---
 title: Conversion GRATUITTE D'un Fichier TRP À MPEG en Ligne - MOVAVI
-date: 2024-09-18T07:53:10.950Z
-updated: 2024-09-20T17:14:57.658Z
+date: 2024-09-20T00:43:39.791Z
+updated: 2024-09-25T22:58:55.389Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686bd6bb8d68f0e5c1da41a0c90.jpg
@@ -228,6 +228,13 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -237,16 +244,10 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Gérez vos heures actives
@@ -300,13 +301,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -329,6 +323,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -421,7 +422,21 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -441,10 +456,16 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
@@ -482,6 +503,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -496,16 +524,16 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Vérifiez les paramètres de performance de votre Windows.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
@@ -550,13 +578,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -590,5 +611,26 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-beam-it-up-a-step-by-step-approach-to-youtube-video-luminance/"><u>[Updated] 2024 Approved Beam It Up A Step-By-Step Approach to YouTube Video Luminance</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-la-technique-optimale-pour-reduire-la-taille-des-videos-avant-leur-partage-sur-facebook/"><u>1. La Technique Optimale Pour Réduire La Taille Des Vídeos Avant Leur Partage Sur Facebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-panoramic-pictures-through-image-fusion/"><u>2024 Approved Building Panoramic Pictures Through Image Fusion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-secret-capabilities-of-gpt-for-immersive-dialogue-adventures/"><u>5 Secret Capabilities of GPT for Immersive Dialogue Adventures</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-urdu-in-just-10-minute-sessions/"><u>Conquer Urdu in Just 10-Minute Sessions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/get-the-best-of-free-dvd-ripping-tools-winx-download-center-hd-video-converter-available-now/"><u>Get the Best of Free DVD Ripping Tools! WinX Download Center, HD Video Converter Available Now!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-honor-by-drfone-android/"><u>How to Bypass FRP on Honor?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-v30-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo V30</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/1716162754270-how-to-use-the-instagram-green-screen-effect/"><u>How to Use the Instagram Green Screen Effect</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x50-gt-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/iphone-ipadmediatranspc/"><u>IPhone iPad上最好的MediaTrans™系统：PC至移动设备高效传输照片和音乐视频</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/kostenlose-filmdownloads-auf-dvd-anleitung-fur-windows-10-and-macos-schritt-fur-schritt/"><u>Kostenlose Filmdownloads Auf DVD: Anleitung Für Windows 10 & macOS - Schritt-Für-Schritt</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/maximize-video-clarity-and-perfection-with-advanced-winxvideo-ai-solutions/"><u>Maximize Video Clarity and Perfection with Advanced Winxvideo AI Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/resolved-overcome-the-obstacle-of-not-downloading-pokemon-go-on-iphones-worldwide-a-complete-guide/"><u>Resolved: Overcome the Obstacle of Not Downloading Pokémon Go on iPhones Worldwide - A Complete Guide</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/ripdvd-winx-platinum-edition-ultra-fast-dvd-copying-for-protected-disc-on-windows-11/"><u>RipDVD WinX Platinum Edition: Ultra-Fast DVD Copying for Protected Disc on Windows 11</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/solving-the-mystery-of-quicktimes-error-1969-a-guide-to-fixing-mov-problems/"><u>Solving the Mystery of QuickTime's Error 1969: A Guide to Fixing MOV Problems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-fujitsu-scansnap-ix1400-revolutionizing-document-management-in-home-and-small-business-settings/"><u>The Ultimate Guide to the Fujitsu ScanSnap iX1400: Revolutionizing Document Management in Home and Small Business Settings</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/unlocking-hardware-acceleration-on-handbrake-without-cuda-support/"><u>Unlocking Hardware Acceleration on HandBrake Without CUDA Support</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/king-high-quality-videos-youtubes-enhancement-secrets-revealed-for-2024/"><u>Unlocking High-Quality Videos YouTube's Enhancement Secrets Revealed for 2024</u></a></li>
+</ul></div>
 
