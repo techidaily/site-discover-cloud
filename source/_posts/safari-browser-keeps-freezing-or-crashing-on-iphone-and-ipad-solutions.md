@@ -1,7 +1,7 @@
 ---
 title: Safari Browser Keeps Freezing or Crashing on iPhone and iPad - Solutions
-date: 2024-09-12T21:11:28.668Z
-updated: 2024-09-16T04:34:51.629Z
+date: 2024-09-29T17:34:32.376Z
+updated: 2024-09-30T18:10:18.761Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85a816656ff3b301d8b067e97.jpg
@@ -68,10 +68,16 @@ Surely you have done the basics to fix like restart the device, or re-launch the
 2. Click download and install. And then follow the instruction. You can do this via iTunes or iCloud. But if you don't know exactly how, here is a detailed guide on [how to update to iOS 17](https://tools.techidaily.com/macxdvd/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Clear Safari history and website data
@@ -84,21 +90,28 @@ Website caches and history will slow down the speed of the browser and sometimes
 
 ![Safari not working on iPhone iPad after iOS 17 udpate](https://www.macxdvd.com/mobile/article-image/safari-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Disable Safari Suggestions
 
 Based on previous experience, Safari stopped working on iPhone iPad be caused by bugs in Safari Suggestions, a content recommendation feature built in the browser. To get rid of the annoying Safari cashes from iPhone or iPad, simply try to disable the feature. To do this: open Setting app > scroll down and tap Safari > then move to Safari Suggestions and toggle switch to the OFF position. 
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Disable iCloud Safari Syncing
@@ -124,6 +137,13 @@ You can do this via deleting unnecessary files, backing up via iTunes, or transf
 
 ![safari stopped working on iPhone iPad](https://www.macxdvd.com/mobile/article-image/export-video-to-mac-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Turn off JavaScript and restart Safari
 
 If still Safari won't work on iPhone iPad, another trick is to disable the Javascript. By doing this, it can reduce iPhone Safari crashes with certain pages and speed up web browsing. For example, it is more prone to [crash on Safari to play 4K videos](https://tools.techidaily.com/macxdvd/products/). According to an Apple user, "Safari browsing experience has been 99.9% better. Typing is much quicker, load times are faster, and I can browse way more sites." 
@@ -135,10 +155,10 @@ If still Safari won't work on iPhone iPad, another trick is to disable the Javas
 ![safari crashes on iphone ipad](https://www.macxdvd.com/mobile/article-image/safari-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Reset your iPhone
@@ -167,6 +187,19 @@ ABOUT THE AUTHOR
 
 ![author- rico](https://www.macxdvd.com/mobile/../image-style/new-seo/rico.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Rico Rodriguez ![](https://www.macxdvd.com/mobile/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/rico-rodriguez-06815a104/) 
 
 Rico has been fascinated with mobile technology for as long as he can remember. He is keen to share his experiences to those who get stuck in data transfer for both iOS and Android users. Besides his regular passion related to mobile data management, he also enjoys reading books, playing games and occasionally watching Marvel inspired movies.
@@ -179,6 +212,13 @@ Related Articles
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [\[Fixed\] Qi Wireless Charging Not Working on iPhone](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic5.jpg)
@@ -186,6 +226,13 @@ Related Articles
 [How to Fix iPhone Not Making Or Receiving Calls Issue](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [iPhone Stuck in Recovery Mode? 10 Seconds to Fix](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -199,21 +246,7 @@ Related Articles
 
 ![Digiarty Software](https://www.macxdvd.com/mobile/../icon/logo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -257,5 +290,19 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-cloud.techidaily.com/come-scaricare-e-convertire-i-tuoi-vecchi-video-vhs-su-un-compatibile-dvd/"><u>Come Scaricare E Convertire I Tuoi Vecchi Video VHS Su Un Compatibile DVD</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725283993088-dvd/"><u>DVD の安全かつ合法的なコピー手段について学ぶ方法</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/find-the-perfect-video-smoothing-app-a-comparison-of-free-vs-paid-choices-among-the-best/"><u>Find the Perfect Video Smoothing App: A Comparison of Free Vs. Paid Choices Among the Best</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a14-4g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A14 4G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-upload-wmv-videos-and-convert-them-to-mp4-for-macoswindows-11-at-no-cost-easy-guide/"><u>How to Upload WMV Videos and Convert Them to MP4 for macOS/Windows 11 at No Cost - Easy Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audacitys-guide-to-fading-sounds-invisibly/"><u>In 2024, Audacity's Guide to Fading Sounds Invisibly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-90-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor 90 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-analysis-by-toms-tech-experts/"><u>In-Depth Hardware Analysis by Tom's Tech Experts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/leading-no-cost-screen-recorders-for-windows-top-5-list/"><u>Leading No-Cost Screen Recorders For Windows – Top 5 List</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/roblox-troubles-discover-these-6-quick-fixes-for-pc-stability-issues/"><u>Roblox Troubles? Discover These 6 Quick Fixes for PC Stability Issues!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y28-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y28 5G Device</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/winxvideo-ai-professionelles-video-und-audiodatenaufzeichnungsprogramm-fur-webkameras/"><u>WinXVideo AI: Professionelles Video- Und Audiodatenaufzeichnungsprogramm Für Webkameras</u></a></li>
+</ul></div>
 

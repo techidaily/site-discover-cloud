@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Gaming: Atari THE400 Mini Brings Classic Computer & Video Games Back"
-date: 2024-09-11T20:36:04.666Z
-updated: 2024-09-16T08:27:38.109Z
+date: 2024-09-24T16:25:25.275Z
+updated: 2024-09-30T18:40:32.067Z
 tags:
   - product-reviews
 categories:
@@ -67,6 +67,13 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
 
 ![THE400 Mini by a TV with hands holding the joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-by-a-tv-with-hands-holding-the-joystick.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bill Loguidice / How-To Geek
 
 THE400 Mini and THECXSTICK in front of a television.
@@ -83,6 +90,13 @@ Everything that comes in the THE400 Mini box.
 
 ![THE400 Mini sitting on top of an original Atari 800 computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-sitting-on-top-of-an-original-atari-800-computer.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bill Loguidice / How-To Geek
 
 THE400 Mini on top of an original Atari 800 computer.
@@ -92,6 +106,13 @@ THE400 Mini on top of an original Atari 800 computer.
  Included in the box are THE400 Mini, THECXSTICK USB joystick, 6-foot HDMI cable, 6-foot USB-C to USB-A cable power cable, and a quick start guide. THE400 Mini can be powered from any standard USB-A port or power adapter that provides at least 5V/1A.
 
 ![THE400 Mini - Rear](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-rear.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -124,10 +145,10 @@ Close
 ![THE400 Mini Front with USB-A ports](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-front.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
@@ -157,13 +178,6 @@ Close
  Each program you add can have its settings adjusted, allowing you to select the Atari model the system is going to emulate, whether or not BASIC is enabled, and the control type, the latter of which is selectable between Joystick, Paddle, or 5200 joystick. These controls can be mapped to further customize and improve the experience. Similarly, a virtual 5200 keypad, or keyboard, can be surfaced at any time should a USB keyboard, or enough mappable physical buttons, not be available.
 
  Finally, if you don't like the included THECXSTICK or just want more than one controller and don't want to use another THECXSTICK, THEJOYSTICK, or THEGAMEPAD, modern Microsoft Xbox, Sony PlayStation, and Nintendo Switch controllers can be used. For instance, I was able to use an [8BitDo USB Wireless Adapter 2](https://www.amazon.com/8Bitdo-Wireless-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) with an Xbox One controller for a nice wireless option.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Should You Buy the Atari THE400 Mini?** 
 
@@ -196,5 +210,17 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/2024-approved-premier-text-manipulation-software-for-ae/"><u>2024 Approved Premier Text Manipulation Software for AE</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/macdvddvd/"><u>史上最もシンプルなMacへのDVDインポート方法：究極のDVDマシニングツール</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-novices-blueprint-for-pronunciation-and-alphabet-mastery/"><u>A Novice’s Blueprint for Pronunciation and Alphabet Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beat-explorers-playlist-accessible-free-online-tools/"><u>Beat Explorers' Playlist Accessible, Free Online Tools</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/enhance-and-resize-videos-using-gpu-power-discover-the-advanced-features-of-winx-deluxe-video-converter-hd/"><u>Enhance and Resize Videos Using GPU Power - Discover the Advanced Features of WinX Deluxe Video Converter HD</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-like-to-like-follow-tiktok-outshines-facebook/"><u>From Like to Like-Follow: TikTok Outshines Facebook</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/handbrake-version-64-bit-fix-compatible-with-vlc-error-resolved/"><u>HandBrake Version 64-Bit Fix - Compatible with VLC, Error Resolved!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-boost-your-chances-strategic-keywords-for-youtubers/"><u>In 2024, Boost Your Chances Strategic Keywords for YouTubers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-y100i-power-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo Y100i Power 5G Phone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/meilleure-solution-de-decryptage-pour-vos-dvd-telechargement-gratuit-et-facile-a-utiliser/"><u>Meilleure Solution De Décryptage Pour Vos DVD : Téléchargement Gratuit Et Facile À Utiliser !</u></a></li>
+</ul></div>
 
