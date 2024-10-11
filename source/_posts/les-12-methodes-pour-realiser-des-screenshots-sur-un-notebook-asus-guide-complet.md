@@ -1,7 +1,7 @@
 ---
 title: "Les 12 Méthodes Pour Réaliser Des Screenshots Sur Un Notebook ASUS : Guide Complet"
-date: 2024-09-29T18:17:07.789Z
-updated: 2024-10-05T22:50:11.071Z
+date: 2024-10-08T20:53:53.484Z
+updated: 2024-10-11T17:21:21.725Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c802ff6728e9e3d8c452deddb.jpg
@@ -183,10 +183,10 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
@@ -200,16 +200,10 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
@@ -241,13 +235,6 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -293,6 +280,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -333,22 +327,16 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -357,19 +345,6 @@ Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en m
 Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de la souris" dans la zone de recherche. Choisissez **Modifier l'affichage ou la vitesse du pointeur de la souris**. Dans la fenêtre qui s'ouvre, allez dans l'onglet **Options du pointeur** et décochez la case **Améliorer la précision du pointeur**.
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -386,6 +361,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -448,18 +430,18 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -468,10 +450,10 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
@@ -546,10 +528,10 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
@@ -619,16 +601,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-yt-treasure-hunt-accessing-previously-deleted-content/"><u>[New] In 2024, YT Treasure Hunt Accessing Previously Deleted Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-less-is-more-the-best-video-url-reducers-revealed/"><u>[Updated] Less Is More The Best Video URL Reducers Revealed</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/bypassing-paid-fees-generating-your-own-freemake-subtitles-serial-number-at-no-cost/"><u>Bypassing Paid Fees: Generating Your Own Freemake Subtitles Serial Number at No Cost</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/crafting-cities-on-mars-an-unpredictable-journey-towards-excitement/"><u>Crafting Cities on Mars - An Unpredictable Journey Towards Excitement</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-and-soundtracks-demystifying-legalities/"><u>In 2024, Instagram & Soundtracks Demystifying Legalities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002292210-paradox-launcher-trouble-heres-how-you-can-make-it-work-again/"><u>Paradox Launcher Trouble? Here's How You Can Make It Work Again</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/professionelle-einrichtungshinweise-zur-winx-dvd-software-verwendung-und-installation/"><u>Professionelle Einrichtungshinweise Zur WinX DVD Software Verwendung Und Installation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/quality-upgrade-switch-codecs-to-av1-for-youtube-viewing/"><u>Quality Upgrade Switch Codecs to AV1 for YouTube Viewing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/simple-steps-to-digitize-your-dvd-collection-for-any-device-windows-mac-or-mobile-use/"><u>Simple Steps to Digitize Your DVD Collection for Any Device - Windows, Mac, or Mobile Use!</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transformar-tu-contenido-audiovisual-con-winxvideo-ai-guia-definitiva-para-obtener-una-calidad-impecable/"><u>Transformar Tu Contenido Audiovisual Con Winxvideo AI: Guía Definitiva Para Obtener Una Calidad Impecable</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-vivo-y100i-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y100i Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-up-your-iphone-x7s-selfies-with-these-top-free-tools/"><u>[New] Step Up Your iPhone X/7's Selfies with These Top Free Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleash-creativity-premium-editors-for-mobile-and-desktop-oses/"><u>[New] Unleash Creativity Premium Editors for Mobile & Desktop OSes</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comment-lire-les-donnees-dun-dvd-guide-questions-reponses/"><u>Comment Lire Les Données D’Un DVD : Guide Questions-Réponses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertissez-votre-fichier-wmv-en-format-avi-sans-frais-gratuit-avec-movavi/"><u>Convertissez Votre Fichier WMV en Format AVI Sans Frais - Gratuit Avec Movavi</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/expanding-pictures-without-sacrificing-clarity-a-guide-to-bigger-and-better-resolutions/"><u>Expanding Pictures Without Sacrificing Clarity: A Guide to Bigger & Better Resolutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-connection-making-your-iphone-show-up-in-itunes-on-windows-10-issue-solved/"><u>How to Restore Connection: Making Your iPhone Show Up in Itunes on Windows 10 (Issue Solved)</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-stop-the-msedgeexe-error-message-on-windows/"><u>How to Troubleshoot and Stop the msedge.exe Error Message on Windows</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/macgif3and/"><u>Mac用のGIF制作:最も快適な3つの方法&完全無料ライブラリー</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-google-pixel-8-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Google Pixel 8 has been deleted</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/schritt-fur-schritt-anleitung-zur-installation-von-winxdvd-software/"><u>Schritt-Für-Schritt-Anleitung Zur Installation Von WinXDVD Software</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/the-ultimate-guide-how-to-convert-dvd-movies-into-digital-files-on-your-computer/"><u>The Ultimate Guide: How to Convert DVD Movies Into Digital Files on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-latest-free-converters-from-vhsdvd-to-digital-formats-complimentary-downloads/"><u>Top 7 Latest Free Converters From VHS/DVD to Digital Formats - Complimentary Downloads</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/umfassende-anleitung-zur-umwandlung-von-h265hevc-und-4k-videos-sowie-zum-verbessern-deiner-lesefahigkeiten/"><u>Umfassende Anleitung Zur Umwandlung Von H.265/HEVC Und 4K Videos Sowie Zum Verbessern Deiner Lesefähigkeiten</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-note-13-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi Note 13 5G Device</u></a></li>
 </ul></div>
 

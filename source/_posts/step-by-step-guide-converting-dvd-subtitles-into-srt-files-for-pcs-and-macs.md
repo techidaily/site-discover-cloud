@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Converting DVD Subtitles Into SRT Files for PCs and Macs"
-date: 2024-09-20T18:08:09.578Z
-updated: 2024-09-25T20:36:16.736Z
+date: 2024-10-05T16:52:19.353Z
+updated: 2024-10-11T18:04:55.382Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c51b363448b469a8ffe4640d.jpg
@@ -27,22 +27,15 @@ To rip DVD to MKV, follow these simple steps:
 
 ![rip dvd](https://www.winxdvd.com/resource/../seo-img/general-img/seobanner-dvd.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Rip DVDs to MKV Losslessly with Original Menus, Subtitles...
 
 ![](https://www.winxdvd.com/resource/../seo-img/general-img/face-dp-111.png) [Donna Peng](https://tools.techidaily.com/winxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Updated on February 28, 2024 
@@ -70,16 +63,22 @@ Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a11.png)1\. Ripping DVD will Remove DVD Copy Protections** 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Similar to Blu-ray, DVD disc is also equipped with a variety of protections to prevent DVD content from illegal use. The most popular encryption techs include CSS encryption, Sony ARccOS encryption, RCE Region protection, Disney X-project DRM, region code etc. DVD rippers can bypass DVD copy protections and deliver a DRM-free file. But sometimes you may encounter errors while working with [DVD ripping freeware](https://tools.techidaily.com/winxdvd/products/) like MakeMKV, HandBrake and Freemake Video Converter. 
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a10.png)2\. DVD to MKV Backup can Reserves All DVD Content** 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you have ever [encoded DVD movies into MP4](https://tools.techidaily.com/winxdvd/products/), AVI, or MPEG format, and been slightly frustrated with the loss of DVD extra elements, then you can switch to MKV as the DVD backup format. MKV is able to contain all detailed chapter information, sub-chapters, titles, multiple audio and video streams, subtitles, attachments and custom metadata.
 
@@ -88,16 +87,10 @@ If you have ever [encoded DVD movies into MP4](https://tools.techidaily.com/winx
 Since MKV supports any type of video/audio tracks and subtitles inside, and is quite efficient for storage and streaming, it's widely used on video transmitting. Usually, common DVD rippers can help rip a 4-8 GB DVD movie to a digital file in hundreds of MB, but you will get much quality loss. Only some seasoned DVD to MKV backup tools balance well on video file size and DVD ripping speed.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Convert DVDs to MKV Losslessly with WinX DVD Ripper
@@ -121,18 +114,18 @@ Tips: It also supports importing DVD folder and ISO image files for converting t
 
 ![Convert DVD to MP4 Windows 10/11 with WMP alternative](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/drp-interface-700.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2\. Choose MKV as Target Format**
 
 After the DVD content is fully imported, the ripper will bypass copy protection and right check main title automatically. What you need to do is to define target format: Output Profile -> DVD Backup -> Backup full title to MKV. As the interface shows, it will back up all videos, audios and subtitles.
 
 ![Rip DVD to MKV without losing quality](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/dvd-to-mkv-700.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3\. Edit the MKV video (optional)**
 
@@ -212,6 +205,13 @@ Now let's learn how to rip DVDs to MKV usingi VLC?
 
 ![VLC protected DVD to MKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-chapters-off-dvd-vlc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Click the Convert/Save button and then you'll need to select the output profile. Open the Profile dropdown menu and check if there is an MKV profile. By default, VLC will choose to rip DVDs to "Video - H.264 + MP3 (MP4)". If there is no MKV option, click the gear button next to it and under Encapsulation, choose MKV and save it. 
 
 **Step 4.** Choose an output destination folder and then click Start. VLC will then begin ripping DVDs to MKV. 
@@ -235,10 +235,10 @@ Now let's learn how to rip DVDs to MKV usingi Movavi Video Converter?
 ![rip DVDs to MKV Movavi](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/movavi-700.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## In Conclusion
@@ -251,22 +251,22 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
 * [Top 10 Free DVD Players for Windows 10/11](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Best Preset Settings for HandBrake DVD to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 
 * [\[2024\] How to Free Convert DVD Video\_TS to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -283,22 +283,22 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-discover-the-full-spectrum-of-yis-action-photography/"><u>[New] Discover the Full Spectrum of Yi's Action Photography</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-snapsnatcher-fb-media-extraction/"><u>[Updated] 2024 Approved SnapSnatcher FB Media Extraction</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-art-of-live-recording-sporting-events-on-screen/"><u>[Updated] In 2024, The Art of Live Recording Sporting Events on Screen</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-best-monitors-for-xbox-series-x-for-2024/"><u>[Updated] The Best Monitors for Xbox Series X for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1725287361955-dvd/"><u>「DVDコピーガード完全回避：安上がりかつ確実な手法を発表」</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-nubia-z50-ultra-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nubia Z50 Ultra Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/effektive-methoden-zum-ubertragen-von-daten-vom-iphone-auf-den-pc-eine-schritt-fur-schritt-anleitung/"><u>Effektive Methoden Zum Übertragen Von Daten Vom iPhone Auf Den PC - Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unbeatable-online-and-desktop-gif-maker-options/"><u>In 2024, Unbeatable Online & Desktop GIF Maker Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-hashtags-and-mentions-top-ranking-twitter-tools-for-efficient-social-management/"><u>Mastering Hashtags & Mentions: Top-Ranking Twitter Tools for Efficient Social Management</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-school-without-edgenuity-videos/"><u>Mastering School Without Edgenuity Videos</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/mp4-video-format-eine-detaillierte-erklarung-durch-die-experten-bei-digiarty/"><u>MP4 Video Format: Eine Detaillierte Erklärung Durch Die Experten Bei Digiarty</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-instructions-get-popcorn-time-app-working-on-all-platforms-ios-android-pc/"><u>Step-by-Step Instructions: Get Popcorn Time App Working on All Platforms (iOS, Android, PC)</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-13-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi 13 Ultra Reset Code | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/top-11-dvd-ripper-apps-for-macos-free-and-premium-options-compared/"><u>Top 11 DVD Ripper Apps for macOS: Free and Premium Options Compared</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1725287312831-windowsmachd4k/"><u>Windows与Mac电影硬件解码：如何将视频分辨率提升至HD及4K水平</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1725287597337-winx-dvd-dvd/"><u>WinX DVD 소프트웨어 - 공식 웹사이트 | DVD 리퍼 및 비디오 컨버터 제공</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1725288225339-winxvideo-ai-4k-8k-10k/"><u>고품질 사진 만들기 Winxvideo AI로 4K, 8K, 10K 해상도 이미지를 확대시키고 복구하세요</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-break-the-1k-barrier-stream-youtube-successfully-from-a-phone/"><u>[Updated] Break the 1K Barrier Stream Youtube Successfully From a Phone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-turning-your-youtube-views-into-a-screen-capture-made-simple-and-free/"><u>2024 Approved Turning Your YouTube Views Into a Screen Capture Made Simple and Free</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/come-scaricare-e-convertire-i-tuoi-vecchi-video-vhs-su-un-compatibile-dvd/"><u>Come Scaricare E Convertire I Tuoi Vecchi Video VHS Su Un Compatibile DVD</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comment-accelerer-le-traitement-de-lencodage-hevch265-pour-des-temps-dencoding-optimises/"><u>Comment Accélérer Le Traitement De L'Encodage HEVC/H.265 Pour Des Temps D'Encoding Optimisés</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725283993088-dvd/"><u>DVD の安全かつ合法的なコピー手段について学ぶ方法</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-solutions-for-fast-tracking-league-of-legends-stability-issues/"><u>Effortless Solutions for Fast-Tracking League of Legends Stability Issues</u></a></li>
+<li><a href="https://techidaily.com/expert-analysis-elevating-knowledge-with-the-everest-consortium-on-sophisticated-content-mastery/"><u>Expert Analysis: Elevating Knowledge with the Everest Consortium on Sophisticated Content Mastery</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/exploring-microsofts-windows-10-unveiled-a-detailed-analysis-and-insights-on-its-touchscreen-capabilities/"><u>Exploring Microsoft's Windows 10 Unveiled: A Detailed Analysis and Insights on Its Touchscreen Capabilities</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/find-the-perfect-video-smoothing-app-a-comparison-of-free-vs-paid-choices-among-the-best/"><u>Find the Perfect Video Smoothing App: A Comparison of Free Vs. Paid Choices Among the Best</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-current-tp-link-adapter-driver-update-for-wifi-ac-on-windows-1187/"><u>Get the Current TP-Link Adapter Driver Update for WiFi AC on Windows 11/8/7</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-20-proplus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 20 Pro+ Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-zte-axon-40-lite-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror ZTE Axon 40 Lite to Roku | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-7-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 7 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/introducing-winxvideos-smartai-cutting-edge-technology-for-advanced-frame-enrichment-and-ai-driven-interpolation/"><u>Introducing Winxvideo's SmartAI: Cutting-Edge Technology for Advanced Frame Enrichment and AI-Driven Interpolation</u></a></li>
+<li><a href="https://win11.techidaily.com/master-plan-to-resolve-windows-operating-system-issue/"><u>Master Plan to Resolve Windows Operating System Issue</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-dvd-ripper-software-thats-compatible-with-windows-11/"><u>Top DVD Ripper Software That's Compatible With Windows 11</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/winxvideo-ai-professionelles-video-und-audiodatenaufzeichnungsprogramm-fur-webkameras/"><u>WinXVideo AI: Professionelles Video- Und Audiodatenaufzeichnungsprogramm Für Webkameras</u></a></li>
 </ul></div>
 

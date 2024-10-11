@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Cutting Subjects or Objects From Photographs
-date: 2024-10-02T00:37:42.812Z
-updated: 2024-10-05T23:24:30.173Z
+date: 2024-10-09T18:46:10.146Z
+updated: 2024-10-11T18:41:53.448Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d05b995774101e68045c480a9.png
@@ -162,13 +162,6 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
@@ -183,6 +176,13 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -190,13 +190,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -284,13 +277,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -319,6 +305,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -339,18 +332,18 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -389,6 +382,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -429,13 +429,6 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
@@ -455,16 +448,16 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -497,6 +490,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -520,13 +520,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -537,16 +530,16 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -557,6 +550,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -601,22 +601,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-macbooks-eye-catches-learn-webcam-recording-for-2024/"><u>[New] MacBook's Eye Catches Learn Webcam Recording for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-top-30-latest-forgotten-free-speech-transcription-tools-for-macos-for-2024/"><u>[Updated] Top 30 Latest, Forgotten Free Speech Transcription Tools for macOS for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-screenshot-solutions-reviewed/"><u>2024 Approved Expert Screenshot Solutions Reviewed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/combining-chords-and-clips-the-ultimate-fb-video-soundtrack-for-2024/"><u>Combining Chords and Clips The Ultimate FB Video Soundtrack for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/enhance-your-live-broadcasts-using-manycam-the-ultimate-virtual-webcam-software-suite/"><u>Enhance Your Live Broadcasts Using ManyCam: The Ultimate Virtual Webcam Software Suite</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/enhance-your-online-presence-using-manycam-the-best-live-broadcast-and-vr-cam-solution/"><u>Enhance Your Online Presence Using ManyCam - The Best Live Broadcast and VR Cam Solution</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhancements-in-cyberpunk-2erpunk-2077-a-look-at-the-updated-fps/"><u>Enhancements in Cyberpunk 2Erpunk 2077: A Look at the Updated FPS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722999472996-facing-a-dota-2-vac-ban-heres-how-you-can-fix-it-and-prevent-future-issues/"><u>Facing a Dota 2 VAC Ban ? Here's How You Can Fix It & Prevent Future Issues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harmonizing-hashtags-instagram-tiktok-collaborative-guide/"><u>Harmonizing Hashtags Instagram-TikTok Collaborative Guide</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/live-streaming-mastery-with-manycam-top-choice-in-virtual-webcams-and-pro-level-video-apps/"><u>Live Streaming Mastery with ManyCam: Top Choice in Virtual Webcams and Pro-Level Video Apps</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/live-streaming-mastery-top-features-of-manycam-the-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery: Top Features of ManyCam, the Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/live-streaming-with-manycam-premium-virtual-camera-solutions-and-software/"><u>Live Streaming with ManyCam: Premium Virtual Camera Solutions and Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-avi-video-editing-software-trim-cut-and-convert-on-any-platform/"><u>New 2024 Approved Top AVI Video Editing Software Trim, Cut, and Convert on Any Platform</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-guide-capturing-video-and-audio-from-youtube/"><u>Quick Guide Capturing Video & Audio From YouTube</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/top-5-best-alternatives-to-manycam-premium-live-streaming-and-virtual-camera-solutions/"><u>Top 5 Best Alternatives to ManyCam: Premium Live Streaming and Virtual Camera Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/top-manycam-webcam-applications-compatible-with-ustream-live-broadcasting/"><u>Top ManyCam Webcam Applications Compatible with uStream Live Broadcasting</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transform-your-online-presence-with-manycam-advanced-live-streaming-tools-and-hd-virtual-camera-tech/"><u>Transform Your Online Presence with ManyCam – Advanced Live Streaming Tools and HD Virtual Camera Tech</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/vimeo/"><u>「フリービット抽出器：Vimeoから容量制限なしに動画圧縮」</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/bypassing-paid-fees-generating-your-own-freemake-subtitles-serial-number-at-no-cost/"><u>Bypassing Paid Fees: Generating Your Own Freemake Subtitles Serial Number at No Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellent-5-add-ons-to-amplify-oceanic-shoots/"><u>Excellent 5 Add-Ons to Amplify Oceanic Shoots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-review-of-top-mp4-players-for-2024/"><u>Exclusive Review of Top MP4 Players for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-the-device-not-found-error-when-setting-up-your-windows-7-pc/"><u>How to Successfully Overcome the 'Device Not Found' Error When Setting Up Your Windows 7 PC</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-t2-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo T2 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/inside-mastery-exploring-polarrs-sophisticated-image-editing-for-2024/"><u>Inside Mastery Exploring Polarr's Sophisticated Image Editing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-solutions-to-stop-ark-adventure-essentials-from-crashing-on-your-computer-now/"><u>Master the Solutions to Stop ARK: Adventure Essentials From Crashing on Your Computer Now</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/professionelle-einrichtungshinweise-zur-winx-dvd-software-verwendung-und-installation/"><u>Professionelle Einrichtungshinweise Zur WinX DVD Software Verwendung Und Installation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-list-of-premium-cable-modems-dominating-internet-speeds-this-year/"><u>The Definitive List of Premium Cable Modems Dominating Internet Speeds This Year</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/ultimate-guide-8-effective-methods-for-bypassing-drm-on-dvds-including-5-costless-solutions/"><u>Ultimate Guide: 8 Effective Methods for Bypassing DRM on DVDs (Including 5 Costless Solutions)</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/ultimate-guide-bypassing-copy-protection-on-dvds-using-8-techniques-and-free-alternatives/"><u>Ultimate Guide: Bypassing Copy Protection on DVDs Using 8 Techniques & Free Alternatives</u></a></li>
 </ul></div>
 
