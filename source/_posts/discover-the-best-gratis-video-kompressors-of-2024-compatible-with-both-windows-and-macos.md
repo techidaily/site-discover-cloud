@@ -1,7 +1,7 @@
 ---
 title: Discover the Best Gratis Video Kompressors of 2024 Compatible with Both Windows and MacOS
-date: 2024-10-21T16:02:29.906Z
-updated: 2024-10-23T16:05:39.799Z
+date: 2024-11-10T19:24:28.883Z
+updated: 2024-11-13T00:56:22.860Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/db7a51fc88bb312b4c001dc26d2d013159de6bfbef053f36ef148640b15c567b.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -221,6 +228,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -298,6 +312,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -306,15 +327,22 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
@@ -342,10 +370,10 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
@@ -358,13 +386,6 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -372,13 +393,6 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -439,13 +453,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -455,16 +462,16 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -497,16 +504,16 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -540,13 +547,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -601,18 +601,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-professional-content-creators-guide-studio-vs-beta-platform/"><u>[New] In 2024, Professional Content Creator's Guide Studio Vs. Beta Platform</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-5-pc-snipers-for-efficient-image-capture/"><u>[New] In 2024, The Ultimate 5 PC Snipers for Efficient Image Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-zoom-webinar-mastery-a-novices-step-by-step-tutorial-for-2024/"><u>[New] Zoom Webinar Mastery A Novice's Step-by-Step Tutorial for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-capturing-quality-lens-recommendations-for-content-makers/"><u>[Updated] In 2024, Capturing Quality Lens Recommendations for Content Makers</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1728465496307-aomei-backupper/"><u>AOMEI Backupper的指南：完成可移動磁碟製作工序</u></a></li>
-<li><a href="https://os-tips.techidaily.com/can-others-replicate-apples-success-with-modular-connectivity-in-electronics/"><u>Can Others Replicate Apple's Success with Modular Connectivity in Electronics?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-key-themes-in-the-new-york-times-connections-challenge-for-july-15-400-expert-analysis-and-solutions/"><u>Discover Key Themes in The New York Times Connections Challenge for July 15 (#400) - Expert Analysis and Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/effortless-file-transfers-between-iphone-and-pc-discover-6-top-strategies/"><u>Effortless File Transfers Between iPhone and PC - Discover 6 Top Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enrollment-efficiency-registering-for-gpt-and-other-services-quickly/"><u>Enrollment Efficiency: Registering for GPT & Other Services Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-ensure-proper-email-synchronization-in-gmail-when-connections-drop/"><u>How to Ensure Proper Email Synchronization in Gmail When Connections Drop</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/recuperacao-de-arquivos-deletados-no-servidor-windows-server-2008-r2-3-metodos-eficientes/"><u>Recuperação De Arquivos Deletados No Servidor Windows Server 2008 R2: 3 Métodos Eficientes</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/short-term-leases-primarily-catering-to-students-during-semesters-are-strictly-for-9-months-with-no-option-for-extension/"><u>Short-Term Leases, Primarily Catering to Students During Semesters, Are Strictly for 9 Months with No Option for Extension.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-bulk-tiktok-media-extraction/"><u>Unlocking the Potential of Bulk TikTok Media Extraction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-enhancing-webcasts-with-dynamic-background-transitions/"><u>[New] Enhancing Webcasts with Dynamic Background Transitions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-from-download-to-implementation-installing-obs-on-a-macpc/"><u>[New] In 2024, From Download to Implementation Installing OBS on a MacPC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-list-iphone-video-recording-hacks/"><u>[Updated] A-List iPhone Video Recording Hacks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-insights-capturing-the-essence-of-online-meetings-for-2024/"><u>[Updated] Expert Insights Capturing the Essence of Online Meetings for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-macs-premier-video-to-mp4-converters-guide/"><u>[Updated] Mac's Premier Video to MP4 Converters Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplify-aquatic-footage-7-key-shooting-strategies/"><u>[Updated] Simplify Aquatic Footage 7 Key Shooting Strategies</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-effiziente-methoden-zum-hinzufugen-von-audio-zu-videoclips-auf-dem-iphone/"><u>1. Effiziente Methoden Zum Hinzufügen Von Audio Zu Videoclips Auf Dem iPhone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/cdwindows-7/"><u>CDレスでも可能!Windows 7ハードディスクの効率的な初回セットアップ方法</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comment-recuperer-des-fichiers-effaces-ou-perdus-a-partir-dun-disque-dur-externe/"><u>Comment Récupérer Des Fichiers Effacés Ou Perdus À Partir D'un Disque Dur Externe ?</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comprehensive-qanda-on-utilizing-the-aomei-system-backup-and-recovery-software-for-your-needs/"><u>Comprehensive Q&A on Utilizing the AOMEI System Backup & Recovery Software for Your Needs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-xiaomi-by-drfone-android-unlock-android-unlock/"><u>Device unlock Xiaomi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715859626507-in-2024-unveiling-advantages-comprehen/"><u>In 2024, Unveiling Advantages Comprehen...</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/profi-guide-zur-behebung-von-fehlern-und-bugs-auf-dem-surface-pro-7-unter-windows-11-detaillierte-anleitungen-bereit/"><u>Profi-Guide Zur Behebung Von Fehlern Und Bugs Auf Dem Surface Pro 7 Unter Windows 11 – Detaillierte Anleitungen Bereit!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/quickstart-with-aomei-pxe-boot-your-reliable-bios-preparation-toolkit/"><u>QuickStart with AOMEI PXE Boot: Your Reliable BIOS Preparation Toolkit</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/solving-the-dilemma-top-8-methods-to-repair-airdrop-connectivity-issues-between-your-iphone-and-ipad/"><u>Solving the Dilemma: Top 8 Methods to Repair AirDrop Connectivity Issues Between Your iPhone and iPad</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/the-efficient-approaches-to-upgrade-your-email-moving-from-outlook-express-to-outlook/"><u>The Efficient Approaches to Upgrade Your Email: Moving From Outlook Express to Outlook</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/this-article-shows-the-detail-steps-to-create-a-chromakey-ie-greenscreen-effect-in-final-cut-pro-x-for-2024/"><u>This Article Shows the Detail Steps to Create a Chromakey, I.e. Greenscreen Effect in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-performance-und-effizienz-durch-das-setup-von-hyper-v-networks-erreichen/"><u>Top Performance Und Effizienz Durch Das Setup Von Hyper-V Networks Erreichen!</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-narzo-60-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Narzo 60 5G</u></a></li>
 </ul></div>
 

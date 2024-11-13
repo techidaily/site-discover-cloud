@@ -1,7 +1,7 @@
 ---
 title: 1. Windows 10/11において、外部ハードドライブからのシステム起動 - 徹底解説とガイド
-date: 2024-10-30T21:25:27.588Z
-updated: 2024-11-04T04:18:12.232Z
+date: 2024-11-09T00:18:04.317Z
+updated: 2024-11-12T19:04:12.426Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
@@ -42,6 +42,13 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
@@ -66,13 +73,6 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
@@ -84,6 +84,19 @@ The "winload.efi missing" error happens when the OS can't find or access the win
 Furthermore, AOMEI Backupper proves invaluable in tackling various problems such as system failure, system blue screen, system black screen, hard disk corruption, hard disk conversion, and more. Here I will show you how to create a bootable media using this software:
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Best free bootable media creation tool
 
@@ -106,16 +119,10 @@ After creating bootable media (just a few minutes), boot your computer from this
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
@@ -136,6 +143,13 @@ Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
 To utilize the CHKDSK utility to address potential disk errors, follow these steps:
@@ -148,13 +162,6 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -162,13 +169,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -193,10 +193,16 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
@@ -235,6 +241,13 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -251,21 +264,14 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -303,13 +309,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -319,6 +318,13 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -335,24 +341,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-keep-unwanted-content-away-from-your-computer-and-phone-for-2024/"><u>[New] How to Keep Unwanted Content Away From Your Computer and Phone for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-in-depth-review-of-splitcam-leading-camera-tech/"><u>[Updated] In 2024, In-Depth Review of SplitCam Leading Camera Tech?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-pictureperfection-fine-tuning-image-sizes-on-insta/"><u>2024 Approved PicturePerfection Fine-Tuning Image Sizes on Insta</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/8-solutions-ai-open-source-top-picks-pour-la-reconstruction-de-cles-photo-classiques/"><u>8 Solutions AI Open Source Top Picks Pour La Reconstruction De Clés Photo Classiques</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/macdvddvd/"><u>史上最もシンプルなMacへのDVDインポート方法：究極のDVDマシニングツール</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/cd2024/"><u>音楽CDを自由に使える最新コピーソフト2024年版 - 簡単データ移行と編集</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/discover-the-ultimate-selection-of-8-leading-photo-retouching-tools-for-vintage-images-on-your-smartphone/"><u>Discover the Ultimate Selection of 8 Leading Photo Retouching Tools for Vintage Images on Your Smartphone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/dvddvd-r/"><u>DVDレンタルからDVD-Rへ移行: コピーガード付きファイル圧縮と分析</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-airline-status-discover-the-best-5-credit-cards-for-exclusive-airport-lounge-entry-zdnet-insights/"><u>Elite Airline Status: Discover the Best 5 Credit Cards for Exclusive Airport Lounge Entry | ZDNET Insights</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/enhance-and-resize-videos-using-gpu-power-discover-the-advanced-features-of-winx-deluxe-video-converter-hd/"><u>Enhance and Resize Videos Using GPU Power - Discover the Advanced Features of WinX Deluxe Video Converter HD</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/handbrake-version-64-bit-fix-compatible-with-vlc-error-resolved/"><u>HandBrake Version 64-Bit Fix - Compatible with VLC, Error Resolved!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-xr-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone XR</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-the-power-of-instagram-filters-your-2023-guide/"><u>In 2024, Unlocking the Power of Instagram Filters - Your 2023 Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/optimizing-data-preservation-top-5-cloud-storage-providers-for-2024/"><u>Optimizing Data Preservation Top 5 Cloud Storage Providers for 2024</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-replace-your-pcs-motherboard-and-processor-under-windows-os-windows-7-8-10-etc/"><u>Step-by-Step Guide: Replace Your PC's Motherboard & Processor Under Windows OS (Windows 7, 8, 10, Etc.)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-sites-for-buying-google-pixel-tunes-for-2024/"><u>Top Sites for Buying Google Pixel Tunes for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transferring-dvd-content-to-a-usb-flash-drive-on-pc-and-mac-platforms/"><u>Transferring DVD Content to a USB Flash Drive on PC and Mac Platforms</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transforming-multimedia-content-effortless-cross-platform-video-conversion-with-winx-mobile-video-converter/"><u>Transforming Multimedia Content: Effortless Cross-Platform Video Conversion with WinX Mobile Video Converter</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/verifying-ad-revenue-on-yt-a-step-by-step-tutorial/"><u>Verifying Ad Revenue on YT A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-guide-to-amplifying-your-video-presence-with-seo-tips/"><u>[New] Guide to Amplifying Your Video Presence with SEO Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-boosting-visuals-high-definition-on-twitter-vids/"><u>[Updated] Boosting Visuals High-Definition on Twitter Vids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-sync-from-twitter-to-tumblr-for-2024/"><u>[Updated] Direct Video Sync From Twitter to Tumblr for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-9-indoor-game-apps-perfect-for-android-without-connectivity-for-2024/"><u>[Updated] Top 9 Indoor Game Apps - Perfect For Android Without Connectivity for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/macwinx-dvd-cddvdmac/"><u>便利なマニュアル] Mac版WinX DVDリッパー - すぐにCDやDVDをMacで使えるよう</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725285636188-digiarty-winx-dvd/"><u>Digiarty WinX DVDソフトウェア - 一般ユーザーの質疑と回答</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/expert-guide-ideal-handbrake-presets-for-seamless-dvd-to-mp4-transfers/"><u>Expert Guide: Ideal HandBrake Presets for Seamless DVD-to-MP4 Transfers</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-burn-a-dvd-on-macos-without-quality-loss-step-by-step-guide/"><u>How to Burn a DVD on macOS without Quality Loss - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges/"><u>In 2024, Explore Your Watching Tendencies The Ultimate Six YouTuber Categorization Challenges</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-digital-presence-top-screen-share-methods-on-social-streaming-platforms/"><u>In 2024, Seamless Digital Presence Top Screen-Share Methods on Social Streaming Platforms</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/kostengunstige-methoden-zur-reparatur-beschadigter-mp4-dateien-auf-windows-und-mac-os/"><u>Kostengünstige Methoden Zur Reparatur Beschädigter MP4-Dateien Auf Windows Und Mac OS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/prime-5-image-background-altering-mobile-apps-iphone/"><u>Prime 5 Image Background Altering Mobile Apps (iPhone)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-xbox-one-gameplay-a-step-by-step-guide-to-resync-a-controller/"><u>Reviving Your Xbox One Gameplay – A Step-by-Step Guide to Resync a Controller</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/simple-steps-to-digitize-your-dvd-collection-for-any-device-windows-mac-or-mobile-use/"><u>Simple Steps to Digitize Your DVD Collection for Any Device - Windows, Mac, or Mobile Use!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/transformar-tu-contenido-audiovisual-con-winxvideo-ai-guia-definitiva-para-obtener-una-calidad-impecable/"><u>Transformar Tu Contenido Audiovisual Con Winxvideo AI: Guía Definitiva Para Obtener Una Calidad Impecable</u></a></li>
 </ul></div>
 
