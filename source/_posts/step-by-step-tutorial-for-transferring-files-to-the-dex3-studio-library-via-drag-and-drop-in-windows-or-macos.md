@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Transferring Files to the DEX3 Studio Library via Drag & Drop in Windows or macOS
-date: 2024-11-27T19:14:23.718Z
-updated: 2024-12-01T17:18:38.917Z
+date: 2024-12-03T18:18:40.627Z
+updated: 2024-12-09T03:43:58.373Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-engaging-conversations-with-your-youtube-audience/"><u>[Updated] Engaging Conversations with Your YouTube Audience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>[Updated] In 2024, Fast-Paced Favorites Leading Background Music in YT Shorts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-quintessential-quest-for-quality-storytellers-top-8-institutions-for-2024/"><u>[Updated] The Quintessential Quest for Quality Storytellers – Top 8 Institutions for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/arma-evolutionary-strategies-for-eliminating-game-crashes-updates/"><u>Arma Evolutionary Strategies for Eliminating Game Crashes Updates</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999341742-cyberpunk-2077-graphics-optimization-for-windows-11-use-your-gpu/"><u>Cyberpunk 2077 Graphics Optimization for Windows 11 – Use Your GPU!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 12 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/live-streaming-mastery-top-features-of-manycam-the-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery: Top Features of ManyCam, the Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/master-your-online-presence-with-manycam-leading-virtual-webcam-solution-for-live-videos/"><u>Master Your Online Presence with ManyCam - Leading Virtual Webcam Solution for Live Videos</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/real-time-broadcast-mastery-with-manycam-leading-live-streaming-vfx-and-virtual-camera-tech/"><u>Real-Time Broadcast Mastery with ManyCam: Leading Live Streaming, VFX, and Virtual Camera Tech</u></a></li>
-<li><a href="https://fox-within.techidaily.com/replicacion-segura-de-unidades-disco-cifradas-con-bitlocker-en-windows-paso-a-paso-para-windows-11-8-y-7/"><u>Replicación Segura De Unidades Disco Cifradas Con BitLocker en Windows: Paso a Paso Para Windows 11, 8 Y 7</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transform-online-broadcasts-using-manycam-the-ultimate-guide-to-live-video-applications-and-fake-webcams/"><u>Transform Online Broadcasts Using ManyCam – The Ultimate Guide to Live Video Applications & Fake Webcams</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transform-your-online-presence-with-manycam-advanced-live-streaming-tools-and-hd-virtual-camera-tech/"><u>Transform Your Online Presence with ManyCam – Advanced Live Streaming Tools and HD Virtual Camera Tech</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transform-your-online-presence-discover-how-manycam-revolutionizes-live-video-and-virtual-camera-tech/"><u>Transform Your Online Presence: Discover How ManyCam Revolutionizes Live Video and Virtual Camera Tech</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/ultimate-guide-mastering-manycam-features-and-virtual-backgrounds/"><u>Ultimate Guide: Mastering ManyCam Features and Virtual Backgrounds</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/virtual-broadcasting-made-easy-with-manycams-live-and-cam-overlay-solutions/"><u>Virtual Broadcasting Made Easy with ManyCam's Live and Cam Overlay Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-the-battle-against-unresponsive-gameplay-tips-for-stabilizing-pubg-on-pc/"><u>Winning the Battle Against Unresponsive Gameplay: Tips for Stabilizing PUBG on PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-fb-video-frame-ratio-classifications/"><u>[New] 2024 Approved FB Video Frame Ratio Classifications</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-the-art-of-uploading-videos-into-personalized-playlists/"><u>[New] 2024 Approved Mastering the Art of Uploading Videos Into Personalized Playlists</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-art-of-logging-streaming-services-with-fidelity/"><u>[New] In 2024, The Art of Logging Streaming Services with Fidelity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-step-by-step-process-youtube-vids-converted-to-mp3/"><u>[Updated] 2024 Approved Step-by-Step Process YouTube Vids, Converted to MP3</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pinnacle-audio-dramatic-works/"><u>[Updated] Pinnacle Audio-Dramatic Works</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-unraveling-the-mystery-why-does-my-computer-keep-freezing-insights-by-yl-computing/"><u>1. Unraveling the Mystery: Why Does My Computer Keep Freezing? - Insights by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-enable-real-time-smart-home-adjustments/"><u>Can AI Enable Real-Time Smart Home Adjustments?</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/easy-steps-to-manage-your-software-on-pc-learn-how-to-install-and-uninstall-via-windows-control-panel-with-yl-computings-expert-advice/"><u>Easy Steps to Manage Your Software on PC: Learn How to Install & Uninstall via Windows Control Panel with YL Computing's Expert Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-x100-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo X100 Pro</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/premium-hd-wallpaper-pack-explore-the-world-of-black-clover-with-yl-computings-authentic-collection/"><u>Premium HD Wallpaper Pack: Explore the World of Black Clover with YL Computing's Authentic Collection</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/resolving-scanner-speed-issues-a-guide-from-yl-computing-optimizing-your-devices-performance/"><u>Resolving Scanner Speed Issues: A Guide From YL Computing - Optimizing Your Device's Performance</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-diagnosis-of-windows-pc-graphics-hardware-with-expert-tips-from-yl-computing/"><u>Step-by-Step Diagnosis of Windows PC Graphics Hardware with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/tiktok-greats-on-snapchat-screen-time-for-2024/"><u>TikTok Greats on Snapchat Screen Time for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/yl-software-guide-what-to-do-when-your-scanner-wont-turn-on/"><u>YL Software Guide: What to Do When Your Scanner Won't Turn On?</u></a></li>
 </ul></div>
 
