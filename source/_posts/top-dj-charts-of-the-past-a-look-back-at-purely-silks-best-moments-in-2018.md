@@ -1,7 +1,7 @@
 ---
 title: "Top DJ Charts of the Past: A Look Back at Purely Silk's Best Moments in 2018"
-date: 2024-12-03T21:15:37.513Z
-updated: 2024-12-08T20:31:52.857Z
+date: 2024-12-13T17:07:24.509Z
+updated: 2024-12-15T18:16:05.699Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2018 PCDJ Milestones
@@ -56,7 +56,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 Stay tuned in for an upcoming blog post that will cover some of our goals for 2019, and beyond!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,22 +78,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/12/pcdj-2018-yearinreview.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-the-complete-encyclopedia-of-tweetresponses-for-2024/"><u>[New] The Complete Encyclopedia of TweetResponses for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2023s-finest-zero-cost-online-broadcast-software-roundup/"><u>[Updated] 2023'S Finest Zero-Cost Online Broadcast Software Roundup</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-8-time-lapse-camera-applications-for-mobile-devices-a-comprehensive-guide-by-movavi/"><u>Best 8 Time-Lapse Camera Applications for Mobile Devices : A Comprehensive Guide by Movavi</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/comparative-analysis-how-does-microsoft-security-essentials-stack-up-against-windows-defender-expertise-by-yl-software/"><u>Comparative Analysis: How Does Microsoft Security Essentials Stack Up Against Windows Defender? Expertise by YL Software</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/complete-tutorial-on-removing-programs-via-windows-control-panel-by-softguide-experts/"><u>Complete Tutorial on Removing Programs via Windows Control Panel by SoftGuide Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/crafting-uncomfortable-brews-in-minecraft-a-step-by-step-guide/"><u>Crafting Uncomfortable Brews in Minecraft: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/diagnose-and-fix-your-pcs-network-card-with-yl-computings-windows-troubleshooting-tips/"><u>Diagnose & Fix Your PC's Network Card with YL Computing’s Windows Troubleshooting Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-started-with-kyocera-printing-download-and-setup-drivers-on-windows/"><u>Getting Started with KYOCERA Printing: Download and Setup Drivers on Windows</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/hauntingly-beautiful-unique-halloween-themes-bgs-and-designs-from-yl-softwares-yl-computing/"><u>Hauntingly Beautiful: Unique Halloween Themes, BGs & Designs From YL Software's YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-can-i-enhance-my-pcs-performance-with-hardware-improvements-yl-computing/"><u>How Can I Enhance My PC's Performance with Hardware Improvements? - YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-with-wintoys-the-compact-guidebook/"><u>Mastering Windows with WinToys: The Compact Guidebook</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/optimize-your-pc-like-a-pro-advanced-techniques-for-peak-performance-by-yl-software/"><u>Optimize Your PC Like a Pro: Advanced Techniques for Peak Performance by YL Software</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/solving-the-mystery-of-missing-printers-in-device-manager-expert-tips-from-yl-computings-latest-video-walkthrough/"><u>Solving the Mystery of Missing Printers in Device Manager - Expert Tips From YL Computing's Latest Video Walkthrough</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-detecting-memory-problems-in-windows-systems-with-tips-from-yl-software-experts/"><u>Step-by-Step: Detecting Memory Problems in Windows Systems with Tips From YL Software Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-startup-failure-error-0xc000007b/"><u>Troubleshooting Tips for Fixing Startup Failure (Error 0Xc000007b)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-behind-chatgpts-ownership/"><u>Unraveling the Mystery Behind ChatGPT's Ownership</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-apples-future-latest-updates-on-ai-capabilities-siri-enhancements-and-ios-18-revealed-during-todays-wwdc/"><u>Unveiling Apple's Future: Latest Updates on AI Capabilities, Siri Enhancements & iOS 18 Revealed During Today's WWDC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-streamlined-sounds-iphones-efficient-podcasting/"><u>[New] In 2024, Streamlined Sounds IPhone's Efficient Podcasting</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/banish-blue-screen-blues-expert-strategies-by-yl-software-for-diagnosing-and-repairing-pc-crashes-instantly/"><u>Banish Blue Screen Blues: Expert Strategies by YL Software for Diagnosing and Repairing PC Crashes Instantly</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/earning-in-a-world-dominated-by-youtubers/"><u>Earning in a World Dominated by YouTubers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-apps-for-effective-mac-sniping/"><u>Essential Apps for Effective Mac Sniping</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hilarity-ensues-as-martian-metropolis-emerges-amidst-chaotic-winds-and-playfulness/"><u>Hilarity Ensues as Martian Metropolis Emerges Amidst Chaotic Winds and Playfulness</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-your-pixels-select-best-10-online-enhancement-apps/"><u>In 2024, Perfect Your Pixels Select Best 10 Online Enhancement Apps</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/master-your-computers-energy-use-configuring-power-options-with-yl-software-expertise/"><u>Master Your Computer's Energy Use: Configuring Power Options with YL Software Expertise</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mastering-file-management-shifting-folders-seamlessly-with-windows-by-yl-software-tech-tips/"><u>Mastering File Management: Shifting Folders Seamlessly with Windows by YL Software Tech Tips</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/speeding-up-boot-expert-tips-from-yl-computing-to-shorten-your-pcs-startup-time/"><u>Speeding Up Boot: Expert Tips From YL Computing to Shorten Your PC's Startup Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-cinematic-skills-the-quickest-5-diy-hacks-for-success-for-2024/"><u>Swift Cinematic Skills The Quickest 5 DIY Hacks for Success for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-displays-of-2024-affordable-options-and-cutting-edge-features/"><u>Top Rated Gaming Displays of 2024: Affordable Options & Cutting-Edge Features</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/understanding-and-fixing-display-driver-issues-in-windows-an-expert-guide-by-yl-software/"><u>Understanding and Fixing Display Driver Issues in Windows - An Expert Guide by YL Software</u></a></li>
+<li><a href="https://win-docs.techidaily.com/unlocking-efficiency-in-digital-publishing-the-limit-to-creating-pdfs-using-flipbuilder/"><u>Unlocking Efficiency in Digital Publishing: The Limit to Creating PDFs Using FlipBuilder</u></a></li>
 </ul></div>
 

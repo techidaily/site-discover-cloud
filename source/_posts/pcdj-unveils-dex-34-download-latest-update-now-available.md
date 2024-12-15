@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils DEX 3.4 Download - Latest Update Now Available!
-date: 2024-12-04T18:59:31.196Z
-updated: 2024-12-09T15:12:55.791Z
+date: 2024-12-09T16:26:44.078Z
+updated: 2024-12-15T16:40:36.006Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,18 +93,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/eading-10-sound-intensification-apps-for-multiple-systems-for-2024/"><u>[New] Leading 10 Sound Intensification Apps for Multiple Systems for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-seamless-social-circulation-sharing-your-journey-through-video-on-facebook-for-2024/"><u>[New] Seamless Social Circulation Sharing Your Journey Through Video on Facebook for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-assessing-the-longevity-and-support-life-cycle-of-huawei-p10/"><u>[Updated] 2024 Approved Assessing the Longevity & Support Life Cycle of Huawei P10</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-explore-top-10-apples-affordable-and-free-image-collage-applications-for-2024/"><u>[Updated] Explore Top 10 Apple's Affordable & Free Image Collage Applications for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/download-high-quality-ford-endeavour-backgrounds-exclusive-yl-computing-imagery-and-software-solutions/"><u>Download High-Quality Ford Endeavour Backgrounds - Exclusive YL Computing Imagery & Software Solutions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-instagram-feed-vertical-video-edits-in-fcpx-for-2024/"><u>Elevate Your Instagram Feed Vertical Video Edits in FCPX for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/exploring-the-consequences-the-transformative-influence-of-the-first-sino-japanese-war-insights-from-yl-computing-and-yl-software/"><u>Exploring the Consequences: The Transformative Influence of the First Sino-Japanese War - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-s23-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ator-in-visual-symphony-production-for-2024/"><u>Innovator in Visual Symphony Production for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ating-the-world-of-mp4-edits-on-apple-devices-for-2024/"><u>Navigating the World of MP4 Edits on Apple Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/ranking-the-top-12-streamlined-screen-swivel-cams-for-content-for-2024/"><u>Ranking the Top 12 Streamlined Screen-Swivel Cams for Content for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/trouble-with-your-scanners-network-link-discover-key-fixes-by-yl-software-experts/"><u>Trouble With Your Scanner's Network Link? Discover Key Fixes by YL Software Experts</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/unraveling-the-mystery-behind-your-screens-darkness-a-guide-by-yl-computing/"><u>Unraveling the Mystery Behind Your Screen's Darkness: A Guide by YL Computing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-crafting-soft-endings-on-soundscapes-with-audacity/"><u>[Updated] Crafting Soft Endings on Soundscapes with Audacity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-construct-your-own-home-made-google-cardboard-vr-device/"><u>[Updated] How to Construct Your Own Home-Made Google Cardboard VR Device</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-mastering-the-art-of-crypto-ownership-insights-from-yl-computings-expertise/"><u>1. Mastering the Art of Crypto Ownership: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-compatibility-and-features-of-numark-dx-ns6-ii-dj-controller-with-dex-iii-units-download-mapping/"><u>1. Ultimate Guide: Compatibility and Features of Numark DX-NS6 II DJ Controller with DEX III Units - Download Mapping</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlock-your-charm-personalized-youtube-channel-url-essentials/"><u>2024 Approved Unlock Your Charm Personalized YouTube Channel URL Essentials</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/craft-your-story-leading-drawers-in-ipados-for-2024/"><u>Craft Your Story Leading Drawers in iPadOS for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-fix-a-malfunctioning-cpu-fan-essential-tips-from-yl-computing/"><u>How to Fix a Malfunctioning CPU Fan: Essential Tips From YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/innovative-beyond-the-boundary-design-unique-wallpapers-backgrounds-and-images-by-yl-software/"><u>Innovative Beyond the Boundary Design: Unique Wallpapers, Backgrounds & Images by YL Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/moko-universal-foldable-bluetooth-keyboard/"><u>MoKo Universal Foldable Bluetooth Keyboard</u></a></li>
+<li><a href="https://blog-min.techidaily.com/multiple-webcams-compatible-software-discover-manycams-features/"><u>Multiple Webcams Compatible Software: Discover ManyCam's Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/prime-guide-the-ten-best-budget-screen-share-software-for-2024/"><u>Prime Guide The Ten Best Budget Screen Share Software for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/seize-language-power-6-ways-to-learn-arabic-via-mondly-online/"><u>Seize Language Power: 6 Ways to Learn Arabic via Mondly Online</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/stepwise-guide-to-uploading-and-livestreaming-video-recordings-for-2024/"><u>Stepwise Guide to Uploading and Livestreaming Video Recordings for 2024</u></a></li>
 </ul></div>
 

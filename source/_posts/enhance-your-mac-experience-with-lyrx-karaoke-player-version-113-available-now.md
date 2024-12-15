@@ -1,7 +1,7 @@
 ---
 title: Enhance Your MAC Experience with LYRX Karaoke Player Version 1.1.3 - Available Now!
-date: 2024-12-07T04:30:15.898Z
-updated: 2024-12-09T07:19:59.845Z
+date: 2024-12-13T17:41:01.401Z
+updated: 2024-12-15T17:42:15.984Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NEW AND CHANGED IN LYRX 1.1.3
@@ -51,7 +51,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 _**NOTE:** With your existing version of LYRX closed, download and install version 1.1.3 to update now_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The Party Tyme Karaoke Subscription Works In LYRX
@@ -59,7 +59,7 @@ _**NOTE:** With your existing version of LYRX closed, download and install versi
 _Have questions about our **top karaoke software for MAC** and the new features found in LYRX 1.1.3? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,18 +81,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrxv113-now-available.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-embrace-tranquility-top-10-stress-free-games/"><u>[New] 2024 Approved Embrace Tranquility Top 10 Stress-Free Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-stellar-15-stop-motion-films-to-remember/"><u>[New] Stellar 15 Stop-Motion Films to Remember</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-optimal-introduction-editor-software-apps-for-2024/"><u>[Updated] Optimal Introduction Editor Software (Apps) for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-sony-xperia-1-v-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Sony Xperia 1 V support MOV videos ?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-official-nvidia-rtx-3090-graphics-card-drivers-for-windows-7-8-and-10/"><u>Download Official NVIDIA RTX 3090 Graphics Card Drivers for Windows 7, 8 & 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-vivo-x100-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Vivo X100</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-audio-alchemy-mixing-techniques-for-sound-fusion-with-davinci-resolve/"><u>[New] Audio Alchemy Mixing Techniques for Sound Fusion with DaVinci Resolve</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-empowering-video-content-with-advanced-aiseesoft-tech-for-2024/"><u>[New] Empowering Video Content with Advanced Aiseesoft Tech for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-clock-companion-for-wedding-planners-and-couples/"><u>[Updated] The Ultimate Clock Companion for Wedding Planners & Couples</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audacitys-blueprint-for-high-fidelity-sound-recording/"><u>2024 Approved Audacity's Blueprint for High-Fidelity Sound Recording</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-14-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 14</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/expand-your-song-selection-discover-5-latest-karaoke-songs-every-week-on-pcdjs-karaoke-cloud-pro-platform/"><u>Expand Your Song Selection - Discover 5 Latest Karaoke Songs Every Week on PCDJ's Karaoke Cloud Pro Platform</u></a></li>
 <li><a href="https://discover-cloud.techidaily.com/identifying-and-understanding-the-installation-of-your-pcs-audio-interface-with-yl-software-tips/"><u>Identifying and Understanding the Installation of Your PC’s Audio Interface with YL Software Tips</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/identifying-power-supply-issues-expert-tips-and-troubleshooting-guide-by-yl-software/"><u>Identifying Power Supply Issues: Expert Tips and Troubleshooting Guide by YL Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-5-filters-boosting-oceanic-imaging/"><u>In 2024, Premium 5 Filters Boosting Oceanic Imaging</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-review-of-advanced-parrot-ar-drone/"><u>In 2024, Expert Review of Advanced Parrot AR Drone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Asus ROG Phone 8 | Dr.fone</u></a></li>
 <li><a href="https://discover-cloud.techidaily.com/mastering-file-management-beginners-tutorial-on-opening-word-documents-yl-software-solutions/"><u>Mastering File Management: Beginner's Tutorial on Opening Word Documents - YL Software Solutions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/nine-crucial-strategies-to-elevate-your-youtube-presence-for-2024/"><u>Nine Crucial Strategies to Elevate Your Youtube Presence for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-tutorial-for-transferring-files-to-the-dex3-studio-library-via-drag-and-drop-in-windows-or-macos/"><u>Step-by-Step Tutorial for Transferring Files to the DEX3 Studio Library via Drag & Drop in Windows or macOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-driven-tickles-ais-role-in-humor-development/"><u>Tech-Driven Tickles: AI's Role in Humor Development</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/pcdj-unveils-dex-34-download-latest-update-now-available/"><u>PCDJ Unveils DEX 3.4 Download - Latest Update Now Available!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-15-free-tools-for-converting-mp4-audio-files-into-mp3-format/"><u>Top 15 Free Tools for Converting MP4 Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/trouble-free-graphics-cards-on-pc-with-tips-from-yl-computings-expert-advice/"><u>Trouble-Free Graphics Cards on PC with Tips From YL Computing's Expert Advice</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-tailored-user-journeys-with-powerful-cookiebot-capabilities/"><u>Unlock Tailored User Journeys with Powerful Cookiebot Capabilities</u></a></li>
 </ul></div>
 
