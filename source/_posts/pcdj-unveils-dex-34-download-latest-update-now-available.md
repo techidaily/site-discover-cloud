@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils DEX 3.4 Download - Latest Update Now Available!
-date: 2024-12-09T16:26:44.078Z
-updated: 2024-12-15T16:40:36.006Z
+date: 2024-12-20T16:00:44.720Z
+updated: 2024-12-24T16:20:44.091Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,18 +93,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-crafting-soft-endings-on-soundscapes-with-audacity/"><u>[Updated] Crafting Soft Endings on Soundscapes with Audacity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-construct-your-own-home-made-google-cardboard-vr-device/"><u>[Updated] How to Construct Your Own Home-Made Google Cardboard VR Device</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1-mastering-the-art-of-crypto-ownership-insights-from-yl-computings-expertise/"><u>1. Mastering the Art of Crypto Ownership: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-compatibility-and-features-of-numark-dx-ns6-ii-dj-controller-with-dex-iii-units-download-mapping/"><u>1. Ultimate Guide: Compatibility and Features of Numark DX-NS6 II DJ Controller with DEX III Units - Download Mapping</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-unlock-your-charm-personalized-youtube-channel-url-essentials/"><u>2024 Approved Unlock Your Charm Personalized YouTube Channel URL Essentials</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/craft-your-story-leading-drawers-in-ipados-for-2024/"><u>Craft Your Story Leading Drawers in iPadOS for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-fix-a-malfunctioning-cpu-fan-essential-tips-from-yl-computing/"><u>How to Fix a Malfunctioning CPU Fan: Essential Tips From YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/innovative-beyond-the-boundary-design-unique-wallpapers-backgrounds-and-images-by-yl-software/"><u>Innovative Beyond the Boundary Design: Unique Wallpapers, Backgrounds & Images by YL Software</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/moko-universal-foldable-bluetooth-keyboard/"><u>MoKo Universal Foldable Bluetooth Keyboard</u></a></li>
-<li><a href="https://blog-min.techidaily.com/multiple-webcams-compatible-software-discover-manycams-features/"><u>Multiple Webcams Compatible Software: Discover ManyCam's Features</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/prime-guide-the-ten-best-budget-screen-share-software-for-2024/"><u>Prime Guide The Ten Best Budget Screen Share Software for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/seize-language-power-6-ways-to-learn-arabic-via-mondly-online/"><u>Seize Language Power: 6 Ways to Learn Arabic via Mondly Online</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/stepwise-guide-to-uploading-and-livestreaming-video-recordings-for-2024/"><u>Stepwise Guide to Uploading and Livestreaming Video Recordings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-goovision-promax-high-res-os-capturer/"><u>[New] In 2024, GooVision ProMax High-Res OS Capturer</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-streamlining-the-timestamp-process-for-youtubers-for-2024/"><u>[New] Streamlining the Timestamp Process for YouTubers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-a05s-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy A05s Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/advantages-of-using-cryptocurrency-in-transactions-how-it-outperforms-traditional-payments-insights-by-yl-computing/"><u>Advantages of Using Cryptocurrency in Transactions: How It Outperforms Traditional Payments - Insights by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-models-discover-why-zdnet-prefers-iphone-16-pro-to-the-iphone-max/"><u>Choosing Between iPhone Models? Discover Why ZDNet Prefers iPhone 16 Pro to the iPhone Max!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-customize-your-view-and-set-preferences-a-guide-to-tweaking-control-panel-options-with-yl-computing/"><u>How to Customize Your View & Set Preferences: A Guide to Tweaking Control Panel Options with YL Computing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y27-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y27 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/section-4c-qandas/"><u>Section 4C: Q&As</u></a></li>
+<li><a href="https://article-tips.techidaily.com/testing-the-strength-of-apples-m1-in-professional-video-editing-for-2024/"><u>Testing the Strength of Apple's M1 in Professional Video Editing for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/update-security-settings-easily-learn-how-to-modify-passwords-using-yl-softwares-user-friendly-interface/"><u>Update Security Settings Easily: Learn How to Modify Passwords Using YL Software's User-Friendly Interface</u></a></li>
 </ul></div>
 

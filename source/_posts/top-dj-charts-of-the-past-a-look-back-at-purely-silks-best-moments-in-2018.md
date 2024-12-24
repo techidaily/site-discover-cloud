@@ -1,7 +1,7 @@
 ---
 title: "Top DJ Charts of the Past: A Look Back at Purely Silk's Best Moments in 2018"
-date: 2024-12-13T17:07:24.509Z
-updated: 2024-12-15T18:16:05.699Z
+date: 2024-12-17T16:21:28.002Z
+updated: 2024-12-24T16:09:14.532Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2018 PCDJ Milestones
@@ -56,7 +56,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 Stay tuned in for an upcoming blog post that will cover some of our goals for 2019, and beyond!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/12/pcdj-2018-yearinreview.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-streamlined-sounds-iphones-efficient-podcasting/"><u>[New] In 2024, Streamlined Sounds IPhone's Efficient Podcasting</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/banish-blue-screen-blues-expert-strategies-by-yl-software-for-diagnosing-and-repairing-pc-crashes-instantly/"><u>Banish Blue Screen Blues: Expert Strategies by YL Software for Diagnosing and Repairing PC Crashes Instantly</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/earning-in-a-world-dominated-by-youtubers/"><u>Earning in a World Dominated by YouTubers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-apps-for-effective-mac-sniping/"><u>Essential Apps for Effective Mac Sniping</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hilarity-ensues-as-martian-metropolis-emerges-amidst-chaotic-winds-and-playfulness/"><u>Hilarity Ensues as Martian Metropolis Emerges Amidst Chaotic Winds and Playfulness</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-your-pixels-select-best-10-online-enhancement-apps/"><u>In 2024, Perfect Your Pixels Select Best 10 Online Enhancement Apps</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/master-your-computers-energy-use-configuring-power-options-with-yl-software-expertise/"><u>Master Your Computer's Energy Use: Configuring Power Options with YL Software Expertise</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/mastering-file-management-shifting-folders-seamlessly-with-windows-by-yl-software-tech-tips/"><u>Mastering File Management: Shifting Folders Seamlessly with Windows by YL Software Tech Tips</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/speeding-up-boot-expert-tips-from-yl-computing-to-shorten-your-pcs-startup-time/"><u>Speeding Up Boot: Expert Tips From YL Computing to Shorten Your PC's Startup Time</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-cinematic-skills-the-quickest-5-diy-hacks-for-success-for-2024/"><u>Swift Cinematic Skills The Quickest 5 DIY Hacks for Success for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-displays-of-2024-affordable-options-and-cutting-edge-features/"><u>Top Rated Gaming Displays of 2024: Affordable Options & Cutting-Edge Features</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/understanding-and-fixing-display-driver-issues-in-windows-an-expert-guide-by-yl-software/"><u>Understanding and Fixing Display Driver Issues in Windows - An Expert Guide by YL Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/unlocking-efficiency-in-digital-publishing-the-limit-to-creating-pdfs-using-flipbuilder/"><u>Unlocking Efficiency in Digital Publishing: The Limit to Creating PDFs Using FlipBuilder</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-a-deep-dive-into-youtube-writers-workshop-space/"><u>[New] A Deep Dive Into YouTube’ Writers' Workshop Space</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quiet-quick-clean-auditory-connections/"><u>[New] Quiet, Quick, Clean Auditory Connections</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-up-your-snapchat-game-with-three-simple-steps/"><u>[New] Step Up Your Snapchat Game with Three Simple Steps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-frame-by-frame-verbalizer/"><u>[Updated] 2024 Approved Frame by Frame Verbalizer</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/crafting-beats-on-the-go-freestyle-sessions-with-dj-cyn-and-jason-jones-premier-mixshow-on-pcdj/"><u>Crafting Beats On The Go: Freestyle Sessions with DJ Cyn & Jason Jones | Premier Mixshow on PCDJ</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/diagnosing-graphics-card-issues-finding-the-root-cause-of-your-pcs-display-problems/"><u>Diagnosing Graphics Card Issues - Finding the Root Cause of Your PC's Display Problems</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/dont-miss-out-essential-tracks-from-bpm-supreme-djs-must-watch-music-vids/"><u>Don't Miss Out: Essential Tracks From BPM Supreme DJs - Must-Watch Music Vids!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-quickest-quads-2022-olympics-skate/"><u>In 2024, The Quickest Quads 2022 Olympics Skate</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/optimizing-your-scanners-efficiency-key-configuration-tips-from-yl-computing/"><u>Optimizing Your Scanner's Efficiency: Key Configuration Tips From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-to-bypassing-drm-on-first-16-chapters-of-your-ebook/"><u>Step-by-Step Guide to Bypassing DRM on First 16 Chapters of Your eBook</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/understanding-the-reason-behind-your-pcs-startup-beeps-an-insight-by-yl-computing-and-software-solutions/"><u>Understanding the Reason Behind Your PC's Startup Beeps: An Insight by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/understanding-the-revolutionary-change-how-chinas-great-leap-forward-shaped-modern-history-analysis-by-yl-software-solutions/"><u>Understanding the Revolutionary Change: How China's Great Leap Forward Shaped Modern History – Analysis by YL Software Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/unraveling-the-mystery-low-resolution-woes-in-gaming-insights-from-yl-computing-and-yl-software/"><u>Unraveling the Mystery: Low-Resolution Woes in Gaming - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/unveiling-opportunptions-the-diverse-applications-of-digital-assets-explained-insights-from-yl-software/"><u>Unveiling Opportunptions: The Diverse Applications of Digital Assets Explained – Insights From YL Software</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728506265572-windows-10/"><u>Windows 10の不読可能デバイスブート失敗問題解消ガイド</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/yl-computings-comprehensive-tutorial-on-setting-up-and-configuring-a-new-audio-interface/"><u>YL Computing's Comprehensive Tutorial on Setting Up and Configuring a New Audio Interface</u></a></li>
 </ul></div>
 

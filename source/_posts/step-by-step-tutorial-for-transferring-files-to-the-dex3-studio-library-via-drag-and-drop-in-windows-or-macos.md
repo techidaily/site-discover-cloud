@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Transferring Files to the DEX3 Studio Library via Drag & Drop in Windows or macOS
-date: 2024-12-14T17:27:30.605Z
-updated: 2024-12-15T18:45:35.304Z
+date: 2024-12-20T16:24:52.268Z
+updated: 2024-12-24T16:23:30.840Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/uilding-a-strong-visual-narrative-in-youtube-videos-for-2024/"><u>[New] Building a Strong Visual Narrative in YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-earnings-analysis-youtube-views-vs-financial-gain-for-2024/"><u>[New] Earnings Analysis YouTube Views vs Financial Gain for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/deal-thumbnails-for-maximum-clicks/"><u>[New] Ideal Thumbnails for Maximum Clicks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unlocking-the-art-of-photographic-posts-on-instagram-for-2024/"><u>[New] Unlocking the Art of Photographic Posts on Instagram for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-charting-the-stars-instagrams-leading-25-trailblazers-in-digital-dominion/"><u>[Updated] Charting the Stars Instagram’s Leading 25 Trailblazers in Digital Dominion</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/beyond-free-photos-understanding-pexelscoms-role-in-creative-projects-for-2024/"><u>Beyond Free Photos Understanding Pexels.coms Role in Creative Projects for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/detecting-excessive-heat-from-your-video-card-tips-and-tricks-by-yl-software/"><u>Detecting Excessive Heat From Your Video Card - Tips and Tricks by YL Software</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-80-pro-straight-screen-edition-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor 80 Pro Straight Screen Edition FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/from-sky-to-framing-a-compreenasive-review-of-the-drone-dji-spark/"><u>From Sky to Framing A Compreenasive Review of the Drone DJI Spark</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/guide-to-optimizing-your-computers-boot-process-by-controlling-startup-programs-expert-advice-by-yl-software/"><u>Guide to Optimizing Your Computer's Boot Process by Controlling Startup Programs - Expert Advice by YL Software</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-can-i-improve-my-pcs-efficiency-and-accelerate-its-functionality-with-simple-techniques/"><u>How Can I Improve My PC's Efficiency & Accelerate Its Functionality with Simple Techniques?</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/identifying-and-addressing-pc-power-supply-problems-in-windows-expert-advice-from-yl-computing/"><u>Identifying and Addressing PC Power Supply Problems in Windows: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/professional-animal-photography-and-backgrounds-for-pcmac-quality-wallpapers-from-yl-computing-studio/"><u>Professional Animal Photography & Backgrounds for PC/MAC - Quality Wallpapers From YL Computing Studio</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/resolving-incompatibility-how-to-fix-a-scanner-that-wont-work-with-your-windows-pc-tips-from-yl-computing/"><u>Resolving Incompatibility: How to Fix a Scanner That Won't Work with Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/resolving-system-failures-due-to-faulty-graphics-card-tips-from-yl-software-experts/"><u>Resolving System Failures Due to Faulty Graphics Card: Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/solve-system-sluggishness-masterful-strategies-for-peak-computer-performance-by-yl-computing/"><u>Solve System Sluggishness: Masterful Strategies for Peak Computer Performance by YL Computing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/strategies-for-secure-unmarked-photography-procurement/"><u>Strategies for Secure, Unmarked Photography Procurement</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-oneplus-discounts-and-offers-on-prime-day/"><u>Top OnePlus Discounts & Offers on Prime Day</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/understanding-hardware-failures-insights-and-solutions-exploring-by-yl-technologies/"><u>Understanding Hardware Failures: Insights and Solutions - Exploring by YL Technologies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-visual-wit-iphone-memetic-formats/"><u>[Updated] In 2024, Visual Wit IPhone Memetic Formats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-your-capacity-20-premier-gratis-cloud-storage-options/"><u>Boost Your Capacity 20 Premier Gratis Cloud Storage Options</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/browsing-bygone-tales-in-the-facebook-universe-with-devices/"><u>Browsing Bygone Tales in the Facebook Universe with Devices</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/cryptocurrency-price-snapshot-btc-eth-and-more-on-1027-comprehensive-update-by-yl-computing/"><u>Cryptocurrency Price Snapshot - BTC, ETH & More on 10/27 - Comprehensive Update by YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dealing-with-a-non-responsive-trackpad-fixes-and-insights-by-yl-software/"><u>Dealing with a Non-Responsive Trackpad: Fixes and Insights by YL Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-strategies-for-effective-angle-rotations-on-android/"><u>Expert Strategies for Effective Angle Rotations on Android</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-moto-g-stylus-5g-2023-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Moto G Stylus 5G (2023) Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a78-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A78 5GFRP Lock</u></a></li>
+<li><a href="https://win-online.techidaily.com/movavi-mov-ogg/"><u>Movavi에서 MOV를 인터넷 연결을 사용하여 OGG로 제공하는 친스 영화 비디오 변환 - 무료 서비스</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-remove-tiktok-watermarks-with-ease-top-online-solutions/"><u>New Remove TikTok Watermarks with Ease Top Online Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/secure-your-digital-wallet-a-beginners-guide-to-purchasing-crypto-with-confidence-yl-tech-insights/"><u>Secure Your Digital Wallet: A Beginner's Guide to Purchasing Crypto with Confidence - YL Tech Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-inoperative-microphones-in-windows-10-systems/"><u>Troubleshooting Inoperative Microphones in Windows 10 Systems</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/yl-computing-unveils-simplified-steps-for-secure-cryptocurrency-payments-with-blockchain-technology/"><u>YL Computing Unveils Simplified Steps for Secure Cryptocurrency Payments with Blockchain Technology</u></a></li>
 </ul></div>
 
