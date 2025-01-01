@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils DEX 3.4 Download - Latest Update Now Available!
-date: 2024-12-20T16:00:44.720Z
-updated: 2024-12-24T16:20:44.091Z
+date: 2024-12-24T18:04:07.743Z
+updated: 2024-12-30T17:56:16.855Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,16 +93,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-goovision-promax-high-res-os-capturer/"><u>[New] In 2024, GooVision ProMax High-Res OS Capturer</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-streamlining-the-timestamp-process-for-youtubers-for-2024/"><u>[New] Streamlining the Timestamp Process for YouTubers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-a05s-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy A05s Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/advantages-of-using-cryptocurrency-in-transactions-how-it-outperforms-traditional-payments-insights-by-yl-computing/"><u>Advantages of Using Cryptocurrency in Transactions: How It Outperforms Traditional Payments - Insights by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-models-discover-why-zdnet-prefers-iphone-16-pro-to-the-iphone-max/"><u>Choosing Between iPhone Models? Discover Why ZDNet Prefers iPhone 16 Pro to the iPhone Max!</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-customize-your-view-and-set-preferences-a-guide-to-tweaking-control-panel-options-with-yl-computing/"><u>How to Customize Your View & Set Preferences: A Guide to Tweaking Control Panel Options with YL Computing</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y27-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y27 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/section-4c-qandas/"><u>Section 4C: Q&As</u></a></li>
-<li><a href="https://article-tips.techidaily.com/testing-the-strength-of-apples-m1-in-professional-video-editing-for-2024/"><u>Testing the Strength of Apple's M1 in Professional Video Editing for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/update-security-settings-easily-learn-how-to-modify-passwords-using-yl-softwares-user-friendly-interface/"><u>Update Security Settings Easily: Learn How to Modify Passwords Using YL Software's User-Friendly Interface</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-break-bot-patterns-enhance-organic-video-reach/"><u>[New] In 2024, Break Bot Patterns, Enhance Organic Video Reach</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-walking-through-time-a-guide-to-inverted-videos-on-instagram-for-2024/"><u>[New] Walking Through Time A Guide to Inverted Videos on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-new-heights-with-popular-youtube-content-for-2024/"><u>[Updated] Charting New Heights with Popular YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-implementing-custom-overlays-in-youtube-videos/"><u>2024 Approved Implementing Custom Overlays in YouTube Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-rog-phone-7-music-recovery-recover-deleted-music-from-asus-rog-phone-7-by-fonelab-android-recover-music/"><u>Asus ROG Phone 7 Music Recovery - Recover Deleted Music from Asus ROG Phone 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808139207-download-torrents-with-vpn-to-stay-safe-the-fastest-vpn-around-the-world/"><u>Download Torrents with VPN to Stay Safe – The Fastest VPN Around the World</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/efficiently-organizing-user-roles-and-privileges-using-yl-softwares-control-panel-tutorial/"><u>Efficiently Organizing User Roles & Privileges Using YL Software's Control Panel Tutorial</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/frequent-challenges-with-windows-gpu-solutions-and-advice-from-yl-softwares-experts/"><u>Frequent Challenges with Windows GPU: Solutions and Advice From YL Software's Experts</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/galactic-nebula-graphics-pack-premium-cosmic-backdrops-and-desktop-decor-from-yl-software-solutions/"><u>Galactic Nebula Graphics Pack: Premium Cosmic Backdrops & Desktop Decor From YL Software Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/high-definition-audi-s4-desktop-wallpapers-stunning-graphics-and-imagery-by-yl-computing/"><u>High-Definition Audi S4 Desktop Wallpapers: Stunning Graphics & Imagery by YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-diagnose-and-fix-underwhelming-graphics-card-issues-expertise-from-yl-software/"><u>How to Diagnose and Fix Underwhelming Graphics Card Issues - Expertise From YL Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lowest-price-promo-codes-for-winx-hd-video-converter-v671-on-macos-get-the-deal/"><u>Lowest Price Promo Codes for WinX HD Video Converter v6.7.1 on macOS - Get the Deal!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mastering-file-shrinking-on-pcs-with-windows-tips-from-yl-computing-expertise/"><u>Mastering File Shrinking on PCs with Windows - Tips From YL Computing Expertise</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95856043-9781620557341-mirror-of-the-marvelous-2nd-ed/"><u>Mirror of the Marvelous (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/navigating-uncertainty-in-digital-assets-exploring-the-hazards-of-investing-in-cryptocurrencies-with-insights-from-yl-software/"><u>Navigating Uncertainty in Digital Assets: Exploring the Hazards of Investing in Cryptocurrencies - With Insights From YL Software</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-opening-device-manager-on-windows-10-tech-solutions-by-xyz/"><u>Step-by-Step Guide: Opening Device Manager on Windows 10 - Tech Solutions by XYZ</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlining-virtual-collaborations-a-comprehensive-scheduling-and-recording-manual-for-slack-plus-filmora-for-2024/"><u>Streamlining Virtual Collaborations A Comprehensive Scheduling & Recording Manual for Slack + Filmora for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-de-reduction-du-format-video-convertisseur-par-movavi/"><u>Techniques De Réduction Du Format Vidéo - Convertisseur Par Movavi</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/what-to-do-if-you-suspect-a-faulty-component-in-your-pc-guidance-from-tech-experts-at-yl-software/"><u>What To Do If You Suspect a Faulty Component in Your PC – Guidance From Tech Experts at YL Software</u></a></li>
 </ul></div>
 

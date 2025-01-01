@@ -1,7 +1,7 @@
 ---
 title: Enhance Your MAC Experience with LYRX Karaoke Player Version 1.1.3 - Available Now!
-date: 2024-12-17T16:08:13.566Z
-updated: 2024-12-24T16:28:02.258Z
+date: 2024-12-27T17:23:18.672Z
+updated: 2024-12-30T16:02:13.243Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NEW AND CHANGED IN LYRX 1.1.3
@@ -51,7 +51,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 _**NOTE:** With your existing version of LYRX closed, download and install version 1.1.3 to update now_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The Party Tyme Karaoke Subscription Works In LYRX
@@ -59,7 +59,7 @@ _**NOTE:** With your existing version of LYRX closed, download and install versi
 _Have questions about our **top karaoke software for MAC** and the new features found in LYRX 1.1.3? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,19 +81,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrxv113-now-available.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-your-vocal-image-for-instagrams-dynamic-features/"><u>[New] 2024 Approved Crafting Your Vocal Image for Instagram’s Dynamic Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-box-opening-marketing-mastery/"><u>[Updated] Box-Opening Marketing Mastery</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-free-content-with-these-top-7-tools-for-instagram-video-editing-for-2024/"><u>[Updated] Unlock Free Content with These Top 7 Tools for Instagram Video Editing for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization/"><u>2024 Approved From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/customizing-input-devices-a-step-by-step-guide-to-adjusting-your-mouse-and-keyboard-on-windows-via-control-panel-tips-by-yl-computing/"><u>Customizing Input Devices: A Step-by-Step Guide to Adjusting Your Mouse & Keyboard on Windows via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/diagnosing-a-dead-pc-mouse-expert-advice-and-solutions-by-yl-software/"><u>Diagnosing a Dead PC Mouse: Expert Advice and Solutions by YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2021-launching-problems-strategies-to-get-past-the-unresponsive-screen-dilemma/"><u>Football Manager 2021 Launching Problems: Strategies to Get Past the Unresponsive Screen Dilemma</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-emoji-tips-for-yt-comments-a-quick-guide/"><u>In 2024, Emoji Tips for YT Comments A Quick Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/laughing-moments-crafting-with-adobe-for-2024/"><u>Laughing Moments Crafting with Adobe for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pro-tips-for-perfect-pet-gazes-adjusting-photographic-eyes/"><u>Pro Tips for Perfect Pet Gazes: Adjusting Photographic Eyes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/simple-strategies-for-recording-on-youtube-for-2024/"><u>Simple Strategies for Recording on YouTube for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/the-significance-of-the-may-fourth-movement-in-shaping-contemporary-historical-perspectives-insights-by-yl-computing/"><u>The Significance of the May Fourth Movement in Shaping Contemporary Historical Perspectives - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/understanding-your-laptops-frozen-boot-issue-a-guide-by-yl-computing-and-software-solutions/"><u>Understanding Your Laptop's Frozen Boot Issue: A Guide by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/why-does-my-computer-keep-freezing-and-crashing-out-of-nowhere-solutions-by-yl-technology-specialists/"><u>Why Does My Computer Keep Freezing & Crashing Out Of Nowhere? Solutions by YL Technology Specialists</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-fix-for-silent-audio-on-obs/"><u>[New] 2024 Approved Fix for Silent Audio on OBS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>2024 Approved Kitchen Kings & Queen Top YouTube Gastronomes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-pioneers-cutting-edge-ai-technology-a-glimpse-into-whats-next-for-your-iphone-zdnet-learn-about-the-revolutionary-advancements-in-artificial-intellige96/"><u>Apple Pioneers Cutting-Edge AI Technology: A Glimpse Into What's Next for Your iPhone | ZDNET - Learn About the Revolutionary Advancements in Artificial Intelligence that Could Redefine Your Next iPhone Upgrade, According to Recent Apple Research.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/construct-and-create-your-dream-city-in-cities-skylines-a-comprehensive-reveal/"><u>Construct and Create Your Dream City in 'Cities: Skylines': A Comprehensive Reveal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-to-perfect-home-productivity-habits/"><u>Harnessing AI to Perfect Home Productivity Habits</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/high-definition-attack-on-titan-visuals-for-desktop-ultimate-background-gallery-by-yl-computing-top-photo-collections-premium-software-solutions/"><u>High Definition Attack on Titan Visuals for Desktop: Ultimate Background Gallery by YL Computing – Top Photo Collections | Premium Software Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-speed-up-a-sluggish-pc-tips-and-solutions-from-yl-computing/"><u>How to Speed Up a Sluggish PC: Tips & Solutions From YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-g22-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia G22 Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-vintage-games-with-windows-photo-album/"><u>Integrating Vintage Games with Windows Photo Album</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-tab-s5e-comprehensive-review-of-a-feature-packed-android-device/"><u>Samsung Galaxy Tab S5e: Comprehensive Review of a Feature-Packed Android Device</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/troubleshooting-guide-correcting-issues-with-scanner-installation-tips-from-yl-computing/"><u>Troubleshooting Guide: Correcting Issues with Scanner Installation - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/uncovering-the-intent-an-in-depth-look-at-computer-system-registries-by-yl-computing/"><u>Uncovering the Intent: An In-Depth Look at Computer System Registries - By YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-your-ultimate-resource-for-apple-product-handbooks-detailed-specifications-and-fix-it-guides/"><u>ZDNet: Your Ultimate Resource for Apple Product Handbooks, Detailed Specifications & Fix-It Guides</u></a></li>
 </ul></div>
 
