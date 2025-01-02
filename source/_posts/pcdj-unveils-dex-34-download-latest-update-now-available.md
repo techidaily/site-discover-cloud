@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils DEX 3.4 Download - Latest Update Now Available!
-date: 2024-12-24T18:04:07.743Z
-updated: 2024-12-30T17:56:16.855Z
+date: 2024-12-25T20:45:30.823Z
+updated: 2025-01-01T22:29:32.959Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,7 +65,7 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
@@ -93,24 +93,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-break-bot-patterns-enhance-organic-video-reach/"><u>[New] In 2024, Break Bot Patterns, Enhance Organic Video Reach</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-walking-through-time-a-guide-to-inverted-videos-on-instagram-for-2024/"><u>[New] Walking Through Time A Guide to Inverted Videos on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-new-heights-with-popular-youtube-content-for-2024/"><u>[Updated] Charting New Heights with Popular YouTube Content for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-implementing-custom-overlays-in-youtube-videos/"><u>2024 Approved Implementing Custom Overlays in YouTube Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/asus-rog-phone-7-music-recovery-recover-deleted-music-from-asus-rog-phone-7-by-fonelab-android-recover-music/"><u>Asus ROG Phone 7 Music Recovery - Recover Deleted Music from Asus ROG Phone 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808139207-download-torrents-with-vpn-to-stay-safe-the-fastest-vpn-around-the-world/"><u>Download Torrents with VPN to Stay Safe – The Fastest VPN Around the World</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/efficiently-organizing-user-roles-and-privileges-using-yl-softwares-control-panel-tutorial/"><u>Efficiently Organizing User Roles & Privileges Using YL Software's Control Panel Tutorial</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/frequent-challenges-with-windows-gpu-solutions-and-advice-from-yl-softwares-experts/"><u>Frequent Challenges with Windows GPU: Solutions and Advice From YL Software's Experts</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/galactic-nebula-graphics-pack-premium-cosmic-backdrops-and-desktop-decor-from-yl-software-solutions/"><u>Galactic Nebula Graphics Pack: Premium Cosmic Backdrops & Desktop Decor From YL Software Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/high-definition-audi-s4-desktop-wallpapers-stunning-graphics-and-imagery-by-yl-computing/"><u>High-Definition Audi S4 Desktop Wallpapers: Stunning Graphics & Imagery by YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-diagnose-and-fix-underwhelming-graphics-card-issues-expertise-from-yl-software/"><u>How to Diagnose and Fix Underwhelming Graphics Card Issues - Expertise From YL Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/lowest-price-promo-codes-for-winx-hd-video-converter-v671-on-macos-get-the-deal/"><u>Lowest Price Promo Codes for WinX HD Video Converter v6.7.1 on macOS - Get the Deal!</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/mastering-file-shrinking-on-pcs-with-windows-tips-from-yl-computing-expertise/"><u>Mastering File Shrinking on PCs with Windows - Tips From YL Computing Expertise</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95856043-9781620557341-mirror-of-the-marvelous-2nd-ed/"><u>Mirror of the Marvelous (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/navigating-uncertainty-in-digital-assets-exploring-the-hazards-of-investing-in-cryptocurrencies-with-insights-from-yl-software/"><u>Navigating Uncertainty in Digital Assets: Exploring the Hazards of Investing in Cryptocurrencies - With Insights From YL Software</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-opening-device-manager-on-windows-10-tech-solutions-by-xyz/"><u>Step-by-Step Guide: Opening Device Manager on Windows 10 - Tech Solutions by XYZ</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/streamlining-virtual-collaborations-a-comprehensive-scheduling-and-recording-manual-for-slack-plus-filmora-for-2024/"><u>Streamlining Virtual Collaborations A Comprehensive Scheduling & Recording Manual for Slack + Filmora for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/techniques-de-reduction-du-format-video-convertisseur-par-movavi/"><u>Techniques De Réduction Du Format Vidéo - Convertisseur Par Movavi</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/what-to-do-if-you-suspect-a-faulty-component-in-your-pc-guidance-from-tech-experts-at-yl-software/"><u>What To Do If You Suspect a Faulty Component in Your PC – Guidance From Tech Experts at YL Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhancing-focus-advanced-techniques-for-videoleap-zooming/"><u>[New] In 2024, Enhancing Focus Advanced Techniques for VideoLeap Zooming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-screen-capturing-made-easy-best-apps-for-windows-10/"><u>[Updated] 2024 Approved Screen Capturing Made Easy Best Apps for Windows 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-convincing-audiences-to-join-a-positive-approach/"><u>[Updated] In 2024, Convincing Audiences to Join A Positive Approach</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-what-to-do-if-your-macbook-air-wont-boot-up-due-to-freezing/"><u>Expert Advice: What To Do If Your MacBook Air Won’t Boot Up Due to Freezing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/gratis-losungen-fur-verlorene-desktopmaps-im-benutzerprofil-experten-reparaturmethoden/"><u>Gratis Lösungen Für Verlorene Desktopmaps Im Benutzerprofil: Experten-Reparaturmethoden</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/high-definition-harry-potter-wallpaper-collection-premium-visuals-and-imagery-by-yl-computing/"><u>High-Definition Harry Potter Wallpaper Collection - Premium Visuals & Imagery by YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-does-microsoft-windows-defender-shield-your-computer-from-various-cybersecurity-risks-insights-by-yl-tech-solutions/"><u>How Does Microsoft Windows Defender Shield Your Computer From Various Cybersecurity Risks? - Insights by YL Tech Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-does-your-pcs-windows-registry-get-corrupted-and-what-can-you-do-about-it-expert-advice-from-yl-computing/"><u>How Does Your PC's Windows Registry Get Corrupted, and What Can You Do About It? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-fix-incorrect-prints-expert-advice-from-yl-computings-print-solutions/"><u>How to Fix Incorrect Prints: Expert Advice From YL Computing's Print Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mastering-cryptocurrency-risk-management-insights-and-tools-by-yl-computings-experts-secure-your-digital-assets/"><u>Mastering Cryptocurrency Risk Management: Insights and Tools by YL Computing's Experts | Secure Your Digital Assets</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-maximize-your-macs-storage-the-ultimate-guide-to-running-fcpx-smoothly-for-2024/"><u>New Maximize Your Macs Storage The Ultimate Guide to Running FCPX Smoothly for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210658486-no-show-on-sd-recognition-lets-fix-it/"><u>No-Show on SD Recognition? Let's Fix It</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/optimize-windows-performance-for-faster-processing-expert-advice-from-yl-software/"><u>Optimize Windows Performance for Faster Processing: Expert Advice From YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-12-and-12-pro-protective-covers-expert-picks-from-zdnet/"><u>Top Rated iPhone 12 & 12 Pro Protective Covers : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/why-is-my-monitor-black-diagnosing-and-fixing-graphics-card-problems-with-expert-advice-from-yl-software/"><u>Why Is My Monitor Black? Diagnosing and Fixing Graphics Card Problems with Expert Advice From YL Software</u></a></li>
 </ul></div>
 

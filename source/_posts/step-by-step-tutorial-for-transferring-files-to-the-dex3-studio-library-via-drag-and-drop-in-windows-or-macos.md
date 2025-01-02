@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Transferring Files to the DEX3 Studio Library via Drag & Drop in Windows or macOS
-date: 2024-12-25T16:22:30.270Z
-updated: 2024-12-30T18:29:28.459Z
+date: 2024-12-25T17:34:11.647Z
+updated: 2025-01-01T19:25:07.267Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-4k-clarity-unleashed-an-intense-study-on-the-31mu97-b-monitor/"><u>[New] 2024 Approved 4K Clarity Unleashed - An Intense Study on the 31MU97-B Monitor</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-democratize-music-distribution-via-social-media-for-2024/"><u>[New] Democratize Music Distribution via Social Media for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-shorts-vs-tiktok-which-one-is-better-for-short-videos/"><u>[Updated] YouTube Shorts Vs. TikTok Which One Is Better for Short Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-poco-c55-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Poco C55 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-razr-40-ultra-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/boost-your-mixes-upgrade-to-soundcloud-goplus-with-pioneer-dj/"><u>Boost Your Mixes: Upgrade to SoundCloud Go+ with Pioneer DJ</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/comparing-computers-how-laptops-differ-from-traditional-desktops-at-yl-tech/"><u>Comparing Computers: How Laptops Differ From Traditional Desktops at YL Tech</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-y27s-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo Y27s to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-top-prospects-animation-enhanced-3d-tools/"><u>In 2024, Top Prospects Animation Enhanced 3D Tools</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/is-windows-defender-affecting-your-pcs-performance-discover-insights-from-yl-computing/"><u>Is Windows Defender Affecting Your PC's Performance? Discover Insights From YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/optimizing-scanner-color-preferences-a-comprehensive-guide-by-yl-computing/"><u>Optimizing Scanner Color Preferences: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tips-determine-your-pcs-ram-specifications/"><u>Quick Tips: Determine Your PC's RAM Specifications</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/why-does-your-pc-crash-when-launching-specific-applications-solutions-by-yl-computing-and-yl-software/"><u>Why Does Your PC Crash When Launching Specific Applications? - Solutions by YL Computing & YL Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-engagement-crafting-instagram-highlights-in-3-steps/"><u>[New] 2024 Approved Elevate Engagement Crafting Instagram Highlights in 3 Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/row-your-streams-money-potential-anywhere-on-devices-for-2024/"><u>[New] Grow Your Stream's Money Potential Anywhere on Devices for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-srt-revisited-direct-conversion-to-subcap/"><u>[Updated] 2024 Approved SRT Revisited Direct Conversion to SUBCAP</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-obscured-realm-of-youtube-a-methodical-approach/"><u>[Updated] Navigating the Obscured Realm of YouTube A Methodical Approach</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/banish-blue-screen-blues-expert-strategies-by-yl-software-for-diagnosing-and-repairing-pc-crashes-instantly/"><u>Banish Blue Screen Blues: Expert Strategies by YL Software for Diagnosing and Repairing PC Crashes Instantly</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/hauntingly-beautiful-unique-halloween-themes-bgs-and-designs-from-yl-softwares-yl-computing/"><u>Hauntingly Beautiful: Unique Halloween Themes, BGs & Designs From YL Software's YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/identifying-and-resolving-sound-card-troubles-tools-and-techniques-by-yl-software-experts/"><u>Identifying and Resolving Sound Card Troubles: Tools and Techniques by YL Software Experts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-video-conference-solutions-security-first-for-businesses/"><u>In 2024, Top Video Conference Solutions Security First for Businesses</u></a></li>
+<li><a href="https://win-web.techidaily.com/microsofts-latest-security-scare-reaction-warranted-zdnet-insights/"><u>Microsoft's Latest Security Scare? Reaction Warranted! | ZDNet Insights</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/pcdjs-festive-season-favorites-in-the-cloud-elevate-your-home-parties-with-karaoke-cloud-pro/"><u>PCDJ's Festive Season Favorites in the Cloud: Elevate Your Home Parties with Karaoke Cloud Pro!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/solving-the-mystery-of-missing-printers-in-device-manager-expert-tips-from-yl-computings-latest-video-walkthrough/"><u>Solving the Mystery of Missing Printers in Device Manager - Expert Tips From YL Computing's Latest Video Walkthrough</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/speeding-up-boot-expert-tips-from-yl-computing-to-shorten-your-pcs-startup-time/"><u>Speeding Up Boot: Expert Tips From YL Computing to Shorten Your PC's Startup Time</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-10-must-haves-action-cameras-unleashed-for-2024/"><u>Top 10 Must-Haves Action Cameras Unleashed for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/understanding-and-fixing-display-driver-issues-in-windows-an-expert-guide-by-yl-software/"><u>Understanding and Fixing Display Driver Issues in Windows - An Expert Guide by YL Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-impact-on-protection-the-deletion-of-user-faceprints-on-fb/"><u>Unraveling the Impact on Protection: The Deletion of User Faceprints on FB</u></a></li>
 </ul></div>
 

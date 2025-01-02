@@ -1,7 +1,7 @@
 ---
 title: Enhance Your MAC Experience with LYRX Karaoke Player Version 1.1.3 - Available Now!
-date: 2024-12-27T17:23:18.672Z
-updated: 2024-12-30T16:02:13.243Z
+date: 2024-12-26T16:21:49.500Z
+updated: 2025-01-01T16:53:41.781Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NEW AND CHANGED IN LYRX 1.1.3
@@ -51,7 +51,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 _**NOTE:** With your existing version of LYRX closed, download and install version 1.1.3 to update now_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The Party Tyme Karaoke Subscription Works In LYRX
@@ -59,7 +59,7 @@ _**NOTE:** With your existing version of LYRX closed, download and install versi
 _Have questions about our **top karaoke software for MAC** and the new features found in LYRX 1.1.3? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,18 +81,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrxv113-now-available.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-fix-for-silent-audio-on-obs/"><u>[New] 2024 Approved Fix for Silent Audio on OBS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>2024 Approved Kitchen Kings & Queen Top YouTube Gastronomes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-pioneers-cutting-edge-ai-technology-a-glimpse-into-whats-next-for-your-iphone-zdnet-learn-about-the-revolutionary-advancements-in-artificial-intellige96/"><u>Apple Pioneers Cutting-Edge AI Technology: A Glimpse Into What's Next for Your iPhone | ZDNET - Learn About the Revolutionary Advancements in Artificial Intelligence that Could Redefine Your Next iPhone Upgrade, According to Recent Apple Research.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/construct-and-create-your-dream-city-in-cities-skylines-a-comprehensive-reveal/"><u>Construct and Create Your Dream City in 'Cities: Skylines': A Comprehensive Reveal</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-to-perfect-home-productivity-habits/"><u>Harnessing AI to Perfect Home Productivity Habits</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/high-definition-attack-on-titan-visuals-for-desktop-ultimate-background-gallery-by-yl-computing-top-photo-collections-premium-software-solutions/"><u>High Definition Attack on Titan Visuals for Desktop: Ultimate Background Gallery by YL Computing – Top Photo Collections | Premium Software Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-speed-up-a-sluggish-pc-tips-and-solutions-from-yl-computing/"><u>How to Speed Up a Sluggish PC: Tips & Solutions From YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-g22-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia G22 Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-vintage-games-with-windows-photo-album/"><u>Integrating Vintage Games with Windows Photo Album</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-tab-s5e-comprehensive-review-of-a-feature-packed-android-device/"><u>Samsung Galaxy Tab S5e: Comprehensive Review of a Feature-Packed Android Device</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/troubleshooting-guide-correcting-issues-with-scanner-installation-tips-from-yl-computing/"><u>Troubleshooting Guide: Correcting Issues with Scanner Installation - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/uncovering-the-intent-an-in-depth-look-at-computer-system-registries-by-yl-computing/"><u>Uncovering the Intent: An In-Depth Look at Computer System Registries - By YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-your-ultimate-resource-for-apple-product-handbooks-detailed-specifications-and-fix-it-guides/"><u>ZDNet: Your Ultimate Resource for Apple Product Handbooks, Detailed Specifications & Fix-It Guides</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-mastering-the-art-of-crypto-ownership-insights-from-yl-computings-expertise/"><u>1. Mastering the Art of Crypto Ownership: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-compatibility-and-features-of-numark-dx-ns6-ii-dj-controller-with-dex-iii-units-download-mapping/"><u>1. Ultimate Guide: Compatibility and Features of Numark DX-NS6 II DJ Controller with DEX III Units - Download Mapping</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-tweaking-your-graphics-card-options-with-ease-discover-tips-from-yl-computing/"><u>1. Ultimate Guide: Tweaking Your Graphics Card Options with Ease - Discover Tips From YL Computing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/5-must-know-fixes-to-avoid-darkness-on-game-capture-by-obs/"><u>5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/80211-standards-explained-80211be-80211ax-80211ac-80211bgn-80211a/"><u>802.11 Standards Explained: 802.11Be, 802.11Ax, 802.11Ac, 802.11B/G/N, 802.11A</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-enterprise-ai-capabilities-with-microsoft-azures-latest-offerings-models-as-a-service-and-enhanced-rag-solutions/"><u>Boosting Enterprise AI Capabilities with Microsoft Azure's Latest Offerings: Models as a Service and Enhanced RAG Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-v30-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme V30 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-fix-a-malfunctioning-cpu-fan-essential-tips-from-yl-computing/"><u>How to Fix a Malfunctioning CPU Fan: Essential Tips From YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigate-the-net-finding-pages-profiles-in-fb/"><u>Navigate the Net: Finding Pages, Profiles in FB</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-v27-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo V27</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/video-card-driver-solutions-expert-troubleshooting-tips-from-yl-computing/"><u>Video Card Driver Solutions: Expert Troubleshooting Tips From YL Computing</u></a></li>
 </ul></div>
 
