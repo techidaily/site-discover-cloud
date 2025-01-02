@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Transferring Files to the DEX3 Studio Library via Drag & Drop in Windows or macOS
-date: 2024-12-25T17:34:11.647Z
-updated: 2025-01-01T19:25:07.267Z
+date: 2024-12-30T16:44:32.381Z
+updated: 2025-01-01T16:58:29.907Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-engagement-crafting-instagram-highlights-in-3-steps/"><u>[New] 2024 Approved Elevate Engagement Crafting Instagram Highlights in 3 Steps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/row-your-streams-money-potential-anywhere-on-devices-for-2024/"><u>[New] Grow Your Stream's Money Potential Anywhere on Devices for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-srt-revisited-direct-conversion-to-subcap/"><u>[Updated] 2024 Approved SRT Revisited Direct Conversion to SUBCAP</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-obscured-realm-of-youtube-a-methodical-approach/"><u>[Updated] Navigating the Obscured Realm of YouTube A Methodical Approach</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/banish-blue-screen-blues-expert-strategies-by-yl-software-for-diagnosing-and-repairing-pc-crashes-instantly/"><u>Banish Blue Screen Blues: Expert Strategies by YL Software for Diagnosing and Repairing PC Crashes Instantly</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/hauntingly-beautiful-unique-halloween-themes-bgs-and-designs-from-yl-softwares-yl-computing/"><u>Hauntingly Beautiful: Unique Halloween Themes, BGs & Designs From YL Software's YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/identifying-and-resolving-sound-card-troubles-tools-and-techniques-by-yl-software-experts/"><u>Identifying and Resolving Sound Card Troubles: Tools and Techniques by YL Software Experts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-video-conference-solutions-security-first-for-businesses/"><u>In 2024, Top Video Conference Solutions Security First for Businesses</u></a></li>
-<li><a href="https://win-web.techidaily.com/microsofts-latest-security-scare-reaction-warranted-zdnet-insights/"><u>Microsoft's Latest Security Scare? Reaction Warranted! | ZDNet Insights</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/pcdjs-festive-season-favorites-in-the-cloud-elevate-your-home-parties-with-karaoke-cloud-pro/"><u>PCDJ's Festive Season Favorites in the Cloud: Elevate Your Home Parties with Karaoke Cloud Pro!</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/solving-the-mystery-of-missing-printers-in-device-manager-expert-tips-from-yl-computings-latest-video-walkthrough/"><u>Solving the Mystery of Missing Printers in Device Manager - Expert Tips From YL Computing's Latest Video Walkthrough</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/speeding-up-boot-expert-tips-from-yl-computing-to-shorten-your-pcs-startup-time/"><u>Speeding Up Boot: Expert Tips From YL Computing to Shorten Your PC's Startup Time</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-10-must-haves-action-cameras-unleashed-for-2024/"><u>Top 10 Must-Haves Action Cameras Unleashed for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/understanding-and-fixing-display-driver-issues-in-windows-an-expert-guide-by-yl-software/"><u>Understanding and Fixing Display Driver Issues in Windows - An Expert Guide by YL Software</u></a></li>
-<li><a href="https://facebook.techidaily.com/unraveling-the-impact-on-protection-the-deletion-of-user-faceprints-on-fb/"><u>Unraveling the Impact on Protection: The Deletion of User Faceprints on FB</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-tutorial-broadcasting-360-video-on-youtube-live/"><u>[New] Step-by-Step Tutorial Broadcasting 360 Video on YouTube Live</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-and-share-your-live-sounds-5-proven-online-approaches-for-2024/"><u>[Updated] Secure & Share Your Live Sounds - 5 Proven Online Approaches for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/4-waysistari-penilaian-komprehensif-untuk-mengungkapkan-file-terlarut-di-windows-11/"><u>4 WAYSISTARI: Penilaian Komprehensif Untuk Mengungkapkan File Terlarut Di Windows 11</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/5asx44kp44km44gf5yaz55yf44ks44ol44kz44oz44kr44oh44op44gn5zue5b6p44gz44kl5oml6lu944gq5pa55rov/"><u>失われた写真をニコンカメラで回復する手軽な方法</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-f5-pro-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco F5 Pro 5G</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comment-installer-avec-succes-microsoft-office-sur-windows-et-macos/"><u>Comment Installer Avec Succès Microsoft Office Sur Windows Et macOS?</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/easy-methods-for-restoring-lost-data-on-your-hp-computer/"><u>Easy Methods for Restoring Lost Data on Your HP Computer</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/effortless-installation-of-win32-disk-imager-on-64-bit-windows-11/"><u>Effortless Installation of Win32 Disk Imager on 64-Bit Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hero5-and-yi-4k-face-off-action-cam-wars/"><u>Hero5 and Yi 4K Face-Off Action Cam Wars</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-google-pixel-7a-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Google Pixel 7a to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-gt-10-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix GT 10 Pro Phone Without Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-the-moment-detailed-analysis-of-slomo-2024/"><u>Mastering the Moment Detailed Analysis of SloMo, 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-a-closer-look-at-vn-video-editor-pro-features-pros-and-cons/"><u>New In 2024, A Closer Look at VN Video Editor Pro Features, Pros, and Cons</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/scambiare-i-tuoi-audiolibri-da-pc-windows-al-tuo-iphone/"><u>Scambiare I Tuoi Audiolibri Da PC Windows Al Tuo iPhone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/techniques-auto-recuperation-des-fichiers-bruts-sur-cles-usb-un-guide-facile-a-suivre/"><u>Techniques Auto-Récupération Des Fichiers Bruts Sur Clés USB : Un Guide Facile À Suivre</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/umfassende-tipps-fur-das-klonen-von-ihrem-alten-iphone-auf-die-neueste-modellreihe-iphone-14/"><u>Umfassende Tipps Für Das Klonen Von Ihrem Alten iPhone Auf Die Neueste Modellreihe iPhone 14</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/undoing-the-latest-windows-11-updates-heres-how-to-go-back-using-these-9-methods/"><u>Undoing the Latest Windows 11 Updates? Here's How to Go Back Using These 9 Methods</u></a></li>
 </ul></div>
 

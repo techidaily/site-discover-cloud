@@ -1,7 +1,7 @@
 ---
 title: Enhance Your MAC Experience with LYRX Karaoke Player Version 1.1.3 - Available Now!
-date: 2024-12-26T16:21:49.500Z
-updated: 2025-01-01T16:53:41.781Z
+date: 2024-12-29T17:49:09.818Z
+updated: 2025-01-02T01:13:56.924Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NEW AND CHANGED IN LYRX 1.1.3
@@ -51,7 +51,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 _**NOTE:** With your existing version of LYRX closed, download and install version 1.1.3 to update now_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The Party Tyme Karaoke Subscription Works In LYRX
@@ -59,7 +59,7 @@ _**NOTE:** With your existing version of LYRX closed, download and install versi
 _Have questions about our **top karaoke software for MAC** and the new features found in LYRX 1.1.3? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,16 +81,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrxv113-now-available.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-cloud.techidaily.com/1-mastering-the-art-of-crypto-ownership-insights-from-yl-computings-expertise/"><u>1. Mastering the Art of Crypto Ownership: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-compatibility-and-features-of-numark-dx-ns6-ii-dj-controller-with-dex-iii-units-download-mapping/"><u>1. Ultimate Guide: Compatibility and Features of Numark DX-NS6 II DJ Controller with DEX III Units - Download Mapping</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-tweaking-your-graphics-card-options-with-ease-discover-tips-from-yl-computing/"><u>1. Ultimate Guide: Tweaking Your Graphics Card Options with Ease - Discover Tips From YL Computing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/5-must-know-fixes-to-avoid-darkness-on-game-capture-by-obs/"><u>5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/80211-standards-explained-80211be-80211ax-80211ac-80211bgn-80211a/"><u>802.11 Standards Explained: 802.11Be, 802.11Ax, 802.11Ac, 802.11B/G/N, 802.11A</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-enterprise-ai-capabilities-with-microsoft-azures-latest-offerings-models-as-a-service-and-enhanced-rag-solutions/"><u>Boosting Enterprise AI Capabilities with Microsoft Azure's Latest Offerings: Models as a Service and Enhanced RAG Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-realme-v30-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme V30 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-fix-a-malfunctioning-cpu-fan-essential-tips-from-yl-computing/"><u>How to Fix a Malfunctioning CPU Fan: Essential Tips From YL Computing</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigate-the-net-finding-pages-profiles-in-fb/"><u>Navigate the Net: Finding Pages, Profiles in FB</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-v27-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo V27</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/video-card-driver-solutions-expert-troubleshooting-tips-from-yl-computing/"><u>Video Card Driver Solutions: Expert Troubleshooting Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-counterclockwise-playback-in-instagram-videos/"><u>[New] 2024 Approved Counterclockwise Playback in Instagram Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-seamless-video-meetings-from-home-a-guide-to-proficient-use-of-skypes-screen-sharing-for-2024/"><u>[Updated] Seamless Video Meetings From Home A Guide to Proficient Use of Skype's Screen Sharing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-redefining-high-definition-with-samsungs-ubd-k850u-update/"><u>2024 Approved Redefining High Definition with Samsung's UBD K850U Update</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/awaken-the-audio-how-to-refresh-and-reset-your-soundscape-in-windows-revive-your-systems-sound-rejuvenate-your-audio-experience-with-our-comprehensive-guide257/"><u>Awaken the Audio: How to Refresh and Reset Your Soundscape in Windows #Revive Your System's Sound, Rejuvenate Your Audio Experience with Our Comprehensive Guide Tailored for Windows 10 Users.</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/come-scaricare-e-convertire-i-tuoi-vecchi-video-vhs-su-un-compatibile-dvd/"><u>Come Scaricare E Convertire I Tuoi Vecchi Video VHS Su Un Compatibile DVD</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comment-accelerer-le-traitement-de-lencodage-hevch265-pour-des-temps-dencoding-optimises/"><u>Comment Accélérer Le Traitement De L'Encodage HEVC/H.265 Pour Des Temps D'Encoding Optimisés</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725283993088-dvd/"><u>DVD の安全かつ合法的なコピー手段について学ぶ方法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-on-the-modest-and-inexpensive-fitbit-versa-smartwatch/"><u>Expert Analysis on the Modest and Inexpensive Fitbit Versa Smartwatch</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/exploring-microsofts-windows-10-unveiled-a-detailed-analysis-and-insights-on-its-touchscreen-capabilities/"><u>Exploring Microsoft's Windows 10 Unveiled: A Detailed Analysis and Insights on Its Touchscreen Capabilities</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/find-the-perfect-video-smoothing-app-a-comparison-of-free-vs-paid-choices-among-the-best/"><u>Find the Perfect Video Smoothing App: A Comparison of Free Vs. Paid Choices Among the Best</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-upload-wmv-videos-and-convert-them-to-mp4-for-macoswindows-11-at-no-cost-easy-guide/"><u>How to Upload WMV Videos and Convert Them to MP4 for macOS/Windows 11 at No Cost - Easy Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-screenflow-a-guide-to-enhanced-creativity-on-macos/"><u>In 2024, Mastering ScreenFlow A Guide to Enhanced Creativity on macOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sharpviewzoomx7-professional-photo-size-controls/"><u>In 2024, SharpViewZoomX7 Professional Photo Size Controls</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/introducing-winxvideos-smartai-cutting-edge-technology-for-advanced-frame-enrichment-and-ai-driven-interpolation/"><u>Introducing Winxvideo's SmartAI: Cutting-Edge Technology for Advanced Frame Enrichment and AI-Driven Interpolation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-cutting-edge-marketing-with-our-cookiebot-solutions/"><u>Leverage Cutting-Edge Marketing with Our Cookiebot Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-smart-8-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Smart 8 Screen | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-dvd-ripper-software-thats-compatible-with-windows-11/"><u>Top DVD Ripper Software That's Compatible With Windows 11</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/winxvideo-ai-professionelles-video-und-audiodatenaufzeichnungsprogramm-fur-webkameras/"><u>WinXVideo AI: Professionelles Video- Und Audiodatenaufzeichnungsprogramm Für Webkameras</u></a></li>
 </ul></div>
 

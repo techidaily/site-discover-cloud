@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils DEX 3.4 Download - Latest Update Now Available!
-date: 2024-12-25T20:45:30.823Z
-updated: 2025-01-01T22:29:32.959Z
+date: 2024-12-28T01:45:18.577Z
+updated: 2025-01-01T22:11:48.979Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,20 +93,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhancing-focus-advanced-techniques-for-videoleap-zooming/"><u>[New] In 2024, Enhancing Focus Advanced Techniques for VideoLeap Zooming</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-screen-capturing-made-easy-best-apps-for-windows-10/"><u>[Updated] 2024 Approved Screen Capturing Made Easy Best Apps for Windows 10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-convincing-audiences-to-join-a-positive-approach/"><u>[Updated] In 2024, Convincing Audiences to Join A Positive Approach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-what-to-do-if-your-macbook-air-wont-boot-up-due-to-freezing/"><u>Expert Advice: What To Do If Your MacBook Air Won’t Boot Up Due to Freezing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/gratis-losungen-fur-verlorene-desktopmaps-im-benutzerprofil-experten-reparaturmethoden/"><u>Gratis Lösungen Für Verlorene Desktopmaps Im Benutzerprofil: Experten-Reparaturmethoden</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/high-definition-harry-potter-wallpaper-collection-premium-visuals-and-imagery-by-yl-computing/"><u>High-Definition Harry Potter Wallpaper Collection - Premium Visuals & Imagery by YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-does-microsoft-windows-defender-shield-your-computer-from-various-cybersecurity-risks-insights-by-yl-tech-solutions/"><u>How Does Microsoft Windows Defender Shield Your Computer From Various Cybersecurity Risks? - Insights by YL Tech Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-does-your-pcs-windows-registry-get-corrupted-and-what-can-you-do-about-it-expert-advice-from-yl-computing/"><u>How Does Your PC's Windows Registry Get Corrupted, and What Can You Do About It? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-fix-incorrect-prints-expert-advice-from-yl-computings-print-solutions/"><u>How to Fix Incorrect Prints: Expert Advice From YL Computing's Print Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/mastering-cryptocurrency-risk-management-insights-and-tools-by-yl-computings-experts-secure-your-digital-assets/"><u>Mastering Cryptocurrency Risk Management: Insights and Tools by YL Computing's Experts | Secure Your Digital Assets</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-maximize-your-macs-storage-the-ultimate-guide-to-running-fcpx-smoothly-for-2024/"><u>New Maximize Your Macs Storage The Ultimate Guide to Running FCPX Smoothly for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210658486-no-show-on-sd-recognition-lets-fix-it/"><u>No-Show on SD Recognition? Let's Fix It</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/optimize-windows-performance-for-faster-processing-expert-advice-from-yl-software/"><u>Optimize Windows Performance for Faster Processing: Expert Advice From YL Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-12-and-12-pro-protective-covers-expert-picks-from-zdnet/"><u>Top Rated iPhone 12 & 12 Pro Protective Covers : Expert Picks From ZDNet</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/why-is-my-monitor-black-diagnosing-and-fixing-graphics-card-problems-with-expert-advice-from-yl-software/"><u>Why Is My Monitor Black? Diagnosing and Fixing Graphics Card Problems with Expert Advice From YL Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-rapid-method-converting-images-into-desktop-thumbnails-for-youtube/"><u>[Updated] 2024 Approved Rapid Method Converting Images Into Desktop Thumbnails for YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-techniques-with-nvidia-recorder/"><u>[Updated] In 2024, Essential Techniques with NVIDIA Recorder</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-for-ios-album-arrangement-and-icloud-cloud-syncing-mastery-for-2024/"><u>[Updated] The Ultimate Guide for iOS Album Arrangement & iCloud Cloud Syncing Mastery for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-roadmap-for-distance-podcasting/"><u>2024 Approved The Ultimate Roadmap for Distance Podcasting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-honor-x50iplus-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Honor X50i+ using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-seamless-social-sharing-upload-a-twt/"><u>In 2024, Seamless Social Sharing Upload a Twt</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/losungsweg-wenn-ihre-festplatte-unerklarlich-leer-aussieht-ursachen-and-gegenmassnahmen/"><u>Lösungsweg: Wenn Ihre Festplatte Unerklärlich Leer Aussieht – Ursachen & Gegenmaßnahmen</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/passaggi-chiave-per-il-ripristino-dei-file-su-un-supporto-di-memoria-riformattato/"><u>Passaggi Chiave per Il Ripristino Dei File Su Un Supporto Di Memoria Riformattato</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/scopri-dove-e-come-archiviare-i-tuoi-sticky-notes-nelle-versioni-piu-recenti-di-windows-manuale-dettagliato/"><u>Scopri Dove E Come Archiviare I Tuoi Sticky Notes Nelle Versioni Più Recenti Di Windows - Manuale Dettagliato</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/ultimate-guide-to-protect-your-work-best-windows-compatible-laptop-backup-solutions-free/"><u>Ultimate Guide to Protect Your Work: Best Windows-Compatible Laptop Backup Solutions (Free)</u></a></li>
 </ul></div>
 
