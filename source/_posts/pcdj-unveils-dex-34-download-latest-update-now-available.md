@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils DEX 3.4 Download - Latest Update Now Available!
-date: 2024-12-28T01:45:18.577Z
-updated: 2025-01-01T22:11:48.979Z
+date: 2025-01-02T18:05:08.347Z
+updated: 2025-01-08T19:51:35.601Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,15 +93,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-rapid-method-converting-images-into-desktop-thumbnails-for-youtube/"><u>[Updated] 2024 Approved Rapid Method Converting Images Into Desktop Thumbnails for YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-techniques-with-nvidia-recorder/"><u>[Updated] In 2024, Essential Techniques with NVIDIA Recorder</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-for-ios-album-arrangement-and-icloud-cloud-syncing-mastery-for-2024/"><u>[Updated] The Ultimate Guide for iOS Album Arrangement & iCloud Cloud Syncing Mastery for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-roadmap-for-distance-podcasting/"><u>2024 Approved The Ultimate Roadmap for Distance Podcasting</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-honor-x50iplus-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Honor X50i+ using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-seamless-social-sharing-upload-a-twt/"><u>In 2024, Seamless Social Sharing Upload a Twt</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/losungsweg-wenn-ihre-festplatte-unerklarlich-leer-aussieht-ursachen-and-gegenmassnahmen/"><u>Lösungsweg: Wenn Ihre Festplatte Unerklärlich Leer Aussieht – Ursachen & Gegenmaßnahmen</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/passaggi-chiave-per-il-ripristino-dei-file-su-un-supporto-di-memoria-riformattato/"><u>Passaggi Chiave per Il Ripristino Dei File Su Un Supporto Di Memoria Riformattato</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/scopri-dove-e-come-archiviare-i-tuoi-sticky-notes-nelle-versioni-piu-recenti-di-windows-manuale-dettagliato/"><u>Scopri Dove E Come Archiviare I Tuoi Sticky Notes Nelle Versioni Più Recenti Di Windows - Manuale Dettagliato</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/ultimate-guide-to-protect-your-work-best-windows-compatible-laptop-backup-solutions-free/"><u>Ultimate Guide to Protect Your Work: Best Windows-Compatible Laptop Backup Solutions (Free)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs/"><u>[New] 2024 Approved Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-digital-chronicles-recording-and-preserving-your-roblox-playthroughs-on-macos/"><u>[New] Digital Chronicles Recording and Preserving Your Roblox Playthroughs on MacOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-magic-5-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor Magic 5 Activity | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-picks-top-1-cookie-cutter-list-of-10-apps-for-basketball-and-rugby-streaming/"><u>2024 Approved Expert Picks Top 1 Cookie Cutter List of 10 Apps for Basketball and Rugby Streaming</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/2024s-top-free-dvd-player-software-for-windows-10-and-11-our-best-recommendations/"><u>2024'S Top Free DVD Player Software for Windows 10 & 11: Our Best Recommendations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-s18-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo S18 PC | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dvd-windows-10dvdavi-mp4-h264/"><u>轻松转换DVD文件 - Windows 10专属自由套装：从原始DVD到高效率的AVI MP4 H264，适用于所有移动设备</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210259787-9780834843592-diving-in-the-inner-ocean/"><u>Diving in the Inner Ocean | Free Book</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/frei-herunterladen-und-konvertieren-sie-ihre-palregion-2-dvds-mit-unserer-umfassenden-ubersetzung/"><u>Frei Herunterladen Und Konvertieren Sie Ihre PAL/Region-2-DVDs Mit Unserer Umfassenden Übersetzung</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-successfully-upload-videos-of-the-iconic-tournament-on-youtube/"><u>How to Successfully Upload Videos of the Iconic Tournament on YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-a23-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy A23 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/learn-how-to-control-video-speed-on-snapchat-effectively/"><u>Learn How to Control Video Speed on Snapchat Effectively</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mejora-tu-almacenamiento-comprimiendo-videos-avi-con-calidad-intacta-en-windows-10/"><u>Mejora Tu Almacenamiento Comprimiendo Vídeos AVI Con Calidad Intacta en Windows 10</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/schritt-fur-schritt-anleitung-zur-installation-von-winxdvd-software/"><u>Schritt-Für-Schritt-Anleitung Zur Installation Von WinXDVD Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-restoring-functionality-to-the-voice-chat-system-in-phasmophobia/"><u>Step-by-Step Solutions: Restoring Functionality to the Voice Chat System in Phasmophobia</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/umfassende-anleitung-zur-umwandlung-von-h265hevc-und-4k-videos-sowie-zum-verbessern-deiner-lesefahigkeiten/"><u>Umfassende Anleitung Zur Umwandlung Von H.265/HEVC Und 4K Videos Sowie Zum Verbessern Deiner Lesefähigkeiten</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725288098134-winxvideo-ai/"><u>WinxVideo AIツールボックスを活用するための基本操作ガイド</u></a></li>
 </ul></div>
 
