@@ -1,7 +1,7 @@
 ---
 title: Enhance Your MAC Experience with LYRX Karaoke Player Version 1.1.3 - Available Now!
-date: 2025-01-03T12:16:40.371Z
-updated: 2025-01-08T20:19:21.190Z
+date: 2025-01-08T10:35:54.789Z
+updated: 2025-01-15T01:48:00.509Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NEW AND CHANGED IN LYRX 1.1.3
@@ -51,7 +51,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 _**NOTE:** With your existing version of LYRX closed, download and install version 1.1.3 to update now_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The Party Tyme Karaoke Subscription Works In LYRX
@@ -59,7 +59,7 @@ _**NOTE:** With your existing version of LYRX closed, download and install versi
 _Have questions about our **top karaoke software for MAC** and the new features found in LYRX 1.1.3? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrxv113-now-available.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-echoes-fade-out-audio-leveling-methods/"><u>[New] In 2024, Echoes Fade Out Audio Leveling Methods</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-techniques-for-finding-original-images-in-instagram-posts/"><u>[Updated] Techniques for Finding Original Images in Instagram Posts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-channel-success-scaling-for-a-million-viewers-for-2024/"><u>Boosting Channel Success Scaling for a Million Viewers for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/complete-tutorial-on-removing-programs-via-windows-control-panel-by-softguide-experts/"><u>Complete Tutorial on Removing Programs via Windows Control Panel by SoftGuide Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discord-server-status-troubleshooting-connectivity-issues-is-it-a-global-outage-or-user-specific/"><u>Discord Server Status: Troubleshooting Connectivity Issues – Is It a Global Outage or User-Specific?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computer-gear-with-toms-hardware-experts/"><u>Exploring Computer Gear with Tom's Hardware Experts</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/hauntingly-beautiful-unique-halloween-themes-bgs-and-designs-from-yl-softwares-yl-computing/"><u>Hauntingly Beautiful: Unique Halloween Themes, BGs & Designs From YL Software's YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-can-i-enhance-my-pcs-performance-with-hardware-improvements-yl-computing/"><u>How Can I Enhance My PC's Performance with Hardware Improvements? - YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/identifying-and-resolving-sound-card-troubles-tools-and-techniques-by-yl-software-experts/"><u>Identifying and Resolving Sound Card Troubles: Tools and Techniques by YL Software Experts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-honor-magic-vs-2-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor Magic Vs 2 FRP Bypass Instantly</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-youtube-setup-a-newbies-complete-guidebook/"><u>Navigating YouTube Setup A Newbie's Complete Guidebook</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/pcdjs-festive-season-favorites-in-the-cloud-elevate-your-home-parties-with-karaoke-cloud-pro/"><u>PCDJ's Festive Season Favorites in the Cloud: Elevate Your Home Parties with Karaoke Cloud Pro!</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/solving-the-mystery-of-missing-printers-in-device-manager-expert-tips-from-yl-computings-latest-video-walkthrough/"><u>Solving the Mystery of Missing Printers in Device Manager - Expert Tips From YL Computing's Latest Video Walkthrough</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/speeding-up-boot-expert-tips-from-yl-computing-to-shorten-your-pcs-startup-time/"><u>Speeding Up Boot: Expert Tips From YL Computing to Shorten Your PC's Startup Time</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-detecting-memory-problems-in-windows-systems-with-tips-from-yl-software-experts/"><u>Step-by-Step: Detecting Memory Problems in Windows Systems with Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/understanding-and-fixing-display-driver-issues-in-windows-an-expert-guide-by-yl-software/"><u>Understanding and Fixing Display Driver Issues in Windows - An Expert Guide by YL Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/unexpected-system-hiccups-steps-to-take-when-your-computer-acts-up-tips-from-yl-computing-experts/"><u>Unexpected System Hiccups: Steps to Take When Your Computer Acts Up - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-video-editing-apps-for-vloggers-top-picks-for-ios-and-android/"><u>Updated The Best Video Editing Apps for Vloggers Top Picks for iOS & Android</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-art-and-science-of-fb-video-ads-unveiling-20-crucial-steps/"><u>[New] 2024 Approved The Art and Science of FB Video Ads Unveiling 20 Crucial Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ephemeral-film-sculptor/"><u>[Updated] In 2024, Ephemeral Film Sculptor</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/conversione-gratuita-file-wmv-a-formato-asf-guida-completa-online/"><u>Conversione Gratuita File WMV a Formato ASF: Guida Completa Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-x-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone X Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-unboxing-game-crafting-winning-strategies/"><u>In 2024, The Unboxing Game Crafting Winning Strategies</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/les-12-methodes-pour-realiser-des-screenshots-sur-un-notebook-asus-guide-complet/"><u>Les 12 Méthodes Pour Réaliser Des Screenshots Sur Un Notebook ASUS : Guide Complet</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mastering-the-art-of-capturing-desktop-footage-tips-and-tricks-with-movavi-software/"><u>Mastering the Art of Capturing Desktop Footage - Tips & Tricks with Movavi Software</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/os-melhores-editadores-de-videos-do-iphone-escolhidos-pelos-usuarios-analise-diligentemente-feita-pela-movavi/"><u>Os Melhores Editadores De Vídeos Do IPhone Escolhidos Pelos Usuários: Análise Diligentemente Feita Pela Movavi</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/telecharger-et-convertir-des-fichiers-mmf-en-mp3-gratuitement-guide-complet-de-movavi/"><u>Télécharger Et Convertir Des Fichiers MMF en MP3 Gratuitement – Guide Complet De Movavi</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/the-best-2d-animating-tools-free-trials-and-subscription-services-available-now/"><u>The Best 2D Animating Tools: Free Trials and Subscription Services Available Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-sound-of-success-audio-tips-to-elevate-your-youtube-experience-for-2024/"><u>The Sound of Success Audio Tips to Elevate Your YouTube Experience for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-fix-avidemux-audio-issues-step-by-step-guide/"><u>Updated 2024 Approved Fix Avidemux Audio Issues Step-by-Step Guide</u></a></li>
 </ul></div>
 

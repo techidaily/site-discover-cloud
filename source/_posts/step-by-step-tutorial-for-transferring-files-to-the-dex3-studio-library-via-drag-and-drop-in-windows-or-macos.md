@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Transferring Files to the DEX3 Studio Library via Drag & Drop in Windows or macOS
-date: 2025-01-07T21:40:12.130Z
-updated: 2025-01-08T22:37:05.520Z
+date: 2025-01-13T17:58:51.551Z
+updated: 2025-01-14T22:38:13.998Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-distribute-your-youtube-collection/"><u>[New] Step-by-Step Guide Distribute Your YouTube Collection</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/vimeo/"><u>「フリービット抽出器：Vimeoから容量制限なしに動画圧縮」</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/advanced-steps-for-documenting-online-meetings-for-2024/"><u>Advanced Steps for Documenting Online Meetings for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/dvdandhdd/"><u>DVDのファイルに変換&HDDへ自由配布 - ダウンロード詳細</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-launch-problems-with-civilization-6-on-windows-10-pcs/"><u>How to Overcome Launch Problems with Civilization 6 on Windows 10 PCs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-plus-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-interactive-media-exchange-twitter-to-snapchat-videos/"><u>In 2024, Interactive Media Exchange Twitter to Snapchat Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-camon-20-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Camon 20 Pro 5G Device</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/prime-selection-the-best-12-pc-games-for-click-enthusiasts-for-2024/"><u>Prime Selection The Best 12 PC Games for Click Enthusiasts for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/successfully-copying-a-dvd-solve-your-dvd-decrypter-problems-here/"><u>Successfully Copying a DVD? Solve Your DVD Decrypter Problems Here!</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/superior-sound-format-shifter-seamless-audio-to-mp3-conversion-tools/"><u>Superior Sound Format Shifter: Seamless Audio to MP3 Conversion Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-harmony-of-collaboration-brands-and-youtube-unite-for-2024/"><u>The Harmony of Collaboration Brands & YouTube Unite for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/troubleshooting-windows-10-patch-glitches-masterful-strategies-for-flawless-installations/"><u>Troubleshooting Windows 10 Patch Glitches? Masterful Strategies for Flawless Installations!</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/ultimate-guide-8-effective-methods-for-bypassing-drm-on-dvds-including-5-costless-solutions/"><u>Ultimate Guide: 8 Effective Methods for Bypassing DRM on DVDs (Including 5 Costless Solutions)</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/ultimate-guide-bypassing-copy-protection-on-dvds-using-8-techniques-and-free-alternatives/"><u>Ultimate Guide: Bypassing Copy Protection on DVDs Using 8 Techniques & Free Alternatives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eading-software-lineup-8-linux-editing-sleuths/"><u>[New] Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-modify-twitter-video-screenshot-for-2024/"><u>[Updated] Modify Twitter Video Screenshot for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-streamline-your-life-with-these-5-chrome-tools-for-fb-video-grabs-for-2024/"><u>[Updated] Streamline Your Life with These 5 Chrome Tools for FB Video Grabs for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-the-perfect-visual-identity-podcast-covers-unveiled/"><u>2024 Approved Crafting the Perfect Visual Identity Podcast Covers Unveiled</u></a></li>
+<li><a href="https://win-unique.techidaily.com/convert-your-pdfs-to-jpeg-images-at-no-cost-with-our-free-online-tool-flipbuilder/"><u>Convert Your PDFs to JPEG Images at No Cost with Our Free Online Tool - FlipBuilder</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-fix-unresponsive-usb-ports-a-comprehensive-guide-by-yl-computing/"><u>How to Fix Unresponsive USB Ports: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-fixing-damaged-hard-drives-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Fixing Damaged Hard Drives - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-importing-mobile-photos-onto-your-computer-with-yl-software/"><u>Step-by-Step Guide: Importing Mobile Photos Onto Your Computer with YL Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/charge-your-media-download-sounds-for-editing-in-2024/"><u>Supercharge Your Media Download Sounds for Editing, In 2024</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nubia Red Magic 9 Pro+.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-13-free-disk-analysis-utilities-july-2024-edition/"><u>Top 13 Free Disk Analysis Utilities - July 2024 Edition</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-ranked-solutions-for-assessing-your-computers-system-performance-expert-tips-from-yl-software/"><u>Top-Ranked Solutions for Assessing Your Computer's System Performance - Expert Tips From YL Software</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/understanding-the-primary-objectives-of-chinas-great-proletarian-cultural-revolution-exploring-insights-with-yl-technologies/"><u>Understanding the Primary Objectives of China's Great Proletarian Cultural Revolution - Exploring Insights with YL Technologies</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/understanding-yl-software-discover-control-panel-functionality-and-choices/"><u>Understanding YL Software: Discover Control Panel Functionality and Choices</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/what-to-do-if-you-suspect-a-faulty-component-in-your-pc-guidance-from-tech-experts-at-yl-software/"><u>What To Do If You Suspect a Faulty Component in Your PC – Guidance From Tech Experts at YL Software</u></a></li>
 </ul></div>
 
