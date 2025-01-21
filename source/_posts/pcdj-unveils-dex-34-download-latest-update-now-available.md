@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils DEX 3.4 Download - Latest Update Now Available!
-date: 2025-01-11T23:30:05.140Z
-updated: 2025-01-15T03:37:01.384Z
+date: 2025-01-15T03:28:48.780Z
+updated: 2025-01-21T06:39:52.177Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,17 +93,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/78695673-new-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[New] Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-hidden-windows-11-techniques-for-effortless-import-tasks/"><u>[New] In 2024, Hidden Windows 11 Techniques for Effortless Import Tasks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-verdict-on-android-photo-editing-does-picku-excel/"><u>[New] The Verdict on Android Photo Editing – Does PickU Excel?</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/accelerate-system-initialization-with-expert-guidance-by-yl-computing-and-software-solutions/"><u>Accelerate System Initialization with Expert Guidance by YL Computing and Software Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/essential-guide-to-eliminating-malicious-programs-from-your-windows-system-techniques-by-yl-computing/"><u>Essential Guide to Eliminating Malicious Programs From Your Windows System - Techniques by YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/expand-your-song-selection-discover-5-latest-karaoke-songs-every-week-on-pcdjs-karaoke-cloud-pro-platform/"><u>Expand Your Song Selection - Discover 5 Latest Karaoke Songs Every Week on PCDJ's Karaoke Cloud Pro Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hearth-warming-hear-from-happy-customers/"><u>Hearth-Warming Hear From Happy Customers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Passcode without Computer?</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/mastering-file-management-beginners-tutorial-on-opening-word-documents-yl-software-solutions/"><u>Mastering File Management: Beginner's Tutorial on Opening Word Documents - YL Software Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sync-your-speech-with-chatgpts-ai-response-system/"><u>Sync Your Speech with ChatGPT's AI Response System</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/trouble-free-graphics-cards-on-pc-with-tips-from-yl-computings-expert-advice/"><u>Trouble-Free Graphics Cards on PC with Tips From YL Computing's Expert Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-pc-for-dragons-dogma-2-fixing-game-crash-issues/"><u>Troubleshoot Your PC for Dragon's Dogma 2: Fixing Game Crash Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-immersive-game-worlds/"><u>[New] 2024 Approved The Ultimate List of Immersive Game Worlds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-accurate-speech-to-text-googles-breakthrough-approach/"><u>[New] Accurate Speech-to-Text Google's Breakthrough Approach</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhance-video-visibility-with-effective-thumbnail-scaling-for-2024/"><u>[New] Enhance Video Visibility with Effective Thumbnail Scaling for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfectly-pivoted-videos-the-ultimate-android-editing-guide/"><u>[Updated] Perfectly Pivoted Videos The Ultimate Android Editing Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pivoting-to-passive-income-the-youtube-expedition-without-ads/"><u>[Updated] Pivoting to Passive Income The YouTube Expedition Without Ads</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-magic-6-lite-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor Magic 6 Lite Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/crafting-secure-coin-vaults-expert-insights-into-designing-and-setting-up-a-customized-cryptocurrency-wallet-with-yl-software-solutions/"><u>Crafting Secure Coin Vaults: Expert Insights Into Designing and Setting Up a Customized Cryptocurrency Wallet with YL Software Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-performance-with-fixed-r9-drivers-in-w10/"><u>Enhanced Performance with Fixed R9 Drivers in W10</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/high-resolution-sand-texture-wallpapers-and-desktop-backgrounds-digital-art-by-yl-computing/"><u>High-Resolution Sand Texture Wallpapers & Desktop Backgrounds - Digital Art by YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-customize-your-view-and-set-preferences-a-guide-to-tweaking-control-panel-options-with-yl-computing/"><u>How to Customize Your View & Set Preferences: A Guide to Tweaking Control Panel Options with YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-to-create-gripping-documentary-scenes/"><u>In 2024, Strategies to Create Gripping Documentary Scenes</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/revolutionize-your-system-speed-with-our-top-recommended-programs-insights-from-yl-solutions/"><u>Revolutionize Your System Speed with Our Top Recommended Programs - Insights From YL Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-removing-user-profiles-via-control-panel-on-yl-computing-systems/"><u>Step-by-Step Guide: Removing User Profiles via Control Panel on YL Computing Systems</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/stunning-black-tesla-roadster-wallpaper-and-background-gallery-by-yl-software-download-premium-collection/"><u>Stunning Black Tesla Roadster Wallpaper & Background Gallery by YL Software: Download Premium Collection</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/update-security-settings-easily-learn-how-to-modify-passwords-using-yl-softwares-user-friendly-interface/"><u>Update Security Settings Easily: Learn How to Modify Passwords Using YL Software's User-Friendly Interface</u></a></li>
 </ul></div>
 
