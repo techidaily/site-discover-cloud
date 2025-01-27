@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Transferring Files to the DEX3 Studio Library via Drag & Drop in Windows or macOS
-date: 2025-01-20T04:41:31.677Z
-updated: 2025-01-21T02:27:56.107Z
+date: 2025-01-20T07:27:36.959Z
+updated: 2025-01-26T18:04:42.835Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-premiere-toolkit-for-app-introduction-edits/"><u>[New] 2024 Approved Premiere Toolkit for App Introduction Edits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leveraging-url-posts-for-maximum-impact-on-insta-storypost/"><u>[Updated] 2024 Approved Leveraging URL Posts for Maximum Impact on Insta Story/Post</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-professional-captions-with-top-online-aids-and-platforms/"><u>2024 Approved Crafting Professional Captions with Top Online Aids and Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-retro-remake-applying-modern-filters-on-previous-media-posts/"><u>2024 Approved Retro Remake Applying Modern Filters on Previous Media Posts</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/decoding-intermittent-system-hiccups-expert-tips-for-unexpected-computer-lock-ups-by-yl-tech-solutions/"><u>Decoding Intermittent System Hiccups: Expert Tips for Unexpected Computer Lock-Ups by YL Tech Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-find-the-newest-driver-for-your-audio-device-tips-from-yl-technologies/"><u>How to Find the Newest Driver for Your Audio Device: Tips From YL Technologies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-pro-photography-mastery-of-leading-lines/"><u>In 2024, IPhone Pro Photography Mastery of Leading Lines</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-life-experiences-into-engaging-yt-videos/"><u>In 2024, Transforming Life Experiences Into Engaging YT Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-gopros-time-lapse-potential-for-2024/"><u>Navigating Through GoPro's Time-Lapse Potential for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/premium-jaguar-f-type-desktop-backgrounds-by-yl-computing-official-digital-art/"><u>Premium Jaguar F-TYPE Desktop Backgrounds by YL Computing - Official Digital Art</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/solving-your-pcs-audio-problems-how-to-fix-a-distorted-or-noiseless-sound-card-with-guidance-from-yl-software/"><u>Solving Your PC’s Audio Problems: How to Fix a Distorted or Noiseless Sound Card with Guidance From YL Software</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/stunning-star-wars-wallpaper-gallery-for-pcmac-download-free-hd-images-and-photos-from-yl-software/"><u>Stunning Star Wars Wallpaper Gallery for PC/Mac – Download Free HD Images & Photos From YL Software</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/trouble-with-your-scanners-network-link-discover-key-fixes-by-yl-software-experts/"><u>Trouble With Your Scanner's Network Link? Discover Key Fixes by YL Software Experts</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/unraveling-the-mystery-behind-your-screens-darkness-a-guide-by-yl-computing/"><u>Unraveling the Mystery Behind Your Screen's Darkness: A Guide by YL Computing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/xbox-one-dvd-compatibility-can-you-watch-movies-on-this-console/"><u>Xbox One DVD Compatibility: Can You Watch Movies on This Console?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-designing-eye-catching-instagram-post-previews/"><u>[New] In 2024, Designing Eye-Catching Instagram Post Previews</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-turning-youtube-shorts-into-a-money-machine-essentials-and-earnings-prospects/"><u>[New] Turning YouTube Shorts Into a Money Machine Essentials and Earnings Prospects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crayoncraft-in-depth-analysis-and-handbook-2024/"><u>[Updated] CrayonCraft In-Depth Analysis & Handbook 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-new-to-vector-art-dive-into-basics-forms-and-software/"><u>[Updated] New to Vector Art? Dive Into Basics, Forms, and Software</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-resolving-brief-issues-effective-strategies-for-quickly-addressing-itunes-glitches/"><u>1. Resolving Brief Issues: Effective Strategies for Quickly Addressing iTunes Glitches</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/acer-erecovery/"><u>Acer eRecovery 開始失敗の問題解決:ステップバイステップガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diys-new-era-dawns-with-gpt-4-advancements/"><u>DIY's New Era Dawns With GPT-4 Advancements</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-apple-m1-pro-vs-m1-max-whats-the-difference/"><u>In 2024, Apple M1 Pro Vs. M1 Max What's the Difference?</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/in-depth-lazesoft-data-recovery-software-analysis/"><u>In-Depth Lazesoft Data Recovery Software Analysis</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/losungsansatze-fur-die-reparatur-von-hartnackigen-303-hard-disk-errors-im-modell-quick-1/"><u>Lösungsansätze Für Die Reparatur Von Hartnäckigen 303 Hard Disk Errors Im Modell Quick 1</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadget-knowledge-toms-authoritative-hardware-guides/"><u>Mastering Gadget Knowledge: Tom's Authoritative Hardware Guides</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/original-visual-documentation-evaluation-and-alternatives/"><u>Original Visual Documentation Evaluation & Alternatives</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/resolving-the-cannot-add-mp3-files-to-your-itunes-library-a-three-step-guide/"><u>Resolving the 'Cannot Add MP3 Files to Your iTunes Library': A Three-Step Guide</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/sandisk-ssd202/"><u>SanDisk SSDデータ転送手段を安全かつ無料で202ˈ年にオプティマライズ!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/section-amoeba/"><u>Section Amoeba</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-5-simple-methods-for-securely-backing-up-your-iphone-contacts/"><u>Top 5 Simple Methods for Securely Backing Up Your iPhone Contacts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-power-kits-for-gopro-hero5-official-and-alternate-partners/"><u>Ultimate Power Kits for GoPro Hero5 Official & Alternate Partners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/windows-11-sfc-dism/"><u>Windows 11修复方法：绕过 SFC 和 DISM 的替代解决方案</u></a></li>
 </ul></div>
 
