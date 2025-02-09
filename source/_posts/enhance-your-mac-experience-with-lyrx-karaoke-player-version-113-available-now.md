@@ -1,7 +1,7 @@
 ---
 title: Enhance Your MAC Experience with LYRX Karaoke Player Version 1.1.3 - Available Now!
-date: 2025-01-26T12:51:03.245Z
-updated: 2025-01-27T02:41:49.368Z
+date: 2025-02-04T04:13:24.625Z
+updated: 2025-02-09T07:55:03.888Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NEW AND CHANGED IN LYRX 1.1.3
@@ -51,7 +51,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 _**NOTE:** With your existing version of LYRX closed, download and install version 1.1.3 to update now_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The Party Tyme Karaoke Subscription Works In LYRX
@@ -59,7 +59,7 @@ _**NOTE:** With your existing version of LYRX closed, download and install versi
 _Have questions about our **top karaoke software for MAC** and the new features found in LYRX 1.1.3? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,17 +81,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrxv113-now-available.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-transform-your-footage-a-complete-youtube-studio-editing-course/"><u>[New] In 2024, Transform Your Footage A Complete YouTube Studio Editing Course</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-average-to-spectacular-mastering-dynamic-range-portraits-for-2024/"><u>[Updated] From Average to Spectacular Mastering Dynamic Range Portraits for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-sharing-tweets-via-vids-on-whatsapp-now/"><u>[Updated] In 2024, Sharing Tweets via Vids on WhatsApp Now</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-boost-your-social-interaction-skills-with-these-simple-snapchat-steps/"><u>2024 Approved Boost Your Social Interaction Skills with These Simple Snapchat Steps</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/8-solutions-ai-open-source-top-picks-pour-la-reconstruction-de-cles-photo-classiques/"><u>8 Solutions AI Open Source Top Picks Pour La Reconstruction De Clés Photo Classiques</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/battle-for-best-comprehensive-review-of-winx-dvd-ripper-vs-handbrake-in-free-dvd-ripping-performance/"><u>Battle for Best: Comprehensive Review of WinX DVD Ripper Vs. HandBrake in Free DVD Ripping Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-romance-chatgpts-role-in-dating/"><u>Crafting Romance: ChatGPT's Role in Dating</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/easy-steps-for-transforming-your-vhs-collection-into-digital-dvd-format/"><u>Easy Steps for Transforming Your VHS Collection Into Digital DVD Format</u></a></li>
-<li><a href="https://win11.techidaily.com/minimize-pc-load-tips-for-managing-multimedia-tasks-on-windows/"><u>Minimize PC Load: Tips for Managing Multimedia Tasks on Windows</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-converting-your-vlc-videos-into-high-quality-mp3-files/"><u>Step-by-Step Guide: Converting Your VLC Videos Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transferring-dvd-content-to-a-usb-flash-drive-on-pc-and-mac-platforms/"><u>Transferring DVD Content to a USB Flash Drive on PC and Mac Platforms</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/troubleshooting-overheat-problems-expert-advice-from-yl-computings-latest-guide/"><u>Troubleshooting Overheat Problems: Expert Advice From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-classic-collection-finding-yesteryears-social-media-gems/"><u>[New] Classic Collection Finding Yesteryear's Social Media Gems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-reviewing-bandicams-effectiveness-in-professional-video-editing/"><u>[New] In 2024, Reviewing Bandicam's Effectiveness in Professional Video Editing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-dynamicvidxp-reviews-and-rating-for-2024/"><u>[Updated] DynamicVidXP Reviews and Rating for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-savory-showlines-top-30-engaging-recipe-broadcast-names/"><u>[Updated] Savory Showlines Top 30 Engaging Recipe Broadcast Names</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-iphone-16-vs-iphone-15-key-factors-for-your-next-upgrade-on-techradar/"><u>Apple iPhone 16 Vs. IPhone 15: Key Factors for Your Next Upgrade on TechRadar</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/boost-your-pcs-efficiency-top-tips-and-strategies-expert-advice-by-yl-computing/"><u>Boost Your PC's Efficiency: Top Tips & Strategies - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-iphone-apps-uncover-strategies-for-finding-them-again/"><u>Missing iPhone Apps? Uncover Strategies for Finding Them Again</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/professional-weightlifter-themes-for-your-screen-premium-backgrounds-and-images-by-yl-computing/"><u>Professional Weightlifter Themes for Your Screen - Premium Backgrounds & Images by YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-fixing-damaged-hard-drives-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Fixing Damaged Hard Drives - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/step-by-step-guide-restarting-internet-explorer-when-it-crashes-or-fails/"><u>Step-by-Step Guide: Restarting Internet Explorer When It Crashes or Fails</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/understanding-file-compatibility-which-formats-work-with-windows-explore-by-yl-computing/"><u>Understanding File Compatibility: Which Formats Work with Windows - Explore by YL Computing</u></a></li>
 </ul></div>
 

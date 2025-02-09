@@ -1,7 +1,7 @@
 ---
 title: "Top DJ Charts of the Past: A Look Back at Purely Silk's Best Moments in 2018"
-date: 2025-01-26T07:00:58.984Z
-updated: 2025-01-27T08:03:19.050Z
+date: 2025-02-02T18:56:16.387Z
+updated: 2025-02-09T11:26:22.642Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2018 PCDJ Milestones
@@ -56,7 +56,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 Stay tuned in for an upcoming blog post that will cover some of our goals for 2019, and beyond!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,19 +78,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/12/pcdj-2018-yearinreview.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-filmmakers-handbook-for-uav-operations/"><u>[New] In 2024, The Filmmaker's Handbook for UAV Operations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-complete-testimonials-of-gecatas-recorder/"><u>[Updated] Complete Testimonials of Gecata's Recorder</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discords-broadcasting-features-unveiled-a-step-by-step-guide/"><u>[Updated] Discord's Broadcasting Features Unveiled A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mini-marvels-ultimate-game-hunt/"><u>2024 Approved Mini Marvels' Ultimate Game Hunt</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-securing-elite-photos-online-with-no-expense-incurred/"><u>2024 Approved Securing Elite Photos Online With No Expense Incurred</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/macx-mediatrans-itunes-mac/"><u>新型 MacX MediaTransが登場! ITunes に匹敵する性能で、Macユーザーのための最速変換・転送ソリューション</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/comprehensive-guide-to-the-apple-tv-4k-streaming-box/"><u>Comprehensive Guide to the Apple TV 4K Streaming Box</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/die-erfolgreichsten-formatstrategien-von-youtube-videos-expertenrat-zur-inhaltskonvertierung/"><u>Die Erfolgreichsten Formatstrategien Von YouTube Videos: Expertenrat Zur Inhaltskonvertierung</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-the-ultimate-bargain-get-apple-airtags-for-24-less-per-pack-during-walmarts-labor-day-sale-featured-by-zdnet/"><u>Experience the Ultimate Bargain: Get Apple AirTags for $24 Less per Pack During Walmart’s Labor Day Sale, Featured by ZDNET!</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/seasonal-dvd-merchandise-macxdvds-exclusive-holiday-affiliate-promotions-save-up-to-75/"><u>Seasonal DVD Merchandise: MacXDVD's Exclusive Holiday Affiliate Promotions, Save up to 75%</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-to-creating-safe-copies-of-disneys-encrypted-dvd-films/"><u>Step-by-Step Guide to Creating Safe Copies of Disney's Encrypted DVD Films</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-limit-microsoft-edge-processes/"><u>Strategies to Limit Microsoft Edge Processes</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/support-for-multiple-digital-coins-on-yl-software-platform-how-broad-is-the-coverage/"><u>Support for Multiple Digital Coins on YL Software Platform - How Broad Is the Coverage?</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/troubleshooting-youtubes-dark-screenblack-box-issue-solutions-for-uninterrupted-viewing/"><u>Troubleshooting YouTube's Dark Screen/Black Box Issue - Solutions for Uninterrupted Viewing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-enhance-your-feed-instagram-image-tutorial-for-2024/"><u>[New] Enhance Your Feed Instagram Image Tutorial for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-mastering-the-art-of-crypto-ownership-insights-from-yl-computings-expertise/"><u>1. Mastering the Art of Crypto Ownership: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-tweaking-your-graphics-card-options-with-ease-discover-tips-from-yl-computing/"><u>1. Ultimate Guide: Tweaking Your Graphics Card Options with Ease - Discover Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-what-every-youtuber-should-know-about-live-thumbnails/"><u>2024 Approved What Every YouTuber Should Know About Live Thumbnails</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/are-you-fully-secured-with-just-windows-defender-explore-alternatives-with-yl-computing/"><u>Are You Fully Secured With Just Windows Defender? Explore Alternatives with YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-enhancements-in-canons-t7-dslr/"><u>Exploring the Enhancements in Canon's T7 DSLR</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-fix-a-malfunctioning-cpu-fan-essential-tips-from-yl-computing/"><u>How to Fix a Malfunctioning CPU Fan: Essential Tips From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-non-responsive-battlenet-launcher-on-windows-pcs/"><u>How to Resolve Non-Responsive Battle.net Launcher on Windows PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-zte-axon-40-lite-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unlocking-the-world-of-sound-on-ios-apple-point-and-click-guide/"><u>In 2024, Unlocking the World of Sound on iOS Apple' Point-and-Click Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/recover-lost-desktop-images-for-windows-11-users-step-by-step-troubleshooting/"><u>Recover Lost Desktop Images for Windows 11 Users – Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/resolving-scanning-issues-effective-ways-to-fix-errors-with-your-scanner-yl-computings-guide/"><u>Resolving Scanning Issues: Effective Ways to Fix Errors with Your Scanner - YL Computing's Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-chatgpt-journey-top-9-key-plugin-integrations/"><u>Transform Your ChatGPT Journey: Top 9 Key Plugin Integrations</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/troubleshooting-low-quality-scan-results-tips-and-solutions-from-yl-computing/"><u>Troubleshooting Low-Quality Scan Results: Tips & Solutions From YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/troubleshooting-tips-how-to-fix-a-non-booting-pc-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: How to Fix a Non-Booting PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/video-card-driver-solutions-expert-troubleshooting-tips-from-yl-computing/"><u>Video Card Driver Solutions: Expert Troubleshooting Tips From YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/yl-software-explained-easy-methods-to-refresh-your-video-cards-drivers/"><u>YL Software Explained: Easy Methods to Refresh Your Video Card's Drivers</u></a></li>
 </ul></div>
 
