@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils DEX 3.4 Download - Latest Update Now Available!
-date: 2025-02-04T20:01:44.048Z
-updated: 2025-02-08T16:33:45.553Z
+date: 2025-02-15T06:42:49.109Z
+updated: 2025-02-18T22:35:55.124Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,24 +93,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[New] In 2024, How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-wisdom-strategies-that-score-big-for-2024/"><u>[New] Instagram Video Wisdom Strategies That Score Big for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-easy-steps-to-activatedisable-video-multitasking-on-devices/"><u>[Updated] 2024 Approved Easy Steps to Activate/Disable Video Multitasking on Devices</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/creating-outstanding-content-with-movavi-iphone-and-ipad-user-guide/"><u>Creating Outstanding Content with Movavi - iPhone & iPad User Guide</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/download-and-convert-your-video-subtitles-for-free-on-17-cele-mai-bune-platform-powered-by-movavi/"><u>Download and Convert Your Video Subtitles for Free on 17 Cele Mai Bune Platform Powered by Movavi</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/download-gratuito-converter-de-video-wmv-para-flv-online-pelo-site-da-moovavi/"><u>Download Gratuito: Converter De Vídeo WMV Para FLV Online Pelo Site Da Moovavi</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/dvdmovavi-dvd-burning-guide-with-movavi-software/"><u>DVD記録プログラム『MOVAVI』の使い方 - DVD Burning Guide with Movavi Software</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/gratis-convertir-audio-mp3-en-video-vob-con-la-herramienta-online-de-movavi/"><u>Gratis Convertir Audio MP3 en Video VOB Con La Herramienta Online De Movavi</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/gratis-mov-to-mjpeg-converter-online-vervangen-met-moveavi/"><u>Gratis MOV-to-MJPEG Converter Online - Vervangen Met Moveavi</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/gratuit-online-vervanging-pef-naar-jpeg-volwassenheid-met-movavi/"><u>Gratuit Online Vervanging PEF Naar JPEG: Volwassenheid Met Movavi</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/guide-complet-comment-convertir-facilement-un-fichier-m4r-au-format-mp3-sans-frais-a-laide-de-movavi/"><u>Guide Complet : Comment Convertir Facilement Un Fichier M4R Au Format MP3 Sans Frais À L'aide De Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel 8 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-google-pixel-8-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Google Pixel 8 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-filter-application-guide-tips-and-tricks/"><u>Instagram Filter Application Guide - Tips & Tricks</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-itel-p55-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Itel P55? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-leading-rp20n040-microcontroller-boards/"><u>The Ultimate List of Leading RP20n040 Microcontroller Boards</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/top-free-download-websites-for-creative-gifs-and-memes/"><u>Top Free Download Websites for Creative GIFs and Memes</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/trasforma-facilmente-il-tuo-contenuto-mpeg-in-mp4-senza-costi-utilizzando-il-servizio-di-movavi-metodo-dettagliato/"><u>Trasforma Facilmente Il Tuo Contenuto MPEG in MP4 Senza Costi Utilizzando Il Servizio Di Movavi: Metodo Dettagliato</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-effortless-guide-how-to-automate-recording-of-your-google-gatherings-for-2024/"><u>[New] Effortless Guide How to Automate Recording of Your Google Gatherings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>[New] The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos-for-2024/"><u>[Updated] Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/como-realizar-la-migracion-de-windows-11-a-un-disco-ssd-nvme-pasos-completos-y-faciles/"><u>Cómo Realizar La Migración De Windows 11 a Un Disco SSD NVMe: Pasos Completos Y Fáciles</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/cryptocurrency-price-snapshot-btc-eth-and-more-on-1027-comprehensive-update-by-yl-computing/"><u>Cryptocurrency Price Snapshot - BTC, ETH & More on 10/27 - Comprehensive Update by YL Computing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dealing-with-a-non-responsive-trackpad-fixes-and-insights-by-yl-software/"><u>Dealing with a Non-Responsive Trackpad: Fixes and Insights by YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-the-premier-dual-purpose-device-that-boosts-productivity-the-offices-secret-weapon/"><u>Discovering the Premier Dual-Purpose Device That Boosts Productivity: The Office's Secret Weapon!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/download-high-quality-ford-endeavour-backgrounds-exclusive-yl-computing-imagery-and-software-solutions/"><u>Download High-Quality Ford Endeavour Backgrounds - Exclusive YL Computing Imagery & Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-when-your-system-cant-find-d3dx933dll/"><u>Effective Fixes for When Your System Can’t Find d3dx9_33.dll</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/exploring-the-consequences-the-transformative-influence-of-the-first-sino-japanese-war-insights-from-yl-computing-and-yl-software/"><u>Exploring the Consequences: The Transformative Influence of the First Sino-Japanese War - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722898546325-modernizing-the-papacy-understanding-pope-franciss-approach-to-using-email/"><u>Modernizing the Papacy? Understanding Pope Francis's Approach to Using Email.</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/premium-jaguar-f-type-desktop-backgrounds-by-yl-computing-official-digital-art/"><u>Premium Jaguar F-TYPE Desktop Backgrounds by YL Computing - Official Digital Art</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/rotate-videos-for-instagram-a-guide-for-desktop-and-mobile-users-alke-for-2024/"><u>Rotate Videos for Instagram A Guide for Desktop and Mobile Users Alke for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/solving-your-pcs-audio-problems-how-to-fix-a-distorted-or-noiseless-sound-card-with-guidance-from-yl-software/"><u>Solving Your PC’s Audio Problems: How to Fix a Distorted or Noiseless Sound Card with Guidance From YL Software</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-removing-password-strength-requirements-on-vmware-vcenter/"><u>Step-by-Step Guide to Removing Password Strength Requirements on VMware vCenter</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/stunning-star-wars-wallpaper-gallery-for-pcmac-download-free-hd-images-and-photos-from-yl-software/"><u>Stunning Star Wars Wallpaper Gallery for PC/Mac – Download Free HD Images & Photos From YL Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-best-ios-video-editors-free-tips-and-guides-for-2024/"><u>Top 3 Best iOS Video Editors FREE Tips & Guides for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/trouble-with-your-scanners-network-link-discover-key-fixes-by-yl-software-experts/"><u>Trouble With Your Scanner's Network Link? Discover Key Fixes by YL Software Experts</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/unraveling-the-mystery-behind-your-screens-darkness-a-guide-by-yl-computing/"><u>Unraveling the Mystery Behind Your Screen's Darkness: A Guide by YL Computing</u></a></li>
 </ul></div>
 
