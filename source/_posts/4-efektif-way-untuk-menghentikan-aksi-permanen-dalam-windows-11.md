@@ -1,7 +1,7 @@
 ---
 title: 4 Efektif Way Untuk Menghentikan Aksi Permanen Dalam Windows 11
-date: 2025-02-12T20:02:43.295Z
-updated: 2025-02-19T06:29:17.403Z
+date: 2025-03-02T16:15:59.274Z
+updated: 2025-03-07T16:19:04.492Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc4408fc0f7550af9263318d9.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
@@ -60,10 +56,6 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
@@ -75,10 +67,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 2\. On the Home screen, you can create a backup task by clicking **Define Backup Wizard** or **Run or Manage Backups**. Here we choose the latter one.
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
 
@@ -108,10 +96,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 On **Recover My Computer** screen, find and choose the right system restore point and click **Recover Now** to make it.
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
@@ -144,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -158,17 +138,9 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
@@ -241,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -276,10 +240,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -298,18 +258,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-captioning-for-success-instagram-videos-edition-for-2024/"><u>[New] Captioning for Success Instagram Videos Edition for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/irrorless-evolution-overshadowing-traditional-dslr-videography-for-2024/"><u>[New] Mirrorless Evolution Overshadowing Traditional DSLR Videography for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-melody-makers-best-places-for-free-skype-ringtones/"><u>[Updated] In 2024, Melody Makers Best Places for Free Skype Ringtones</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-match-up-with-moguls-six-questions-to-identify-youtubers-for-2024/"><u>[Updated] Match Up With Moguls Six Questions to Identify YouTubers for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/do-i-have-to-restart-my-scanner-post-setup-for-optimal-performance-insights-from-yl-computing/"><u>Do I Have To Restart My Scanner Post-Setup For Optimal Performance? Insights From YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/enhancing-your-pcs-performance-key-hardware-upgrades-recommended-by-yl-computing/"><u>Enhancing Your PC's Performance: Key Hardware Upgrades Recommended by YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/high-quality-imperial-fleet-wallpapers-and-desktop-backgrounds-by-yl-software-yl-computing/"><u>High-Quality Imperial Fleet Wallpapers & Desktop Backgrounds by YL Software - YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-g24-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto G24 for Free? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/movaviraf/"><u>Movavi提�지緣：優閒線上免費RAF更換解決方案</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-ai-security-rewards-at-openai-eligibility-and-enrollment-tips/"><u>Navigating the World of AI Security Rewards at OpenAI: Eligibility and Enrollment Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-ea-rising-prices-ended-my-subscription/"><u>No More EA: Rising Prices Ended My Subscription</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/ram-issues-diagnosis-and-solutions-a-comprehensive-guide-yl-computing/"><u>RAM Issues Diagnosis & Solutions: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/tackling-overheating-issues-a-deeper-look-at-high-temperature-readings-on-graphics-cards-with-yl-software/"><u>Tackling Overheating Issues: A Deeper Look at High Temperature Readings on Graphics Cards with YL Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-2023s-best-mobile-emulators-top-choices-for-your-classic-psp-adventures/"><u>[New] 2024 Approved 2023'S Best Mobile Emulators Top Choices for Your Classic PSP Adventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerated-learning-for-chromakey-artistry/"><u>[New] 2024 Approved Accelerated Learning for Chromakey Artistry</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-deciphering-the-best-of-gopro-max-360-vs-hero-11-pro-camera-comparison/"><u>[Updated] In 2024, Deciphering the Best of GoPro Max 360 vs Hero 11 Pro Camera Comparison</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-slug-lines-for-content-engagement/"><u>[Updated] Leveraging Slug Lines for Content Engagement</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dvd-shrink-2023/"><u>「DVD Shrink 2023年リリース：日本語対応公開！インストールガイド詳細に。</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-2024dvdtop5/"><u>1. 最新オススメ！2024年無料で使える高画質DVD書き戻しプログラムTOP5</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-a-guide-to-navigating-posting-on-altered-instagram-landscape/"><u>2024 Approved A Guide to Navigating Posting on Altered Instagram Landscape</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth/"><u>2024 Approved Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-cutting-edge-cost-free-after-effects-packages/"><u>2024 Approved Cutting-Edge, Cost-Free After Effects Packages</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premiere-pro-starter-pack-2023-edition-free/"><u>2024 Approved Premiere Pro Starter Pack - 2023 Edition (Free)</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/accelerate-your-pc-with-these-expert-tips-for-expanding-free-space-on-your-hard-drive-guided-by-yl-software-experts/"><u>Accelerate Your PC with These Expert Tips for Expanding Free Space on Your Hard Drive - Guided by YL Software Experts</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/best-free-speedy-gpu-video-conversion-tool-compatible-with-nvidia-and-amd-cards/"><u>Best FREE Speedy GPU Video Conversion Tool Compatible with NVIDIA and AMD Cards</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-fix-incorrect-prints-expert-advice-from-yl-computings-print-solutions/"><u>How to Fix Incorrect Prints: Expert Advice From YL Computing's Print Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-xcover-7-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy XCover 7 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>In 2024, LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mastering-cryptocurrency-risk-management-insights-and-tools-by-yl-computings-experts-secure-your-digital-assets/"><u>Mastering Cryptocurrency Risk Management: Insights and Tools by YL Computing's Experts | Secure Your Digital Assets</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/optimize-windows-performance-for-faster-processing-expert-advice-from-yl-software/"><u>Optimize Windows Performance for Faster Processing: Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/the-quickest-methods-for-downloading-images-from-your-iphone-top-6-techniques/"><u>The Quickest Methods for Downloading Images From Your iPhone: Top 6 Techniques</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/understanding-typical-reasons-behind-unsuccessful-data-restoration-a-guide-by-yl-computings-expertise-in-recovering-files/"><u>Understanding Typical Reasons Behind Unsuccessful Data Restoration: A Guide by YL Computing's Expertise in Recovering Files</u></a></li>
 </ul></div>
 
